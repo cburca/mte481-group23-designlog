@@ -290,7 +290,7 @@
       "owner": "m1",
       "approver": null,
       "accepted": null,
-      "start": "2026-09-21",
+      "start": "2026-09-25",
       "due": "2026-09-25",
       "estimate": null,
       "checklist": [],
@@ -316,10 +316,15 @@
           "at": "2026-09-25T12:00:00.000Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-09-25T22:33:17.284Z",
+          "by": "m1",
+          "text": "Changed start date from Sep 21, 2026 to Sep 25, 2026"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T22:33:17.284Z",
       "id": "G23-7",
       "title": "Set up design log and tracker"
     },
