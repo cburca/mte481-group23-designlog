@@ -61,13 +61,19 @@
   if (form) {
     form.addEventListener("submit", async function (e) {
       e.preventDefault();
-      var value = document.getElementById("gate-input").value || "";
-      var hash = await sha256Hex(value);
-      if (hash === PASSCODE_HASH) {
-        sessionStorage.setItem(STORAGE_KEY, "1");
-        error.hidden = true;
-        unlock();
-      } else {
+      try {
+        var value = (document.getElementById("gate-input").value || "").trim();
+        var hash = await sha256Hex(value);
+        if (hash === PASSCODE_HASH) {
+          sessionStorage.setItem(STORAGE_KEY, "1");
+          error.hidden = true;
+          unlock();
+        } else {
+          error.hidden = false;
+        }
+      } catch (err) {
+        console.error("Gate check failed:", err);
+        error.textContent = "Something went wrong checking the passcode — see the browser console.";
         error.hidden = false;
       }
     });
