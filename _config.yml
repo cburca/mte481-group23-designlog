@@ -1,0 +1,36 @@
+title: "Group 23 — Design Log"
+description: "MTE 481/482 Mechatronics Engineering Capstone, University of Waterloo"
+university: "University of Waterloo"
+course: "MTE 481 / MTE 482"
+group_number: "23"
+
+# IMPORTANT: this must be "/<your-repo-name>" (with leading slash, no trailing slash)
+# so links work when GitHub serves the site at https://<user>.github.io/<repo-name>/
+# If you rename the repo, update this line to match. See README.md.
+baseurl: "/mte481-group23-designlog"
+url: ""
+
+collections:
+  log:
+    output: true
+    permalink: /log/:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "log"
+    values:
+      layout: "entry"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - LICENSE.txt
+  - .gitignore

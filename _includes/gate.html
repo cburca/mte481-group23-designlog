@@ -1,0 +1,14 @@
+<div id="access-gate" class="gate" hidden>
+  <div class="gate__panel">
+    <p class="gate__eyebrow-free">Group 23 · Design Log</p>
+    <h1 class="gate__title">This log is shared by link only</h1>
+    <p class="gate__body">Enter the passcode your team shared with you. Teammates and instructors: check the group's LEARN dropbox submission or ask a group member if you don't have it.</p>
+    <form id="gate-form" class="gate__form" autocomplete="off">
+      <label for="gate-input" class="sr-only">Passcode</label>
+      <input id="gate-input" name="passcode" type="password" inputmode="text" placeholder="Passcode" autocomplete="off" />
+      <button type="submit">Enter</button>
+    </form>
+    <p id="gate-error" class="gate__error" hidden>That passcode isn't right — try again.</p>
+    <p class="gate__fine-print">Note for the team: this screen is a light deterrent, not real security — see README.md for how to make this repository genuinely private on GitHub.</p>
+  </div>
+</div>
