@@ -20,6 +20,11 @@
  *   crypto.subtle.digest('SHA-256', new TextEncoder().encode('your-new-code'))
  *     .then(b => console.log([...new Uint8Array(b)].map(x => x.toString(16).padStart(2,'0')).join('')))
  * ) and paste the result below as PASSCODE_HASH.
+ *
+ * IMPLEMENTATION NOTE: on a correct passcode this deletes the gate element
+ * from the page outright (gate.remove()) rather than hiding it with CSS.
+ * That's deliberate — a hide/show toggle can be fought by a stylesheet rule
+ * with equal-or-higher priority; deleting the element can't be.
  */
 (function () {
   // Default passcode is "mte481-group23" — change this before sharing the link.
@@ -30,18 +35,6 @@
   var body = document.body;
   if (!gate) return;
 
-  function unlock() {
-    body.classList.remove("gate-locked");
-    gate.hidden = true;
-  }
-
-  function lock() {
-    body.classList.add("gate-locked");
-    gate.hidden = false;
-    var input = document.getElementById("gate-input");
-    if (input) input.focus();
-  }
-
   async function sha256Hex(text) {
     var enc = new TextEncoder().encode(text);
     var digest = await crypto.subtle.digest("SHA-256", enc);
@@ -50,32 +43,39 @@
       .join("");
   }
 
+  // Already unlocked earlier this session: remove the gate immediately and
+  // do nothing else.
   if (sessionStorage.getItem(STORAGE_KEY) === "1") {
-    unlock();
-  } else {
-    lock();
+    gate.remove();
+    body.classList.remove("gate-locked");
+    return;
   }
+
+  // Otherwise show the prompt.
+  gate.hidden = false;
+  body.classList.add("gate-locked");
+  var input = document.getElementById("gate-input");
+  if (input) input.focus();
 
   var form = document.getElementById("gate-form");
   var error = document.getElementById("gate-error");
-  if (form) {
-    form.addEventListener("submit", async function (e) {
-      e.preventDefault();
-      try {
-        var value = (document.getElementById("gate-input").value || "").trim();
-        var hash = await sha256Hex(value);
-        if (hash === PASSCODE_HASH) {
-          sessionStorage.setItem(STORAGE_KEY, "1");
-          error.hidden = true;
-          unlock();
-        } else {
-          error.hidden = false;
-        }
-      } catch (err) {
-        console.error("Gate check failed:", err);
-        error.textContent = "Something went wrong checking the passcode — see the browser console.";
+
+  form.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    try {
+      var value = (document.getElementById("gate-input").value || "").trim();
+      var hash = await sha256Hex(value);
+      if (hash === PASSCODE_HASH) {
+        sessionStorage.setItem(STORAGE_KEY, "1");
+        body.classList.remove("gate-locked");
+        gate.remove(); // fully removed from the DOM — nothing left to hide
+      } else {
         error.hidden = false;
       }
-    });
-  }
+    } catch (err) {
+      console.error("Gate check failed:", err);
+      error.textContent = "Something went wrong checking the passcode — open the browser console (F12) for details.";
+      error.hidden = false;
+    }
+  });
 })();
