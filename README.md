@@ -1,120 +1,149 @@
-# Group 23 — MTE 481/482 Design Log
+# G23 Tracker — MTE 481/482 design log
 
-A Jekyll site built to run on GitHub Pages. Read this whole file before you
-push — the access-control section matters, and the due date on this
-assignment is today (Sep 25, 11:59 pm).
+A Jira-style tracker for Group 23's capstone: epics and child tickets, a
+board, a timeline with a swim lane per epic, checklists, comments, owners,
+reporters and approvers, start and due dates, and a work log of who spent
+how long on what.
 
-## 1. Get it onto GitHub (fastest path, ~10 minutes)
+It runs entirely on GitHub Pages. There is no server: all tickets live in one
+file, `data/tracker.json`, which the site reads and writes through the GitHub
+API. **Every change is a git commit**, so the repository history is a complete,
+timestamped audit trail of who changed what. That's useful evidence for the
+design log mark.
 
-1. On GitHub, create a **new repository** named `mte481-group23-designlog`
-   (any name works, but if you pick a different one, update `baseurl` in
-   `_config.yml` to match — see the comment right above it).
-2. For now, it's fine to make it a normal **public** repository — see
-   Section 2 for why, and how to upgrade to a genuinely private one.
-3. Upload everything in this folder to the repo (drag-and-drop on
-   github.com works, or `git init`, `git add .`, `git commit -m "Initial design log"`,
-   `git remote add origin <your repo URL>`, `git push -u origin main`).
-4. In the repo, go to **Settings → Pages**. Under "Build and deployment",
-   set Source to **Deploy from a branch**, branch `main`, folder `/ (root)`.
-   Save.
-5. Wait 1–2 minutes, then your site is live at:
-   `https://<your-github-username-or-org>.github.io/mte481-group23-designlog/`
-6. Submit that link to your group's LEARN dropbox before 11:59 pm.
+---
 
-## 2. Making the site actually private
+## 1. Install (replacing the old site)
 
-GitHub Pages sites are **public by default** — anyone with the URL can view
-them, and public repos can be discovered even without a direct link. You
-asked for something only your 4 group members and instructors can access.
-There are two ways to get there, and they're genuinely different in how
-much protection they give:
+1. Delete everything in the repository **except** the hidden `.git` folder.
+   The old Jekyll files (`_config.yml`, `_layouts/`, `_includes/`, `_log/`,
+   `index.md`, `team.md` and so on) must go, or GitHub will keep building
+   the old site.
+2. Copy in everything from this folder, including the hidden `.nojekyll`
+   file. On macOS press `Cmd+Shift+.` in Finder to see hidden files.
+3. Commit and push:
+   ```
+   git add -A
+   git commit -m "Replace design log with tracker"
+   git push
+   ```
+4. Settings → Pages should still say *Deploy from a branch*, `main`, `/ (root)`.
+   Wait 1–2 minutes, then open the site in a private/incognito window.
 
-### Option A — real access control (recommended)
+**Passcode:** still `mte481-group23`. If you changed it earlier, copy your
+`PASSCODE_HASH` value into `assets/js/gate.js` again, because this folder
+ships the default.
 
-GitHub can restrict a Pages site to only the people you invite as
-collaborators, **but only on a private repository belonging to an account
-with GitHub Pro** (or an organization on GitHub Team/Enterprise). Free
-personal accounts can build Pages from a private repo, but the resulting
-site is still visible to anyone with the link — the "restrict to
-collaborators" toggle itself needs Pro.
+## 2. Give teammates edit access
 
-The good news: University of Waterloo students can get GitHub Pro for free
-through the **GitHub Student Developer Pack**
-(https://education.github.com/pack) — verify with your `@uwaterloo.ca`
-email. It's usually approved within minutes to a day or two.
+Anyone can *view* the board (after the passcode). To *edit*, a person needs
+write access to the repository and a GitHub token.
 
-Once you have Pro:
-1. Make the repository **private** (Settings → General → Danger Zone →
-   Change visibility, or set it private at creation).
-2. Settings → Collaborators and teams → add your 3 teammates and your
-   supervising professors as collaborators.
-3. Settings → Pages → under "Visibility", choose **Private**. Now the
-   site only loads for someone logged into GitHub *and* listed as a
-   collaborator — everyone else gets a 404, link or no link.
+1. The repository owner goes to **Settings → Collaborators → Add people**
+   and invites the other three team members.
+2. Each person creates a token:
+   **github.com → Settings → Developer settings → Personal access tokens →
+   Tokens (classic) → Generate new token (classic)**.
+   Tick the **`repo`** scope and set the expiry to after the term ends.
+   (The Settings page in the tracker has a direct link that pre-fills this.)
+3. Open the tracker → **Settings** → paste the token → **Connect**.
+4. Pick your name under **Who are you?** Add everyone's GitHub username in
+   the Team table and the tracker will recognise people automatically.
+5. Rename "Member 1–4" to your real names in the Team table.
 
-This is the option that actually matches "only these 4 members and the
-professors can access it," so switch to it once your Pro upgrade comes
-through, even if you launch with Option B today to hit the deadline.
+The token is saved only in that browser and is sent only to
+`api.github.com`. Treat it like a password: don't paste it into chats or
+commit it. A classic `repo` token can access all of your repositories, so if
+you prefer a narrower token, a fine-grained token with **Contents: Read and
+write** on this one repository also works, provided GitHub lets you select
+the repository under "Repository access".
 
-### Option B — unlisted, link-only (what's active in this build right now)
+## 3. Privacy options
 
-If Pro isn't approved in time for today's deadline, this repo ships with a
-fallback that gets you *practical* privacy — not real access control, but
-enough that a stranger won't stumble onto it:
+Be clear about what each setup actually protects.
 
-- **`robots.txt`** and a `noindex, nofollow` meta tag on every page tell
-  search engines not to index the site.
-- **A passcode screen** (`assets/js/gate.js`) hides the content behind a
-  simple prompt. The default passcode is `mte481-group23` — **change it**
-  (instructions are in the comment at the top of `gate.js`) and share the
-  new one with your teammates and supervisors directly (e.g. in your LEARN
-  submission note or your weekly meeting), not in a public place.
+### Default: link + passcode (active now)
 
-Be clear-eyed about the limits: the page content ships to the browser
-before the passcode check runs, and the check itself happens in
-JavaScript anyone can read via "View Source" — so this stops casual
-visitors, not a determined one. Don't put anything on this site you
-wouldn't be comfortable with a classmate seeing if they found the link.
-Move to Option A as soon as you can.
+- The passcode screen and `noindex` tags keep casual visitors and search
+  engines out.
+- **Editing is genuinely protected**: only collaborators with a token can
+  change anything.
+- **Viewing is not**: the passcode is checked in the browser, and anyone who
+  knows the URL can open `…/data/tracker.json` directly. Don't put anything
+  in tickets you'd mind a classmate reading.
 
-## 3. Everyday use
+### Private: ticket data only visible to collaborators
 
-### Adding a log entry (any team member)
+GitHub can't restrict who views a Pages site unless you're an organization
+on GitHub Enterprise Cloud. Making the repo private (which needs GitHub Pro
+for a personal account; it's free for students through the
+[GitHub Student Developer Pack](https://education.github.com/pack)) hides the
+code, but **the published site is still public**.
 
-1. Copy `_log/TEMPLATE.md` to a new file in the same folder, named
-   `YYYY-MM-DD-short-title.md` (e.g. `2026-10-02-motor-sizing.md`).
-2. Fill in the front matter (`title`, `author`, `date`, `tags`) and write
-   your entry.
-3. Commit and push (or edit directly in the GitHub web UI — click "Add
-   file" in `_log/`). The site rebuilds automatically in about a minute.
-4. Your entry appears at the top of the [Log](log/) page automatically,
-   sorted by date, with your name attached.
+To make the ticket data itself private:
 
-### Updating team info
+1. Get GitHub Pro via the Student Pack, then make the repository **private**
+   (Settings → General → Danger Zone → Change visibility).
+2. Create a branch named `tracker-data`: on the repo's main page, click the
+   branch dropdown, type `tracker-data` and choose *Create branch from main*.
+3. In `assets/js/config.js`, set `dataBranch: "tracker-data"` and
+   `publicRead: false`. Commit.
+4. Add your instructors as collaborators too, so they can connect with their
+   own token.
 
-Edit `team.md` — replace the four placeholder cards with real names,
-programs, and emails, and confirm your supervisor pair in the table at the
-bottom.
+GitHub Pages only publishes `main`, so the ticket data on `tracker-data`
+never appears on the public site. People without a token see only a
+"Connect GitHub to view" message. The trade-off: instructors need to connect
+with a token to view it themselves. Otherwise you show it to them during
+weekly meetings.
 
-### Filling in the design pages
+## 4. How the team uses it
 
-`problem-definition.md`, `objectives-constraints-criteria.md`,
-`design-alternatives.md`, `decision-matrix.md`, and `timeline.md` all have
-`<!-- EDIT ME -->` comments marking placeholder content to replace as your
-project develops through the term — you don't need all of it filled in on
-day one.
+- **Board**: tickets by status. Drag cards between columns. Toggle *Group
+  by epic* for swim lanes.
+- **Timeline**: one lane per epic, with a bar per child ticket from start to
+  due date. Shows today and the course milestones (link due, PDP, FDP,
+  report). Tickets without dates are marked "no dates".
+- **List**: every ticket in a table grouped by epic.
+- **Work log**: hours per member, per discipline and per week, plus every
+  entry. **Export CSV** for reports. Log time here or on any ticket.
+- **Filters** (top bar): discipline chips (Mechanical, Electrical, Firmware,
+  Software, Project), epic, owner, and search. They apply to every view.
 
-## 4. Local preview (optional)
+**Roles on a ticket:** the *reporter* is whoever created it. The *owner*
+does the work. The *approver* accepts it. When a ticket reaches **Done**,
+only the approver can click **Accept**. Moving it out of Done clears the
+acceptance.
 
-You don't need this to submit — GitHub builds the site for you. If you
-want to preview changes locally before pushing:
+**Log your hours on the ticket you worked on.** That's what makes each
+person's contribution visible, which the course asks the design log to show.
 
-```bash
-gem install bundler jekyll
-bundle init
-echo 'gem "github-pages", group: :jekyll_plugins' >> Gemfile
-bundle install
-bundle exec jekyll serve
+**Concurrent edits:** if two people save at the same moment, the tracker
+re-fetches and re-applies the second change, so nobody's work is overwritten.
+Other people's changes appear when you come back to the tab or click
+**Refresh**.
+
+## 5. Customizing
+
+- **Disciplines, colors and course milestones** are in `data/tracker.json`
+  (`disciplines` and `milestones`). Edit the file on GitHub, keep the JSON
+  valid, and reload. The "Project" discipline covers course deliverables
+  such as the PDP and report. Rename or remove it if you prefer.
+- **Placeholder tickets:** the course-deliverable tickets use real MTE 481
+  dates. The four "Define … requirements" tickets are placeholders. Edit or
+  delete them once your problem statement is set.
+- **Backup:** Settings → *Download tracker.json*. You can also restore any
+  earlier version from the repository's commit history.
+
+## Files
+
 ```
-
-Then open `http://localhost:4000/mte481-group23-designlog/`.
+index.html            page shell
+assets/css/app.css    styles
+assets/js/config.js   repo / branch / privacy settings
+assets/js/gate.js     passcode screen
+assets/js/store.js    GitHub read/write, conflict handling
+assets/js/app.js      board, timeline, list, work log, settings, ticket panel
+data/tracker.json     tickets, team, disciplines, milestones
+.nojekyll             tells GitHub Pages to serve files as-is
+```

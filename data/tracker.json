@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "project": {
+    "key": "G23",
+    "name": "MTE 481 · Group 23"
+  },
+  "nextId": 18,
+  "members": [
+    {
+      "id": "m1",
+      "name": "Member 1",
+      "role": "student",
+      "github": ""
+    },
+    {
+      "id": "m2",
+      "name": "Member 2",
+      "role": "student",
+      "github": ""
+    },
+    {
+      "id": "m3",
+      "name": "Member 3",
+      "role": "student",
+      "github": ""
+    },
+    {
+      "id": "m4",
+      "name": "Member 4",
+      "role": "student",
+      "github": ""
+    },
+    {
+      "id": "p1",
+      "name": "Prof. Baris Fidan",
+      "role": "instructor",
+      "github": ""
+    },
+    {
+      "id": "p2",
+      "name": "Prof. Gennaro Notomista",
+      "role": "instructor",
+      "github": ""
+    }
+  ],
+  "disciplines": [
+    {
+      "id": "mechanical",
+      "name": "Mechanical",
+      "color": "#3d6fb6"
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical",
+      "color": "#c98a12"
+    },
+    {
+      "id": "firmware",
+      "name": "Firmware",
+      "color": "#1f9a8a"
+    },
+    {
+      "id": "software",
+      "name": "Software",
+      "color": "#7a5bc7"
+    },
+    {
+      "id": "project",
+      "name": "Project",
+      "color": "#6b7684"
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-09-25",
+      "name": "Design log link due"
+    },
+    {
+      "date": "2026-10-19",
+      "name": "PDP upload"
+    },
+    {
+      "date": "2026-11-30",
+      "name": "FDP upload"
+    },
+    {
+      "date": "2026-12-08",
+      "name": "Final report due"
+    }
+  ],
+  "tickets": [
+    {
+      "type": "epic",
+      "description": "Course-level deliverables from the MTE 481 schedule: problem formulation, PDP, FDP and final report.",
+      "parent": null,
+      "discipline": "project",
+      "status": "inprogress",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-14",
+      "due": "2026-12-08",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-1",
+      "title": "MTE 481 course deliverables"
+    },
+    {
+      "type": "epic",
+      "description": "",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-28",
+      "due": "2026-11-27",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-2",
+      "title": "Mechanical design"
+    },
+    {
+      "type": "epic",
+      "description": "",
+      "parent": null,
+      "discipline": "electrical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-28",
+      "due": "2026-11-27",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-3",
+      "title": "Electrical design"
+    },
+    {
+      "type": "epic",
+      "description": "",
+      "parent": null,
+      "discipline": "firmware",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-11-27",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-4",
+      "title": "Firmware"
+    },
+    {
+      "type": "epic",
+      "description": "",
+      "parent": null,
+      "discipline": "software",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-11-27",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-5",
+      "title": "Software"
+    },
+    {
+      "type": "task",
+      "description": "Write a solution-neutral need and problem statement. Must cover at least two of the four mechatronics threads.",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "inprogress",
+      "priority": "high",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-21",
+      "due": "2026-09-25",
+      "estimate": null,
+      "checklist": [
+        {
+          "id": "c1",
+          "text": "Draft need statement",
+          "done": true
+        },
+        {
+          "id": "c2",
+          "text": "Draft solution-neutral problem statement",
+          "done": false
+        },
+        {
+          "id": "c3",
+          "text": "Team review",
+          "done": false
+        }
+      ],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-6",
+      "title": "Need and problem statement"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "done",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-21",
+      "due": "2026-09-25",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [
+        {
+          "id": "w1",
+          "member": "m1",
+          "date": "2026-09-25",
+          "hours": 2,
+          "note": "Set up GitHub Pages site and tracker"
+        }
+      ],
+      "comments": [
+        {
+          "id": "k1",
+          "author": "m1",
+          "at": "2026-09-25T12:00:00.000Z",
+          "body": "Tracker is live. Log your hours on the ticket you worked on so it shows up in the Work log view."
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-7",
+      "title": "Set up design log and tracker"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "high",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-28",
+      "due": "2026-10-02",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-8",
+      "title": "Objectives, constraints and criteria"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-09",
+      "estimate": null,
+      "checklist": [
+        {
+          "id": "c1",
+          "text": "Alternative 1",
+          "done": false
+        },
+        {
+          "id": "c2",
+          "text": "Alternative 2",
+          "done": false
+        },
+        {
+          "id": "c3",
+          "text": "Alternative 3",
+          "done": false
+        },
+        {
+          "id": "c4",
+          "text": "Alternative 4",
+          "done": false
+        },
+        {
+          "id": "c5",
+          "text": "Patent 1",
+          "done": false
+        },
+        {
+          "id": "c6",
+          "text": "Patent 2",
+          "done": false
+        },
+        {
+          "id": "c7",
+          "text": "Patent 3",
+          "done": false
+        }
+      ],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-9",
+      "title": "Alternative solutions (4+) and patent search (3+)"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-09",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-10",
+      "title": "Decision matrix and design selection"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "high",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-12",
+      "due": "2026-10-19",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-11",
+      "title": "Preliminary Design Presentation"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "high",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-23",
+      "due": "2026-11-30",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-12",
+      "title": "Final Design Presentation"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-1",
+      "discipline": null,
+      "status": "todo",
+      "priority": "high",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-30",
+      "due": "2026-12-08",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-13",
+      "title": "Final design report"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-2",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-28",
+      "due": "2026-10-09",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-14",
+      "title": "Define mechanical requirements"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-3",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-09-28",
+      "due": "2026-10-09",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-15",
+      "title": "Define electrical requirements and power budget"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-4",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-16",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-16",
+      "title": "Select microcontroller and toolchain"
+    },
+    {
+      "type": "task",
+      "description": "",
+      "parent": "G23-5",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-16",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-09-25T12:00:00.000Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-09-25T12:00:00.000Z",
+      "id": "G23-17",
+      "title": "Define software architecture"
+    }
+  ]
+}
