@@ -30,7 +30,7 @@ design log mark.
 4. Settings → Pages should still say *Deploy from a branch*, `main`, `/ (root)`.
    Wait 1–2 minutes, then open the site in a private/incognito window.
 
-**Passcode:** still `mte481-group23`. If you changed it earlier, copy your
+**Passcode:** Ask Chris Burca for it. If you changed it earlier, copy your
 `PASSCODE_HASH` value into `assets/js/gate.js` again, because this folder
 ships the default.
 
