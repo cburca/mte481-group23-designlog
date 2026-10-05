@@ -666,7 +666,7 @@
     {
       "id": "G23-26",
       "type": "task",
-      "title": "Mechanical Patent",
+      "title": "Patent Review - Mechanical",
       "description": "",
       "parent": "G23-20",
       "discipline": null,
@@ -692,10 +692,15 @@
           "at": "2026-10-05T19:13:58.392Z",
           "by": "m4",
           "text": "Changed approver from none to Geffrey Chu"
+        },
+        {
+          "at": "2026-10-05T19:14:58.570Z",
+          "by": "m4",
+          "text": "Changed title from Mechanical Patent to Patent Review - Mechanical"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-05T19:13:58.392Z"
+      "updated": "2026-10-05T19:14:58.570Z"
     },
     {
       "id": "G23-27",
