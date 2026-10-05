@@ -668,7 +668,7 @@
       "type": "task",
       "title": "Patent Review",
       "description": "Present three patents that may be relevant to the design. Present prior art (i.e. existing patents, papers) and describe how these may affect your design.",
-      "parent": null,
+      "parent": "G23-20",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -687,10 +687,15 @@
           "at": "2026-10-05T19:06:16.114Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:06:36.472Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-20 [EPIC] Preliminary Design Presentation"
         }
       ],
       "created": "2026-10-05T19:06:16.114Z",
-      "updated": "2026-10-05T19:06:16.114Z"
+      "updated": "2026-10-05T19:06:36.472Z"
     }
   ]
 }
