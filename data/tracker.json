@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 31,
+  "nextId": 32,
   "members": [
     {
       "id": "m1",
@@ -777,6 +777,35 @@
       ],
       "created": "2026-10-05T19:26:07.677Z",
       "updated": "2026-10-05T19:26:20.725Z"
+    },
+    {
+      "id": "G23-31",
+      "type": "task",
+      "title": "Patent Review - Firmware",
+      "description": "Link to the patent:\nhttps://patents.google.com/patent/US9902069B2/en",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": "m3",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-19",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T19:26:31.940Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T19:26:31.940Z",
+      "updated": "2026-10-05T19:26:31.940Z"
     }
   ]
 }
