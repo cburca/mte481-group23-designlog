@@ -674,7 +674,7 @@
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
-      "approver": null,
+      "approver": "m4",
       "accepted": null,
       "start": null,
       "due": "2026-10-19",
@@ -687,10 +687,15 @@
           "at": "2026-10-05T19:13:53.260Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:13:58.392Z",
+          "by": "m4",
+          "text": "Changed approver from none to Geffrey Chu"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-05T19:13:53.260Z"
+      "updated": "2026-10-05T19:13:58.392Z"
     }
   ]
 }
