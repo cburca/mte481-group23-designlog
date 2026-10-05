@@ -286,7 +286,7 @@
     {
       "type": "task",
       "description": "",
-      "parent": "G23-1",
+      "parent": "G23-20",
       "discipline": null,
       "status": "todo",
       "priority": "medium",
@@ -341,10 +341,15 @@
           "at": "2026-09-25T12:00:00.000Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:02:15.172Z",
+          "by": "m1",
+          "text": "Changed epic from G23-1 MTE 481 course deliverables to G23-20 [EPIC] Preliminary Design Presentation"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-10-05T19:02:15.172Z",
       "id": "G23-9",
       "title": "Alternative solutions (4+) and patent search (3+)"
     },
