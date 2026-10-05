@@ -705,7 +705,7 @@
     {
       "id": "G23-27",
       "type": "task",
-      "title": "Patent Review - Salt Dispensing",
+      "title": "Patent Review - Salt Dispensing System",
       "description": "",
       "parent": "G23-20",
       "discipline": null,
@@ -726,10 +726,15 @@
           "at": "2026-10-05T19:14:10.329Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:15:21.547Z",
+          "by": "m2",
+          "text": "Changed title from Patent Review - Salt Dispensing to Patent Review - Salt Dispensing System"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-05T19:14:10.329Z"
+      "updated": "2026-10-05T19:15:21.547Z"
     },
     {
       "id": "G23-28",
