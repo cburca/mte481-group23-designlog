@@ -262,7 +262,7 @@
         {
           "id": "c3",
           "text": "Team review",
-          "done": false
+          "done": true
         }
       ],
       "worklog": [],
@@ -277,10 +277,15 @@
           "at": "2026-10-05T18:40:04.245Z",
           "by": "m4",
           "text": "Checked “Draft solution-neutral problem statement”"
+        },
+        {
+          "at": "2026-10-05T18:40:04.999Z",
+          "by": "m4",
+          "text": "Checked “Team review”"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-05T18:40:04.245Z",
+      "updated": "2026-10-05T18:40:04.999Z",
       "id": "G23-6",
       "title": "Need and problem statement"
     },
