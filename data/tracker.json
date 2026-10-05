@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 23,
+  "nextId": 24,
   "members": [
     {
       "id": "m1",
@@ -584,6 +584,35 @@
       ],
       "created": "2026-10-05T19:01:27.108Z",
       "updated": "2026-10-05T19:01:27.108Z"
+    },
+    {
+      "id": "G23-23",
+      "type": "task",
+      "title": "Introduction & Need Identification",
+      "description": "The introduction should provide the background and motivation for the project and a needs statement/assessment.\nMake the audience aware of the pain that is being addressed and articulate it into a clear and well-defined need.",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": 1,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T19:03:49.143Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T19:03:49.143Z",
+      "updated": "2026-10-05T19:03:49.143Z"
     }
   ]
 }
