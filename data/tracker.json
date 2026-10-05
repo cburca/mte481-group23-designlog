@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 20,
+  "nextId": 21,
   "members": [
     {
       "id": "m1",
@@ -521,6 +521,35 @@
       ],
       "created": "2026-10-05T18:41:18.387Z",
       "updated": "2026-10-05T18:41:18.387Z"
+    },
+    {
+      "id": "G23-20",
+      "type": "epic",
+      "title": "[EPIC] Preliminary Design Presentation",
+      "description": "",
+      "parent": null,
+      "discipline": "project",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2026-10-19",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T18:58:16.577Z",
+          "by": "m1",
+          "text": "Created epic"
+        }
+      ],
+      "created": "2026-10-05T18:58:16.577Z",
+      "updated": "2026-10-05T18:58:16.577Z"
     }
   ]
 }
