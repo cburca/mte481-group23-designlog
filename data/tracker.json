@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 19,
+  "nextId": 20,
   "members": [
     {
       "id": "m1",
@@ -697,6 +697,35 @@
       ],
       "created": "2026-10-05T18:40:37.517Z",
       "updated": "2026-10-05T18:40:37.517Z"
+    },
+    {
+      "id": "G23-19",
+      "type": "task",
+      "title": "10/05/26 - Weekly Meeting",
+      "description": "",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": 2,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T18:41:18.387Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T18:41:18.387Z",
+      "updated": "2026-10-05T18:41:18.387Z"
     }
   ]
 }
