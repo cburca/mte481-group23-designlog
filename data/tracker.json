@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 27,
+  "nextId": 28,
   "members": [
     {
       "id": "m1",
@@ -696,6 +696,35 @@
       ],
       "created": "2026-10-05T19:13:53.260Z",
       "updated": "2026-10-05T19:13:58.392Z"
+    },
+    {
+      "id": "G23-27",
+      "type": "task",
+      "title": "Patent Review - Salt Dispensing",
+      "description": "",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m2",
+      "approver": "m2",
+      "accepted": null,
+      "start": null,
+      "due": "2026-10-19",
+      "estimate": 3,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T19:14:10.329Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T19:14:10.329Z",
+      "updated": "2026-10-05T19:14:10.329Z"
     }
   ]
 }
