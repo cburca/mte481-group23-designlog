@@ -502,7 +502,7 @@
       "id": "G23-19",
       "type": "task",
       "title": "10/05/26 - Weekly Meeting",
-      "description": "- Organizing design log and splitting up work for the PDP",
+      "description": "- Organizing design log and splitting up work for the PDP\n- Decided to do Patents based on domain; 1 each (4 total)",
       "parent": "G23-18",
       "discipline": null,
       "status": "todo",
@@ -527,10 +527,15 @@
           "at": "2026-10-05T19:05:44.243Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-05T19:16:24.462Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T18:41:18.387Z",
-      "updated": "2026-10-05T19:05:44.243Z"
+      "updated": "2026-10-05T19:16:24.462Z"
     },
     {
       "id": "G23-20",
