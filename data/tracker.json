@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 32,
+  "nextId": 33,
   "members": [
     {
       "id": "m1",
@@ -806,6 +806,35 @@
       ],
       "created": "2026-10-05T19:26:31.940Z",
       "updated": "2026-10-05T19:26:31.940Z"
+    },
+    {
+      "id": "G23-32",
+      "type": "task",
+      "title": "Alternative Designs  - Ryan McIntyre",
+      "description": "- Chassis\n- Salt dispensing\n- Drive train\n- Systems architecture (vision, sensors, etc.)\n",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m2",
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": "2026-10-19",
+      "estimate": 8,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T20:23:29.234Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T20:23:29.234Z",
+      "updated": "2026-10-05T20:23:29.234Z"
     }
   ]
 }
