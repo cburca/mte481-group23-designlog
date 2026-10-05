@@ -382,40 +382,6 @@
       "description": "",
       "parent": "G23-1",
       "discipline": null,
-      "status": "inprogress",
-      "priority": "high",
-      "reporter": "m1",
-      "owner": null,
-      "approver": null,
-      "accepted": null,
-      "start": "2026-10-12",
-      "due": "2026-10-19",
-      "estimate": null,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-09-25T12:00:00.000Z",
-          "by": "m1",
-          "text": "Created ticket"
-        },
-        {
-          "at": "2026-10-05T18:55:50.141Z",
-          "by": "m1",
-          "text": "Changed status from To do to In progress"
-        }
-      ],
-      "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-05T18:55:50.141Z",
-      "id": "G23-11",
-      "title": "Preliminary Design Presentation"
-    },
-    {
-      "type": "task",
-      "description": "",
-      "parent": "G23-1",
-      "discipline": null,
       "status": "todo",
       "priority": "high",
       "reporter": "m1",
