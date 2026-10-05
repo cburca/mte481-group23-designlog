@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 29,
+  "nextId": 30,
   "members": [
     {
       "id": "m1",
@@ -699,6 +699,35 @@
       ],
       "created": "2026-10-05T19:14:23.547Z",
       "updated": "2026-10-05T19:14:23.547Z"
+    },
+    {
+      "id": "G23-29",
+      "type": "task",
+      "title": "Alternative Solution Exploration",
+      "description": "",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": "m1",
+      "accepted": null,
+      "start": null,
+      "due": "2026-10-19",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T19:18:36.512Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T19:18:36.512Z",
+      "updated": "2026-10-05T19:18:36.512Z"
     }
   ]
 }
