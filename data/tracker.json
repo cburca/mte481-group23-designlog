@@ -599,7 +599,7 @@
       "approver": null,
       "accepted": null,
       "start": null,
-      "due": null,
+      "due": "2026-10-19",
       "estimate": 1,
       "checklist": [],
       "worklog": [],
@@ -609,10 +609,15 @@
           "at": "2026-10-05T19:03:49.143Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:04:03.562Z",
+          "by": "m2",
+          "text": "Changed due date from none to Oct 19, 2026"
         }
       ],
       "created": "2026-10-05T19:03:49.143Z",
-      "updated": "2026-10-05T19:03:49.143Z"
+      "updated": "2026-10-05T19:04:03.562Z"
     }
   ]
 }
