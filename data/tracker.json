@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 18,
+  "nextId": 19,
   "members": [
     {
       "id": "m1",
@@ -663,6 +663,35 @@
       "updated": "2026-09-25T12:00:00.000Z",
       "id": "G23-17",
       "title": "Define software architecture"
+    },
+    {
+      "id": "G23-18",
+      "type": "epic",
+      "title": "MEETING MINUTES",
+      "description": "Epic to contain all team meeting minutes.",
+      "parent": null,
+      "discipline": "project",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-05",
+      "due": "2027-04-30",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T18:40:37.517Z",
+          "by": "m1",
+          "text": "Created epic"
+        }
+      ],
+      "created": "2026-10-05T18:40:37.517Z",
+      "updated": "2026-10-05T18:40:37.517Z"
     }
   ]
 }
