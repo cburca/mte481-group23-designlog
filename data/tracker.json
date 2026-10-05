@@ -754,7 +754,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m4",
-      "owner": null,
+      "owner": "m4",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -768,10 +768,15 @@
           "at": "2026-10-05T19:26:07.677Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:26:20.725Z",
+          "by": "m4",
+          "text": "Changed owner from none to Geffrey Chu"
         }
       ],
       "created": "2026-10-05T19:26:07.677Z",
-      "updated": "2026-10-05T19:26:07.677Z"
+      "updated": "2026-10-05T19:26:20.725Z"
     }
   ]
 }
