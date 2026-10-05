@@ -550,35 +550,6 @@
       ],
       "created": "2026-10-05T18:58:16.577Z",
       "updated": "2026-10-05T18:58:16.577Z"
-    },
-    {
-      "id": "G23-21",
-      "type": "epic",
-      "title": "[EPIC] Preliminary Design Presentation",
-      "description": "",
-      "parent": null,
-      "discipline": "project",
-      "status": "todo",
-      "priority": "medium",
-      "reporter": "m1",
-      "owner": null,
-      "approver": null,
-      "accepted": null,
-      "start": "2026-10-05",
-      "due": "2026-10-19",
-      "estimate": null,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-10-05T19:00:00.538Z",
-          "by": "m1",
-          "text": "Created epic"
-        }
-      ],
-      "created": "2026-10-05T19:00:00.538Z",
-      "updated": "2026-10-05T19:00:00.538Z"
     }
   ]
 }
