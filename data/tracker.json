@@ -510,7 +510,7 @@
       "id": "G23-22",
       "type": "task",
       "title": "PDP Presentation Slides",
-      "description": "",
+      "description": "Was the quality of text/figures/photos/equations good? Were the presenters enthusiastic and interesting? Did they\nspeak clearly and to the audience",
       "parent": "G23-20",
       "discipline": null,
       "status": "todo",
@@ -530,10 +530,15 @@
           "at": "2026-10-05T19:01:27.108Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T19:23:07.299Z",
+          "by": "m2",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T19:01:27.108Z",
-      "updated": "2026-10-05T19:01:27.108Z"
+      "updated": "2026-10-05T19:23:07.299Z"
     },
     {
       "id": "G23-23",
