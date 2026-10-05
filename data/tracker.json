@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 30,
+  "nextId": 31,
   "members": [
     {
       "id": "m1",
@@ -743,6 +743,35 @@
       ],
       "created": "2026-10-05T19:18:36.512Z",
       "updated": "2026-10-05T19:22:59.959Z"
+    },
+    {
+      "id": "G23-30",
+      "type": "task",
+      "title": "Solution research",
+      "description": "",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m4",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": "2026-10-19",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-05T19:26:07.677Z",
+          "by": "m4",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-05T19:26:07.677Z",
+      "updated": "2026-10-05T19:26:07.677Z"
     }
   ]
 }
