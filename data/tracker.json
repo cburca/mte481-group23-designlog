@@ -289,35 +289,6 @@
       "parent": "G23-1",
       "discipline": null,
       "status": "todo",
-      "priority": "high",
-      "reporter": "m1",
-      "owner": null,
-      "approver": null,
-      "accepted": null,
-      "start": "2026-09-28",
-      "due": "2026-10-02",
-      "estimate": null,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-09-25T12:00:00.000Z",
-          "by": "m1",
-          "text": "Created ticket"
-        }
-      ],
-      "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-09-25T12:00:00.000Z",
-      "id": "G23-8",
-      "title": "Objectives, constraints and criteria"
-    },
-    {
-      "type": "task",
-      "description": "",
-      "parent": "G23-1",
-      "discipline": null,
-      "status": "todo",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
