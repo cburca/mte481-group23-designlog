@@ -812,7 +812,7 @@
       "type": "task",
       "title": "Alternative Designs  - Ryan McIntyre",
       "description": "- Chassis\n- Salt dispensing\n- Drive train\n- Systems architecture (vision, sensors, etc.)\n",
-      "parent": null,
+      "parent": "G23-20",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -831,10 +831,15 @@
           "at": "2026-10-05T20:23:29.234Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-05T20:23:44.466Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-20 [EPIC] Preliminary Design Presentation"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-05T20:23:29.234Z"
+      "updated": "2026-10-05T20:23:44.466Z"
     }
   ]
 }
