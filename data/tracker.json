@@ -531,7 +531,7 @@
       "id": "G23-20",
       "type": "epic",
       "title": "[EPIC] Preliminary Design Presentation",
-      "description": "",
+      "description": "Test",
       "parent": null,
       "discipline": "project",
       "status": "todo",
@@ -551,10 +551,15 @@
           "at": "2026-10-05T18:58:16.577Z",
           "by": "m1",
           "text": "Created epic"
+        },
+        {
+          "at": "2026-10-05T19:04:29.346Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T18:58:16.577Z",
-      "updated": "2026-10-05T18:58:16.577Z"
+      "updated": "2026-10-05T19:04:29.346Z"
     },
     {
       "id": "G23-22",
