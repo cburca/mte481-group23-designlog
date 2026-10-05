@@ -239,7 +239,7 @@
       "description": "Write a solution-neutral need and problem statement. Must cover at least two of the four mechatronics threads.",
       "parent": "G23-1",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "high",
       "reporter": "m1",
       "owner": null,
@@ -282,10 +282,15 @@
           "at": "2026-10-05T18:40:04.999Z",
           "by": "m4",
           "text": "Checked “Team review”"
+        },
+        {
+          "at": "2026-10-05T18:40:39.188Z",
+          "by": "m4",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-05T18:40:04.999Z",
+      "updated": "2026-10-05T18:40:39.188Z",
       "id": "G23-6",
       "title": "Need and problem statement"
     },
