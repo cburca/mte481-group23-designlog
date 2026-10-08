@@ -617,7 +617,7 @@
       "id": "G23-26",
       "type": "task",
       "title": "Patent Review - Mechanical",
-      "description": "",
+      "description": "Waterproofing wire harnesses: https://patents.google.com/patent/US11738702B2/en\n",
       "parent": "G23-20",
       "discipline": null,
       "status": "todo",
@@ -647,10 +647,15 @@
           "at": "2026-10-05T19:14:58.570Z",
           "by": "m4",
           "text": "Changed title from Mechanical Patent to Patent Review - Mechanical"
+        },
+        {
+          "at": "2026-10-08T17:52:53.851Z",
+          "by": "m4",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-05T19:14:58.570Z"
+      "updated": "2026-10-08T17:52:53.851Z"
     },
     {
       "id": "G23-27",
