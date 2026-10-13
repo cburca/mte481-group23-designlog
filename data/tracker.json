@@ -742,7 +742,15 @@
       "due": "2026-10-19",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmv6qv1gutyio",
+          "date": "2026-10-13",
+          "hours": 1,
+          "note": "Created my set of proposed design sketches for the PDP design decision matrix",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -759,10 +767,15 @@
           "at": "2026-10-13T12:43:01.331Z",
           "by": "m1",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-10-13T13:56:17.838Z",
+          "by": "m1",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-10-05T19:18:36.512Z",
-      "updated": "2026-10-13T12:43:01.331Z"
+      "updated": "2026-10-13T13:56:17.838Z"
     },
     {
       "id": "G23-30",
