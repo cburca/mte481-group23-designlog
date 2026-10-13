@@ -878,7 +878,7 @@
       "id": "G23-33",
       "type": "task",
       "title": "10/13/26 - Weekly Meeting (Reading Week)",
-      "description": "- Go over each person's design sketches & patent/papers\n- Form a decision matrix and weighted values\n- Delegate who does what for the PDP presentation slides\n\n- Maybe we have ice detection camera + lights underneath the robot to create a more controlled environment",
+      "description": "- Go over each person's design sketches & patent/papers\n- Form a decision matrix and weighted values\n- Delegate who does what for the PDP presentation slides\n\nConsiderations (for decision matrix)\n- Maybe we have ice detection camera + lights underneath the robot to create a more controlled environment \n- Consider a brine solution instead of salt \n- Conveyor dropper\n- Tank tracks for drivetrain",
       "parent": "G23-18",
       "discipline": null,
       "status": "todo",
@@ -908,10 +908,15 @@
           "at": "2026-10-13T15:47:07.364Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-13T15:54:40.199Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-13T15:47:07.364Z"
+      "updated": "2026-10-13T15:54:40.199Z"
     }
   ]
 }
