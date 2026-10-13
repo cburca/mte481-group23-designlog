@@ -698,7 +698,7 @@
       "description": "",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -715,10 +715,15 @@
           "at": "2026-10-05T19:14:23.547Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-13T12:43:09.111Z",
+          "by": "m1",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-05T19:14:23.547Z",
-      "updated": "2026-10-05T19:14:23.547Z"
+      "updated": "2026-10-13T12:43:09.111Z"
     },
     {
       "id": "G23-29",
