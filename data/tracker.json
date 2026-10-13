@@ -878,7 +878,7 @@
       "id": "G23-33",
       "type": "task",
       "title": "10/13/26 - Weekly Meeting (Reading Week)",
-      "description": "",
+      "description": "- Go over each person's design sketches & patent/papers\n- Form a decision matrix and weighted values\n- Delegate who does what for the PDP presentation slides",
       "parent": "G23-18",
       "discipline": null,
       "status": "todo",
@@ -898,10 +898,15 @@
           "at": "2026-10-13T12:20:58.989Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-13T14:34:38.921Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-13T12:20:58.989Z"
+      "updated": "2026-10-13T14:34:38.921Z"
     }
   ]
 }
