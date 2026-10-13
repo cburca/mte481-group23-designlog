@@ -727,7 +727,7 @@
       "description": "- Drivetrain\n- Robot Chassis/System\n- Salt dispensing",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -749,10 +749,15 @@
           "at": "2026-10-05T19:22:59.959Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-13T12:43:01.331Z",
+          "by": "m1",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-05T19:18:36.512Z",
-      "updated": "2026-10-05T19:22:59.959Z"
+      "updated": "2026-10-13T12:43:01.331Z"
     },
     {
       "id": "G23-30",
