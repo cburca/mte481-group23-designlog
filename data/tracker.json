@@ -695,7 +695,7 @@
       "id": "G23-28",
       "type": "task",
       "title": "Autonomy / CV Patent & Paper Review",
-      "description": "",
+      "description": "https://docs.google.com/document/d/1wW8hq8U-MPLMA2kVeN1LDXok6n-TH5ElSgN0-XaPev4/edit?tab=t.0#heading=h.tvsmll7m5v0",
       "parent": "G23-20",
       "discipline": null,
       "status": "inprogress",
@@ -720,10 +720,15 @@
           "at": "2026-10-13T12:43:09.111Z",
           "by": "m1",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-10-13T16:15:22.971Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T19:14:23.547Z",
-      "updated": "2026-10-13T12:43:09.111Z"
+      "updated": "2026-10-13T16:15:22.971Z"
     },
     {
       "id": "G23-29",
