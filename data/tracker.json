@@ -435,7 +435,7 @@
       "description": "- Organizing design log and splitting up work for the PDP\n- Decided to do Patents based on domain; 1 each (4 total)\n- Robot will navigate the bike path along campus (settled that we will target sidewalks)\n- EVERYONE REMEMBER TO LOG HOURS ON TICKETS",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -467,10 +467,15 @@
           "at": "2026-10-05T20:25:00.633Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-14T16:50:19.197Z",
+          "by": "m1",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T18:41:18.387Z",
-      "updated": "2026-10-05T20:25:00.633Z"
+      "updated": "2026-10-14T16:50:19.197Z"
     },
     {
       "id": "G23-20",
