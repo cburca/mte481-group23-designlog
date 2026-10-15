@@ -857,7 +857,15 @@
       "due": "2026-10-19",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmv90betjwzpk",
+          "date": "2026-10-14",
+          "hours": 1,
+          "note": "Created sketches",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -884,10 +892,15 @@
           "at": "2026-10-15T03:55:32.069Z",
           "by": "m4",
           "text": "Changed status from In review to Done"
+        },
+        {
+          "at": "2026-10-15T03:56:30.535Z",
+          "by": "m4",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-10-05T19:26:07.677Z",
-      "updated": "2026-10-15T03:55:32.069Z"
+      "updated": "2026-10-15T03:56:30.535Z"
     },
     {
       "id": "G23-31",
