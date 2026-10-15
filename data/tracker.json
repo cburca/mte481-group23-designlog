@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 36,
+  "nextId": 37,
   "members": [
     {
       "id": "m1",
@@ -1149,6 +1149,35 @@
       ],
       "created": "2026-10-15T03:54:29.716Z",
       "updated": "2026-10-15T03:57:32.891Z"
+    },
+    {
+      "id": "G23-36",
+      "type": "task",
+      "title": "10/15/26 - Weekly Meeting (Reading Week)",
+      "description": "- Go over each person's decision matrix\n- Create one main matrix\n- ",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-15T14:13:09.986Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-15T14:13:09.986Z",
+      "updated": "2026-10-15T14:13:09.986Z"
     }
   ]
 }
