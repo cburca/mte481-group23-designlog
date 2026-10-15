@@ -1154,7 +1154,7 @@
       "id": "G23-36",
       "type": "task",
       "title": "10/15/26 - Weekly Meeting (Reading Week)",
-      "description": "- Go over each person's decision matrix\n- Create one main matrix\n- ",
+      "description": "- Go over each person's decision matrix\n- Delegate remaining bits of the PDP slideshow",
       "parent": "G23-18",
       "discipline": null,
       "status": "todo",
@@ -1174,10 +1174,15 @@
           "at": "2026-10-15T14:13:09.986Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-15T18:12:43.125Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-15T14:13:09.986Z",
-      "updated": "2026-10-15T14:13:09.986Z"
+      "updated": "2026-10-15T18:12:43.125Z"
     }
   ]
 }
