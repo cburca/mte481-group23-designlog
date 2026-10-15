@@ -969,7 +969,7 @@
       "description": "",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -999,10 +999,15 @@
           "at": "2026-10-15T03:54:46.315Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-15T03:54:54.086Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-15T03:54:29.716Z",
-      "updated": "2026-10-15T03:54:46.315Z"
+      "updated": "2026-10-15T03:54:54.086Z"
     }
   ]
 }
