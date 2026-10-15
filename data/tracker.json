@@ -1002,7 +1002,7 @@
       "description": "- Go over each person's design sketches & patent/papers\n- Form a decision matrix and weighted values\n- Delegate who does what for the PDP presentation slides\n\nConsiderations (for decision matrix)\n- Maybe we have ice detection camera + lights underneath the robot to create a more controlled environment \n- Consider a brine solution instead of salt \n- Conveyor dropperjust\n- Tank tracks for drivetrain",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -1039,10 +1039,15 @@
           "at": "2026-10-14T16:51:09.270Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-15T14:10:56.865Z",
+          "by": "m1",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-14T16:51:09.270Z"
+      "updated": "2026-10-15T14:10:56.865Z"
     },
     {
       "id": "G23-34",
