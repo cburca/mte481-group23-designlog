@@ -1009,7 +1009,7 @@
       "description": "",
       "parent": "G23-20",
       "discipline": null,
-      "status": "review",
+      "status": "done",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -1054,10 +1054,15 @@
           "at": "2026-10-15T03:55:27.316Z",
           "by": "m4",
           "text": "Changed status from Done to In review"
+        },
+        {
+          "at": "2026-10-15T03:55:33.352Z",
+          "by": "m4",
+          "text": "Changed status from In review to Done"
         }
       ],
       "created": "2026-10-15T03:54:29.716Z",
-      "updated": "2026-10-15T03:55:27.316Z"
+      "updated": "2026-10-15T03:55:33.352Z"
     }
   ]
 }
