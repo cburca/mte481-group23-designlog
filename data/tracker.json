@@ -630,7 +630,10 @@
       "reporter": "m4",
       "owner": "m4",
       "approver": "m4",
-      "accepted": null,
+      "accepted": {
+        "by": "m4",
+        "at": "2026-10-15T03:55:50.134Z"
+      },
       "start": null,
       "due": "2026-10-19",
       "estimate": null,
@@ -702,10 +705,15 @@
           "at": "2026-10-15T03:55:45.188Z",
           "by": "m4",
           "text": "Changed status from In review to Done"
+        },
+        {
+          "at": "2026-10-15T03:55:50.134Z",
+          "by": "m4",
+          "text": "Accepted the ticket"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-15T03:55:45.188Z"
+      "updated": "2026-10-15T03:55:50.134Z"
     },
     {
       "id": "G23-27",
