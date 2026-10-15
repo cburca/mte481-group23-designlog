@@ -625,7 +625,7 @@
       "description": "Waterproofing wire harnesses: https://patents.google.com/patent/US11738702B2/en\n",
       "parent": "G23-20",
       "discipline": null,
-      "status": "review",
+      "status": "done",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -697,10 +697,15 @@
           "at": "2026-10-15T03:55:44.082Z",
           "by": "m4",
           "text": "Changed status from Done to In review"
+        },
+        {
+          "at": "2026-10-15T03:55:45.188Z",
+          "by": "m4",
+          "text": "Changed status from In review to Done"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-15T03:55:44.082Z"
+      "updated": "2026-10-15T03:55:45.188Z"
     },
     {
       "id": "G23-27",
