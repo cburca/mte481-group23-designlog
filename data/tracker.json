@@ -1073,7 +1073,15 @@
       "due": "2026-10-19",
       "estimate": 2,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmv90cqxn4uoz",
+          "date": "2026-10-14",
+          "hours": 1.5,
+          "note": "completed matrix",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1110,10 +1118,15 @@
           "at": "2026-10-15T03:57:18.150Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-10-15T03:57:32.891Z",
+          "by": "m4",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-10-15T03:54:29.716Z",
-      "updated": "2026-10-15T03:57:18.150Z"
+      "updated": "2026-10-15T03:57:32.891Z"
     }
   ]
 }
