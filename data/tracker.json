@@ -805,7 +805,7 @@
       "id": "G23-29",
       "type": "task",
       "title": "Alternative Solution Exploration",
-      "description": "- Drivetrain\n- Robot Chassis/System\n- Salt dispensing",
+      "description": "- Drivetrain\n- Robot Chassis/System\n- Salt dispensing\n\nDecision Matrix for Autonomy:\nhttps://docs.google.com/spreadsheets/d/1wjk9sk3oAXXBYb_ubgtczJSfXSo5QqKxXQR95gfwKbk/edit?pli=1&gid=0#gid=0",
       "parent": "G23-20",
       "discipline": null,
       "status": "inprogress",
@@ -848,10 +848,15 @@
           "at": "2026-10-13T13:56:17.838Z",
           "by": "m1",
           "text": "Logged 1h"
+        },
+        {
+          "at": "2026-10-15T13:59:49.883Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-05T19:18:36.512Z",
-      "updated": "2026-10-13T13:56:17.838Z"
+      "updated": "2026-10-15T13:59:49.883Z"
     },
     {
       "id": "G23-30",
