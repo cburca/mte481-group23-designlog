@@ -979,17 +979,30 @@
       "due": "2026-10-19",
       "estimate": 2,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmv9096ejzxk6",
+          "date": "2026-10-14",
+          "hours": 2,
+          "note": "",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-10-15T03:54:29.716Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-15T03:54:46.315Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-15T03:54:29.716Z",
-      "updated": "2026-10-15T03:54:29.716Z"
+      "updated": "2026-10-15T03:54:46.315Z"
     }
   ]
 }
