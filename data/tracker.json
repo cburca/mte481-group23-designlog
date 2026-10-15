@@ -638,7 +638,15 @@
       "due": "2026-10-19",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmv90bxn7un55",
+          "date": "2026-10-14",
+          "hours": 0.5,
+          "note": "found a patent",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -710,10 +718,15 @@
           "at": "2026-10-15T03:55:50.134Z",
           "by": "m4",
           "text": "Accepted the ticket"
+        },
+        {
+          "at": "2026-10-15T03:56:54.931Z",
+          "by": "m4",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-05T19:13:53.260Z",
-      "updated": "2026-10-15T03:55:50.134Z"
+      "updated": "2026-10-15T03:56:54.931Z"
     },
     {
       "id": "G23-27",
