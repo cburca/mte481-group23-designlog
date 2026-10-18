@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 37,
+  "nextId": 38,
   "members": [
     {
       "id": "m1",
@@ -1211,6 +1211,35 @@
       ],
       "created": "2026-10-15T14:13:09.986Z",
       "updated": "2026-10-15T18:12:48.881Z"
+    },
+    {
+      "id": "G23-37",
+      "type": "task",
+      "title": "Salt Dispensing System Decision Matrix",
+      "description": "",
+      "parent": "G23-20",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m2",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-14",
+      "due": "2026-10-15",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-18T22:32:01.525Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-18T22:32:01.525Z",
+      "updated": "2026-10-18T22:32:01.525Z"
     }
   ]
 }
