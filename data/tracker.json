@@ -748,7 +748,15 @@
       "due": "2026-10-19",
       "estimate": 3,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmveeljgag1ad",
+          "date": "2026-10-12",
+          "hours": 0.5,
+          "note": "Found a patent",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -780,10 +788,15 @@
           "at": "2026-10-18T22:34:48.251Z",
           "by": "m2",
           "text": "Deleted a 1.5h time entry"
+        },
+        {
+          "at": "2026-10-18T22:35:08.602Z",
+          "by": "m2",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-18T22:34:48.251Z"
+      "updated": "2026-10-18T22:35:08.602Z"
     },
     {
       "id": "G23-28",
