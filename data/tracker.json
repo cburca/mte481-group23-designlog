@@ -1004,7 +1004,15 @@
       "due": "2026-10-19",
       "estimate": 8,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmveek94t7aix",
+          "date": "2026-10-18",
+          "hours": 2,
+          "note": "",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1021,10 +1029,15 @@
           "at": "2026-10-18T22:29:35.825Z",
           "by": "m2",
           "text": "Changed status from To do to Done"
+        },
+        {
+          "at": "2026-10-18T22:34:08.573Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-18T22:29:35.825Z"
+      "updated": "2026-10-18T22:34:08.573Z"
     },
     {
       "id": "G23-33",
