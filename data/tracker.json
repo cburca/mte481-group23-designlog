@@ -990,7 +990,7 @@
     {
       "id": "G23-32",
       "type": "task",
-      "title": "Alternative Designs  - Ryan McIntyre",
+      "title": "Alternative Design Research  - Ryan McIntyre",
       "description": "- Chassis\n- Salt dispensing\n- Drive train\n- Systems architecture (vision, sensors, etc.)\n",
       "parent": "G23-20",
       "discipline": "mechanical",
@@ -1034,10 +1034,15 @@
           "at": "2026-10-18T22:34:08.573Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-18T22:34:18.631Z",
+          "by": "m2",
+          "text": "Changed title from Alternative Designs  - Ryan McIntyre to Alternative Design Research  - Ryan McIntyre"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-18T22:34:08.573Z"
+      "updated": "2026-10-18T22:34:18.631Z"
     },
     {
       "id": "G23-33",
