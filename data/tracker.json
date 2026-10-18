@@ -740,7 +740,10 @@
       "reporter": "m2",
       "owner": "m2",
       "approver": "m2",
-      "accepted": null,
+      "accepted": {
+        "by": "m2",
+        "at": "2026-10-18T22:30:20.686Z"
+      },
       "start": null,
       "due": "2026-10-19",
       "estimate": 3,
@@ -762,10 +765,15 @@
           "at": "2026-10-18T22:30:17.328Z",
           "by": "m2",
           "text": "Changed status from To do to Done"
+        },
+        {
+          "at": "2026-10-18T22:30:20.686Z",
+          "by": "m2",
+          "text": "Accepted the ticket"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-18T22:30:17.328Z"
+      "updated": "2026-10-18T22:30:20.686Z"
     },
     {
       "id": "G23-28",
