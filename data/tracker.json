@@ -748,15 +748,7 @@
       "due": "2026-10-19",
       "estimate": 3,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmveek1l2bk5q",
-          "date": "2026-10-18",
-          "hours": 1.5,
-          "note": "",
-          "member": "m2"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -783,10 +775,15 @@
           "at": "2026-10-18T22:33:58.790Z",
           "by": "m2",
           "text": "Logged 1.5h"
+        },
+        {
+          "at": "2026-10-18T22:34:48.251Z",
+          "by": "m2",
+          "text": "Deleted a 1.5h time entry"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-18T22:33:58.790Z"
+      "updated": "2026-10-18T22:34:48.251Z"
     },
     {
       "id": "G23-28",
