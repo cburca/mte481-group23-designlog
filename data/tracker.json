@@ -968,7 +968,7 @@
       "description": "- Chassis\n- Salt dispensing\n- Drive train\n- Systems architecture (vision, sensors, etc.)\n",
       "parent": "G23-20",
       "discipline": "mechanical",
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m2",
@@ -990,10 +990,15 @@
           "at": "2026-10-05T20:23:44.466Z",
           "by": "m2",
           "text": "Changed epic from none to G23-20 [EPIC] Preliminary Design Presentation"
+        },
+        {
+          "at": "2026-10-18T22:29:35.825Z",
+          "by": "m2",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-05T20:23:44.466Z"
+      "updated": "2026-10-18T22:29:35.825Z"
     },
     {
       "id": "G23-33",
