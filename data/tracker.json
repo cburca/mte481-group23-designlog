@@ -1216,7 +1216,7 @@
       "id": "G23-37",
       "type": "task",
       "title": "Salt Dispensing System Decision Matrix",
-      "description": "",
+      "description": "Score criteria and alternative designs to make a selection",
       "parent": "G23-20",
       "discipline": null,
       "status": "done",
@@ -1241,10 +1241,15 @@
           "at": "2026-10-18T22:32:18.015Z",
           "by": "m2",
           "text": "Changed status from To do to Done"
+        },
+        {
+          "at": "2026-10-18T22:32:45.636Z",
+          "by": "m2",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-18T22:32:01.525Z",
-      "updated": "2026-10-18T22:32:18.015Z"
+      "updated": "2026-10-18T22:32:45.636Z"
     }
   ]
 }
