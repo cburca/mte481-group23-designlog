@@ -1014,15 +1014,7 @@
       "due": "2026-10-19",
       "estimate": 8,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmveek94t7aix",
-          "date": "2026-10-18",
-          "hours": 2,
-          "note": "",
-          "member": "m2"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -1049,10 +1041,15 @@
           "at": "2026-10-18T22:34:18.631Z",
           "by": "m2",
           "text": "Changed title from Alternative Designs  - Ryan McIntyre to Alternative Design Research  - Ryan McIntyre"
+        },
+        {
+          "at": "2026-10-18T22:35:29.121Z",
+          "by": "m2",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-18T22:34:18.631Z"
+      "updated": "2026-10-18T22:35:29.121Z"
     },
     {
       "id": "G23-33",
