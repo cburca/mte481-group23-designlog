@@ -748,7 +748,15 @@
       "due": "2026-10-19",
       "estimate": 3,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmveek1l2bk5q",
+          "date": "2026-10-18",
+          "hours": 1.5,
+          "note": "",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -770,10 +778,15 @@
           "at": "2026-10-18T22:30:20.686Z",
           "by": "m2",
           "text": "Accepted the ticket"
+        },
+        {
+          "at": "2026-10-18T22:33:58.790Z",
+          "by": "m2",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-18T22:30:20.686Z"
+      "updated": "2026-10-18T22:33:58.790Z"
     },
     {
       "id": "G23-28",
