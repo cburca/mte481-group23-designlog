@@ -735,7 +735,7 @@
       "description": "",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m2",
@@ -757,10 +757,15 @@
           "at": "2026-10-05T19:15:21.547Z",
           "by": "m2",
           "text": "Changed title from Patent Review - Salt Dispensing to Patent Review - Salt Dispensing System"
+        },
+        {
+          "at": "2026-10-18T22:30:17.328Z",
+          "by": "m2",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T19:14:10.329Z",
-      "updated": "2026-10-05T19:15:21.547Z"
+      "updated": "2026-10-18T22:30:17.328Z"
     },
     {
       "id": "G23-28",
