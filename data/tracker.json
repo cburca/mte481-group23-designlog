@@ -1014,7 +1014,15 @@
       "due": "2026-10-19",
       "estimate": 8,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmveemnda73a9",
+          "date": "2026-10-12",
+          "hours": 1.5,
+          "note": "Researched solutions for each subsystem",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1056,10 +1064,15 @@
           "at": "2026-10-18T22:35:49.967Z",
           "by": "m2",
           "text": "Deleted a 1.5h time entry"
+        },
+        {
+          "at": "2026-10-18T22:36:00.334Z",
+          "by": "m2",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-10-05T20:23:29.234Z",
-      "updated": "2026-10-18T22:35:49.967Z"
+      "updated": "2026-10-18T22:36:00.334Z"
     },
     {
       "id": "G23-33",
