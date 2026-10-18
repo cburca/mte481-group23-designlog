@@ -1290,7 +1290,15 @@
       "due": "2026-10-15",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmveengg71vpn",
+          "date": "2026-10-14",
+          "hours": 1,
+          "note": "Scored criteria and alternative designs",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1317,10 +1325,15 @@
           "at": "2026-10-18T22:36:17.953Z",
           "by": "m2",
           "text": "Deleted a 1h time entry"
+        },
+        {
+          "at": "2026-10-18T22:36:38.023Z",
+          "by": "m2",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-10-18T22:32:01.525Z",
-      "updated": "2026-10-18T22:36:17.953Z"
+      "updated": "2026-10-18T22:36:38.023Z"
     }
   ]
 }
