@@ -1290,15 +1290,7 @@
       "due": "2026-10-15",
       "estimate": null,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmveejmdevovu",
-          "date": "2026-10-18",
-          "hours": 1,
-          "note": "",
-          "member": "m2"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -1320,10 +1312,15 @@
           "at": "2026-10-18T22:33:39.074Z",
           "by": "m2",
           "text": "Logged 1h"
+        },
+        {
+          "at": "2026-10-18T22:36:17.953Z",
+          "by": "m2",
+          "text": "Deleted a 1h time entry"
         }
       ],
       "created": "2026-10-18T22:32:01.525Z",
-      "updated": "2026-10-18T22:33:39.074Z"
+      "updated": "2026-10-18T22:36:17.953Z"
     }
   ]
 }
