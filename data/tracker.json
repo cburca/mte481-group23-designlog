@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 39,
+  "nextId": 40,
   "members": [
     {
       "id": "m1",
@@ -1410,6 +1410,35 @@
       ],
       "created": "2026-10-19T00:26:47.255Z",
       "updated": "2026-10-19T00:26:47.255Z"
+    },
+    {
+      "id": "G23-39",
+      "type": "task",
+      "title": "Chassis CAD",
+      "description": "",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m4",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-02",
+      "due": "2026-11-09",
+      "estimate": 5,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:27:46.344Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:27:46.344Z",
+      "updated": "2026-10-19T00:27:46.344Z"
     }
   ]
 }
