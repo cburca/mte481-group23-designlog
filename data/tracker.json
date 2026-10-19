@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 47,
+  "nextId": 48,
   "members": [
     {
       "id": "m1",
@@ -1777,6 +1777,35 @@
       ],
       "created": "2026-10-19T00:51:58.285Z",
       "updated": "2026-10-19T00:51:58.285Z"
+    },
+    {
+      "id": "G23-47",
+      "type": "task",
+      "title": "Joining Salt Dispensing System into Chassis",
+      "description": "",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-12-07",
+      "due": "2026-12-14",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:54:17.723Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:54:17.723Z",
+      "updated": "2026-10-19T00:54:17.723Z"
     }
   ]
 }
