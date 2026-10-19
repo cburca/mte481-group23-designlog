@@ -1460,7 +1460,7 @@
       "type": "task",
       "title": "Salt Dispensing System CAD",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -1479,10 +1479,15 @@
           "at": "2026-10-19T00:29:18.599Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:29:33.601Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-10-19T00:29:18.599Z",
-      "updated": "2026-10-19T00:29:18.599Z"
+      "updated": "2026-10-19T00:29:33.601Z"
     }
   ]
 }
