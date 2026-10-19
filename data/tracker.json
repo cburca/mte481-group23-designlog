@@ -1449,7 +1449,7 @@
       "owner": "m4",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-02",
+      "start": "2026-11-09",
       "due": "2026-11-09",
       "estimate": 5,
       "checklist": [],
@@ -1465,10 +1465,15 @@
           "at": "2026-10-19T00:28:34.413Z",
           "by": "m2",
           "text": "Changed epic from none to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-10-19T00:47:57.693Z",
+          "by": "m2",
+          "text": "Changed start date from Nov 2, 2026 to Nov 9, 2026"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-10-19T00:28:34.413Z"
+      "updated": "2026-10-19T00:47:57.693Z"
     },
     {
       "id": "G23-40",
