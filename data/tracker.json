@@ -2398,7 +2398,7 @@
       "id": "G23-56",
       "type": "task",
       "title": "Nov: Comms and drive",
-      "description": "Jetson-to-ESP32 comms\nMotor control and odometry",
+      "description": "Jetson-to-teensy comms\nMotor control and odometry",
       "parent": "G23-4",
       "discipline": null,
       "status": "todo",
@@ -2418,10 +2418,15 @@
           "at": "2026-10-19T01:19:38.912Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T01:21:48.528Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T01:19:38.912Z",
-      "updated": "2026-10-19T01:19:38.912Z"
+      "updated": "2026-10-19T01:21:48.528Z"
     },
     {
       "id": "G23-57",
