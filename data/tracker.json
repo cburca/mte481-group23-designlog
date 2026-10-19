@@ -1867,7 +1867,7 @@
       "type": "task",
       "title": "Mechanical System Testing and Fixes",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -1886,10 +1886,15 @@
           "at": "2026-10-19T00:56:46.472Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:56:52.322Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-10-19T00:56:46.472Z",
-      "updated": "2026-10-19T00:56:46.472Z"
+      "updated": "2026-10-19T00:56:52.322Z"
     }
   ]
 }
