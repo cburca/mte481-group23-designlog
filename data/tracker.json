@@ -2207,7 +2207,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-11-09",
-      "due": "2026-12-25",
+      "due": "2026-12-31",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -2217,10 +2217,15 @@
           "at": "2026-10-19T01:02:07.486Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T01:14:31.100Z",
+          "by": "m1",
+          "text": "Changed due date from Dec 25, 2026 to Dec 31, 2026"
         }
       ],
       "created": "2026-10-19T01:02:07.486Z",
-      "updated": "2026-10-19T01:02:07.486Z"
+      "updated": "2026-10-19T01:14:31.100Z"
     },
     {
       "id": "G23-53",
