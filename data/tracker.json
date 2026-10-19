@@ -2435,7 +2435,7 @@
       "description": "- Run thru the PDP slides and try to trim down to about 13mins in length\n- Reduced presentation runs from 16:25 to 10:44 to 10:48.",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -2467,10 +2467,15 @@
           "at": "2026-10-19T19:55:40.707Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-19T19:55:46.329Z",
+          "by": "m1",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-19T18:39:02.793Z",
-      "updated": "2026-10-19T19:55:40.707Z"
+      "updated": "2026-10-19T19:55:46.329Z"
     }
   ]
 }
