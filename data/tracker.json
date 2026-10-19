@@ -1695,7 +1695,7 @@
       "approver": null,
       "accepted": null,
       "start": "2027-03-01",
-      "due": "2027-05-01",
+      "due": "2027-03-10",
       "estimate": 30,
       "checklist": [],
       "worklog": [],
@@ -1740,10 +1740,15 @@
           "at": "2026-10-19T00:56:26.916Z",
           "by": "m3",
           "text": "Changed start date from Apr 1, 2027 to Mar 1, 2027"
+        },
+        {
+          "at": "2026-10-19T00:56:34.576Z",
+          "by": "m3",
+          "text": "Changed due date from May 1, 2027 to Mar 10, 2027"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:56:26.916Z"
+      "updated": "2026-10-19T00:56:34.576Z"
     },
     {
       "id": "G23-45",
