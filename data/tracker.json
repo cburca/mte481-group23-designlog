@@ -1685,7 +1685,7 @@
       "id": "G23-44",
       "type": "task",
       "title": "Beginning of March: Final Testing",
-      "description": "Wire into chassis and connect sensors: harness, fusing, connectors, IP54 enclosure\nTest power, E-stop and IP54: check against requirements\nBuffer for a second PCB design: (fixes only if rev 1 fails)",
+      "description": "Final tests and monitoring",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1745,10 +1745,15 @@
           "at": "2026-10-19T00:56:34.576Z",
           "by": "m3",
           "text": "Changed due date from May 1, 2027 to Mar 10, 2027"
+        },
+        {
+          "at": "2026-10-19T00:57:11.378Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:56:34.576Z"
+      "updated": "2026-10-19T00:57:11.378Z"
     },
     {
       "id": "G23-45",
