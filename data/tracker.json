@@ -1522,7 +1522,7 @@
     {
       "id": "G23-41",
       "type": "task",
-      "title": "Jan: Design and bring-up",
+      "title": "Jan: Design, parts and PCB schematic",
       "description": "Finalize electrical design and power budget (12)\nOrder parts (4)\nE-stop and power on dev boards (6)",
       "parent": "G23-3",
       "discipline": null,
@@ -1553,10 +1553,15 @@
           "at": "2026-10-19T00:42:22.364Z",
           "by": "m3",
           "text": "Changed title from Design and bring-up to Jan: Design and bring-up"
+        },
+        {
+          "at": "2026-10-19T00:49:32.322Z",
+          "by": "m3",
+          "text": "Changed title from Jan: Design and bring-up to Jan: Design, parts and PCB schematic"
         }
       ],
       "created": "2026-10-19T00:39:56.420Z",
-      "updated": "2026-10-19T00:42:22.364Z"
+      "updated": "2026-10-19T00:49:32.322Z"
     },
     {
       "id": "G23-42",
