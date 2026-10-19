@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 44,
+  "nextId": 45,
   "members": [
     {
       "id": "m1",
@@ -1600,6 +1600,35 @@
       ],
       "created": "2026-10-19T00:44:48.806Z",
       "updated": "2026-10-19T00:45:02.298Z"
+    },
+    {
+      "id": "G23-44",
+      "type": "task",
+      "title": "March: Assembly and wiring",
+      "description": "Assemble PCBs\nWire into chassis and connect sensors ",
+      "parent": "G23-3",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": "m3",
+      "approver": null,
+      "accepted": null,
+      "start": "2027-04-01",
+      "due": "2027-05-01",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:47:13.075Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:47:13.075Z",
+      "updated": "2026-10-19T00:47:13.075Z"
     }
   ]
 }
