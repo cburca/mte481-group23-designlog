@@ -2010,7 +2010,7 @@
       "owner": null,
       "approver": null,
       "accepted": null,
-      "start": "2027-01-04",
+      "start": "2027-01-11",
       "due": "2027-01-25",
       "estimate": null,
       "checklist": [],
@@ -2046,10 +2046,15 @@
           "at": "2026-10-19T01:04:59.167Z",
           "by": "m2",
           "text": "Changed due date from Jan 18, 2027 to Jan 25, 2027"
+        },
+        {
+          "at": "2026-10-19T01:06:07.270Z",
+          "by": "m2",
+          "text": "Changed start date from Jan 4, 2027 to Jan 11, 2027"
         }
       ],
       "created": "2026-10-19T00:56:46.472Z",
-      "updated": "2026-10-19T01:04:59.167Z"
+      "updated": "2026-10-19T01:06:07.270Z"
     },
     {
       "id": "G23-49",
