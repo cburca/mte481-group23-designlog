@@ -2286,7 +2286,7 @@
       "id": "G23-53",
       "type": "task",
       "title": "Oct: Dev-board start",
-      "description": "Motors and encoders on dev boards\nJetson-to-teensy comms\nMotor control and odometry",
+      "description": "Motors and encoders on dev boards",
       "parent": "G23-4",
       "discipline": null,
       "status": "todo",
@@ -2311,10 +2311,15 @@
           "at": "2026-10-19T01:16:55.501Z",
           "by": "m3",
           "text": "Changed title from Jan: Bench and drive to Oct: Dev-board start"
+        },
+        {
+          "at": "2026-10-19T01:17:05.613Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T01:05:34.444Z",
-      "updated": "2026-10-19T01:16:55.501Z"
+      "updated": "2026-10-19T01:17:05.613Z"
     },
     {
       "id": "G23-54",
