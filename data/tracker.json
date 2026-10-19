@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 48,
+  "nextId": 49,
   "members": [
     {
       "id": "m1",
@@ -1861,6 +1861,35 @@
       ],
       "created": "2026-10-19T00:54:17.723Z",
       "updated": "2026-10-19T00:55:07.981Z"
+    },
+    {
+      "id": "G23-48",
+      "type": "task",
+      "title": "Mechanical System Testing and Fixes",
+      "description": "",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-12-21",
+      "due": "2027-01-11",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:56:46.472Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:56:46.472Z",
+      "updated": "2026-10-19T00:56:46.472Z"
     }
   ]
 }
