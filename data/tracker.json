@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 51,
+  "nextId": 52,
   "members": [
     {
       "id": "m1",
@@ -2023,6 +2023,35 @@
       ],
       "created": "2026-10-19T00:59:04.054Z",
       "updated": "2026-10-19T00:59:04.054Z"
+    },
+    {
+      "id": "G23-51",
+      "type": "task",
+      "title": "System Simulation (Edge Detection & Path Planning)",
+      "description": "Develop 3D digital twin as mechanical description becomes available",
+      "parent": "G23-5",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-19",
+      "due": "2026-12-18",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T01:00:59.015Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T01:00:59.015Z",
+      "updated": "2026-10-19T01:00:59.015Z"
     }
   ]
 }
