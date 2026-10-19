@@ -2438,7 +2438,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m1",
-      "owner": null,
+      "owner": "m2",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -2452,10 +2452,15 @@
           "at": "2026-10-19T18:39:02.793Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T18:39:13.522Z",
+          "by": "m1",
+          "text": "Changed owner from none to Ryan McIntyre"
         }
       ],
       "created": "2026-10-19T18:39:02.793Z",
-      "updated": "2026-10-19T18:39:02.793Z"
+      "updated": "2026-10-19T18:39:13.522Z"
     }
   ]
 }
