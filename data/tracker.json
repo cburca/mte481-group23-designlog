@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 49,
+  "nextId": 50,
   "members": [
     {
       "id": "m1",
@@ -1905,6 +1905,35 @@
       ],
       "created": "2026-10-19T00:56:46.472Z",
       "updated": "2026-10-19T00:56:52.322Z"
+    },
+    {
+      "id": "G23-49",
+      "type": "task",
+      "title": "Early Isolated Hardware Bringup Testing (Realsense, Batteries)",
+      "description": "",
+      "parent": "G23-5",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:57:21.132Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:57:21.132Z",
+      "updated": "2026-10-19T00:57:21.132Z"
     }
   ]
 }
