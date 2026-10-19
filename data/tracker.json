@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 38,
+  "nextId": 39,
   "members": [
     {
       "id": "m1",
@@ -1381,6 +1381,35 @@
       ],
       "created": "2026-10-18T22:32:01.525Z",
       "updated": "2026-10-18T22:36:38.023Z"
+    },
+    {
+      "id": "G23-38",
+      "type": "task",
+      "title": "Drive System CAD",
+      "description": "",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m4",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-26",
+      "due": "2026-11-02",
+      "estimate": 10,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:26:47.255Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:26:47.255Z",
+      "updated": "2026-10-19T00:26:47.255Z"
     }
   ]
 }
