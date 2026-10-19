@@ -1655,7 +1655,7 @@
       "id": "G23-44",
       "type": "task",
       "title": "March: Wiring and testing",
-      "description": "Wire into chassis and connect sensors (15): harness, fusing, connectors, IP54 enclosure\nTest power, E-stop and IP54 (8): check against requirements\nBuffer for a second PCB spin (8): fixes only if rev 1 fails",
+      "description": "Wire into chassis and connect sensors: harness, fusing, connectors, IP54 enclosure\nTest power, E-stop and IP54: check against requirements\nBuffer for a second PCB spin: fixes only if rev 1 fails",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1690,10 +1690,15 @@
           "at": "2026-10-19T00:51:15.801Z",
           "by": "m3",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-19T00:51:38.788Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:51:15.801Z"
+      "updated": "2026-10-19T00:51:38.788Z"
     },
     {
       "id": "G23-45",
