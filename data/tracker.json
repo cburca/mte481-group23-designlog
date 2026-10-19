@@ -1802,7 +1802,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-12-07",
-      "due": "2026-12-14",
+      "due": "2026-12-21",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -1817,10 +1817,15 @@
           "at": "2026-10-19T00:54:24.151Z",
           "by": "m2",
           "text": "Changed epic from none to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-10-19T00:55:03.198Z",
+          "by": "m2",
+          "text": "Changed due date from Dec 14, 2026 to Dec 21, 2026"
         }
       ],
       "created": "2026-10-19T00:54:17.723Z",
-      "updated": "2026-10-19T00:54:24.151Z"
+      "updated": "2026-10-19T00:55:03.198Z"
     }
   ]
 }
