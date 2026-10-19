@@ -1616,7 +1616,7 @@
       "accepted": null,
       "start": "2027-04-01",
       "due": "2027-05-01",
-      "estimate": null,
+      "estimate": 30,
       "checklist": [],
       "worklog": [],
       "comments": [],
@@ -1625,10 +1625,15 @@
           "at": "2026-10-19T00:47:13.075Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:47:31.701Z",
+          "by": "m3",
+          "text": "Changed estimate from none to 30h"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:47:13.075Z"
+      "updated": "2026-10-19T00:47:31.701Z"
     }
   ]
 }
