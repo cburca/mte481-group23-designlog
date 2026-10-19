@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 41,
+  "nextId": 42,
   "members": [
     {
       "id": "m1",
@@ -1488,6 +1488,35 @@
       ],
       "created": "2026-10-19T00:29:18.599Z",
       "updated": "2026-10-19T00:29:33.601Z"
+    },
+    {
+      "id": "G23-41",
+      "type": "task",
+      "title": "Design and bring-up",
+      "description": "Finalize electrical design and power budget: 12\nOrder parts: 4\nDev boards with motors, comms and E-stop working: 24",
+      "parent": "G23-3",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": "m3",
+      "approver": null,
+      "accepted": null,
+      "start": "2027-01-01",
+      "due": "2027-02-01",
+      "estimate": 40,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:39:56.420Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:39:56.420Z",
+      "updated": "2026-10-19T00:39:56.420Z"
     }
   ]
 }
