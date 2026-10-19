@@ -1781,7 +1781,7 @@
       "accepted": null,
       "start": "2026-12-01",
       "due": "2027-01-01",
-      "estimate": 30,
+      "estimate": 15,
       "checklist": [],
       "worklog": [],
       "comments": [],
@@ -1860,10 +1860,15 @@
           "at": "2026-10-19T01:16:12.869Z",
           "by": "m3",
           "text": "Changed due date from Mar 10, 2027 to Jan 1, 2027"
+        },
+        {
+          "at": "2026-10-19T01:16:20.726Z",
+          "by": "m3",
+          "text": "Changed estimate from 30h to 15h"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T01:16:12.869Z"
+      "updated": "2026-10-19T01:16:20.726Z"
     },
     {
       "id": "G23-45",
