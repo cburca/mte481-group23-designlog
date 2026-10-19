@@ -1426,7 +1426,7 @@
       "type": "task",
       "title": "Chassis CAD",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -1445,10 +1445,15 @@
           "at": "2026-10-19T00:27:46.344Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:28:34.413Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-10-19T00:27:46.344Z"
+      "updated": "2026-10-19T00:28:34.413Z"
     }
   ]
 }
