@@ -1719,7 +1719,7 @@
     {
       "id": "G23-44",
       "type": "task",
-      "title": "Beginning of March: Final Testing",
+      "title": "March: Final Testing",
       "description": "Final tests and monitoring",
       "parent": "G23-3",
       "discipline": null,
@@ -1785,10 +1785,15 @@
           "at": "2026-10-19T00:57:11.378Z",
           "by": "m3",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-19T01:01:25.522Z",
+          "by": "m3",
+          "text": "Changed title from Beginning of March: Final Testing to March: Final Testing"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:57:11.378Z"
+      "updated": "2026-10-19T01:01:25.522Z"
     },
     {
       "id": "G23-45",
