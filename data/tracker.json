@@ -1779,7 +1779,7 @@
       "owner": "m3",
       "approver": null,
       "accepted": null,
-      "start": "2027-03-01",
+      "start": "2026-12-01",
       "due": "2027-03-10",
       "estimate": 30,
       "checklist": [],
@@ -1850,10 +1850,15 @@
           "at": "2026-10-19T01:16:02.025Z",
           "by": "m3",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-19T01:16:07.072Z",
+          "by": "m3",
+          "text": "Changed start date from Mar 1, 2027 to Dec 1, 2026"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T01:16:02.025Z"
+      "updated": "2026-10-19T01:16:07.072Z"
     },
     {
       "id": "G23-45",
