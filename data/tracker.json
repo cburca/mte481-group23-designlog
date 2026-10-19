@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 53,
+  "nextId": 54,
   "members": [
     {
       "id": "m1",
@@ -2166,6 +2166,35 @@
       ],
       "created": "2026-10-19T01:02:07.486Z",
       "updated": "2026-10-19T01:02:07.486Z"
+    },
+    {
+      "id": "G23-53",
+      "type": "task",
+      "title": "Jan: Bench and drive",
+      "description": "Motors and encoders on dev boards\nJetson-to-teensy comms\nMotor control and odometry",
+      "parent": "G23-4",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": "m3",
+      "approver": null,
+      "accepted": null,
+      "start": "2027-01-01",
+      "due": "2027-02-01",
+      "estimate": 30,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T01:05:34.444Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T01:05:34.444Z",
+      "updated": "2026-10-19T01:05:34.444Z"
     }
   ]
 }
