@@ -1892,7 +1892,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-12-21",
-      "due": "2026-12-21",
+      "due": "2026-12-28",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -1922,10 +1922,15 @@
           "at": "2026-10-19T01:01:05.823Z",
           "by": "m2",
           "text": "Changed start date from Dec 14, 2026 to Dec 21, 2026"
+        },
+        {
+          "at": "2026-10-19T01:01:11.028Z",
+          "by": "m2",
+          "text": "Changed due date from Dec 21, 2026 to Dec 28, 2026"
         }
       ],
       "created": "2026-10-19T00:54:17.723Z",
-      "updated": "2026-10-19T01:01:05.823Z"
+      "updated": "2026-10-19T01:01:11.028Z"
     },
     {
       "id": "G23-48",
