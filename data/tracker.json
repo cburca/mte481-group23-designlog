@@ -2297,7 +2297,7 @@
       "accepted": null,
       "start": "2027-01-01",
       "due": "2027-02-01",
-      "estimate": 30,
+      "estimate": 10,
       "checklist": [],
       "worklog": [],
       "comments": [],
@@ -2316,10 +2316,15 @@
           "at": "2026-10-19T01:17:05.613Z",
           "by": "m3",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-19T01:17:13.898Z",
+          "by": "m3",
+          "text": "Changed estimate from 30h to 10h"
         }
       ],
       "created": "2026-10-19T01:05:34.444Z",
-      "updated": "2026-10-19T01:17:05.613Z"
+      "updated": "2026-10-19T01:17:13.898Z"
     },
     {
       "id": "G23-54",
