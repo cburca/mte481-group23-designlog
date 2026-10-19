@@ -1950,7 +1950,7 @@
       "owner": null,
       "approver": null,
       "accepted": null,
-      "start": "2026-12-21",
+      "start": "2026-12-28",
       "due": "2027-01-11",
       "estimate": null,
       "checklist": [],
@@ -1966,10 +1966,15 @@
           "at": "2026-10-19T00:56:52.322Z",
           "by": "m2",
           "text": "Changed epic from none to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-10-19T01:01:26.232Z",
+          "by": "m2",
+          "text": "Changed start date from Dec 21, 2026 to Dec 28, 2026"
         }
       ],
       "created": "2026-10-19T00:56:46.472Z",
-      "updated": "2026-10-19T00:56:52.322Z"
+      "updated": "2026-10-19T01:01:26.232Z"
     },
     {
       "id": "G23-49",
