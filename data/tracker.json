@@ -317,7 +317,7 @@
       "description": "",
       "parent": "G23-3",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -334,10 +334,15 @@
           "at": "2026-09-25T12:00:00.000Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:52:43.202Z",
+          "by": "m3",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-10-19T00:52:43.202Z",
       "id": "G23-15",
       "title": "Define electrical requirements and power budget"
     },
