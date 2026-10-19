@@ -1654,7 +1654,7 @@
     {
       "id": "G23-44",
       "type": "task",
-      "title": "March: Assembly and wiring",
+      "title": "March: Wiring and testing",
       "description": "Assemble PCBs\nWire into chassis and connect sensors ",
       "parent": "G23-3",
       "discipline": null,
@@ -1680,10 +1680,15 @@
           "at": "2026-10-19T00:47:31.701Z",
           "by": "m3",
           "text": "Changed estimate from none to 30h"
+        },
+        {
+          "at": "2026-10-19T00:51:10.281Z",
+          "by": "m3",
+          "text": "Changed title from March: Assembly and wiring to March: Wiring and testing"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T00:47:31.701Z"
+      "updated": "2026-10-19T00:51:10.281Z"
     },
     {
       "id": "G23-45",
