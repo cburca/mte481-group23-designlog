@@ -1803,7 +1803,7 @@
       "owner": "m4",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-23",
+      "start": "2026-11-30",
       "due": "2026-12-14",
       "estimate": null,
       "checklist": [],
@@ -1819,10 +1819,15 @@
           "at": "2026-10-19T00:54:47.893Z",
           "by": "m2",
           "text": "Changed due date from Dec 7, 2026 to Dec 14, 2026"
+        },
+        {
+          "at": "2026-10-19T01:00:35.417Z",
+          "by": "m2",
+          "text": "Changed start date from Nov 23, 2026 to Nov 30, 2026"
         }
       ],
       "created": "2026-10-19T00:50:17.528Z",
-      "updated": "2026-10-19T00:54:47.893Z"
+      "updated": "2026-10-19T01:00:35.417Z"
     },
     {
       "id": "G23-46",
