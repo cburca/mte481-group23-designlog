@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 57,
+  "nextId": 58,
   "members": [
     {
       "id": "m1",
@@ -2422,6 +2422,35 @@
       ],
       "created": "2026-10-19T01:19:38.912Z",
       "updated": "2026-10-19T01:19:38.912Z"
+    },
+    {
+      "id": "G23-57",
+      "type": "task",
+      "title": "Dec: Firmware v1",
+      "description": "Program and release v1 of firmware",
+      "parent": "G23-4",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": "m3",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-12-01",
+      "due": "2027-01-01",
+      "estimate": 15,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T01:21:26.687Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T01:21:26.687Z",
+      "updated": "2026-10-19T01:21:26.687Z"
     }
   ]
 }
