@@ -1770,7 +1770,7 @@
       "id": "G23-44",
       "type": "task",
       "title": "Dec: Boards ready",
-      "description": "Final tests and monitoring",
+      "description": "Assemble PCBs and power on",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1845,10 +1845,15 @@
           "at": "2026-10-19T01:15:55.275Z",
           "by": "m3",
           "text": "Changed title from March: Final Testing to Dec: Boards ready"
+        },
+        {
+          "at": "2026-10-19T01:16:02.025Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T01:15:55.275Z"
+      "updated": "2026-10-19T01:16:02.025Z"
     },
     {
       "id": "G23-45",
