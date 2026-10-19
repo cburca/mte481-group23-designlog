@@ -1769,7 +1769,7 @@
     {
       "id": "G23-44",
       "type": "task",
-      "title": "March: Final Testing",
+      "title": "Dec: Boards ready",
       "description": "Final tests and monitoring",
       "parent": "G23-3",
       "discipline": null,
@@ -1840,10 +1840,15 @@
           "at": "2026-10-19T01:01:25.522Z",
           "by": "m3",
           "text": "Changed title from Beginning of March: Final Testing to March: Final Testing"
+        },
+        {
+          "at": "2026-10-19T01:15:55.275Z",
+          "by": "m3",
+          "text": "Changed title from March: Final Testing to Dec: Boards ready"
         }
       ],
       "created": "2026-10-19T00:47:13.075Z",
-      "updated": "2026-10-19T01:01:25.522Z"
+      "updated": "2026-10-19T01:15:55.275Z"
     },
     {
       "id": "G23-45",
