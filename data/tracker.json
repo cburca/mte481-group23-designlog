@@ -1387,7 +1387,7 @@
       "type": "task",
       "title": "Drive System CAD",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -1406,10 +1406,15 @@
           "at": "2026-10-19T00:26:47.255Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:28:06.869Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-10-19T00:26:47.255Z"
+      "updated": "2026-10-19T00:28:06.869Z"
     },
     {
       "id": "G23-39",
