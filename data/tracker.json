@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 54,
+  "nextId": 55,
   "members": [
     {
       "id": "m1",
@@ -2250,6 +2250,35 @@
       ],
       "created": "2026-10-19T01:05:34.444Z",
       "updated": "2026-10-19T01:05:34.444Z"
+    },
+    {
+      "id": "G23-54",
+      "type": "task",
+      "title": "Bench Testing & Validation",
+      "description": "",
+      "parent": "G23-5",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2027-01-04",
+      "due": "2027-01-29",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T01:14:17.752Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T01:14:17.752Z",
+      "updated": "2026-10-19T01:14:17.752Z"
     }
   ]
 }
