@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 50,
+  "nextId": 51,
   "members": [
     {
       "id": "m1",
@@ -1944,6 +1944,35 @@
       ],
       "created": "2026-10-19T00:57:21.132Z",
       "updated": "2026-10-19T00:57:38.011Z"
+    },
+    {
+      "id": "G23-50",
+      "type": "task",
+      "title": "Mechanical Specifications and Requirements",
+      "description": "",
+      "parent": "G23-2",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-26",
+      "due": "2026-11-02",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:59:04.054Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:59:04.054Z",
+      "updated": "2026-10-19T00:59:04.054Z"
     }
   ]
 }
