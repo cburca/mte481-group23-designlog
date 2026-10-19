@@ -2285,7 +2285,7 @@
     {
       "id": "G23-53",
       "type": "task",
-      "title": "Jan: Bench and drive",
+      "title": "Oct: Dev-board start",
       "description": "Motors and encoders on dev boards\nJetson-to-teensy comms\nMotor control and odometry",
       "parent": "G23-4",
       "discipline": null,
@@ -2306,10 +2306,15 @@
           "at": "2026-10-19T01:05:34.444Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T01:16:55.501Z",
+          "by": "m3",
+          "text": "Changed title from Jan: Bench and drive to Oct: Dev-board start"
         }
       ],
       "created": "2026-10-19T01:05:34.444Z",
-      "updated": "2026-10-19T01:05:34.444Z"
+      "updated": "2026-10-19T01:16:55.501Z"
     },
     {
       "id": "G23-54",
