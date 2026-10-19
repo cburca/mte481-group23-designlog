@@ -1654,35 +1654,6 @@
       "updated": "2026-10-19T01:15:39.771Z"
     },
     {
-      "id": "G23-42",
-      "type": "task",
-      "title": "Feb: PCB design",
-      "description": "Design and order PCBs ",
-      "parent": null,
-      "discipline": "mechanical",
-      "status": "todo",
-      "priority": "medium",
-      "reporter": "m3",
-      "owner": null,
-      "approver": null,
-      "accepted": null,
-      "start": "2027-02-01",
-      "due": "2027-02-01",
-      "estimate": 20,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-10-19T00:43:18.221Z",
-          "by": "m3",
-          "text": "Created ticket"
-        }
-      ],
-      "created": "2026-10-19T00:43:18.221Z",
-      "updated": "2026-10-19T00:43:18.221Z"
-    },
-    {
       "id": "G23-43",
       "type": "task",
       "title": "Nov: PCB design and order",
