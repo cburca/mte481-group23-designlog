@@ -1783,7 +1783,7 @@
       "type": "task",
       "title": "Joining Salt Dispensing System into Chassis",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -1802,10 +1802,15 @@
           "at": "2026-10-19T00:54:17.723Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:54:24.151Z",
+          "by": "m2",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-10-19T00:54:17.723Z",
-      "updated": "2026-10-19T00:54:17.723Z"
+      "updated": "2026-10-19T00:54:24.151Z"
     }
   ]
 }
