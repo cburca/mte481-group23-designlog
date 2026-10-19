@@ -2438,7 +2438,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m1",
-      "owner": "m2",
+      "owner": "m1",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -2457,10 +2457,15 @@
           "at": "2026-10-19T18:39:13.522Z",
           "by": "m1",
           "text": "Changed owner from none to Ryan McIntyre"
+        },
+        {
+          "at": "2026-10-19T18:39:16.472Z",
+          "by": "m1",
+          "text": "Changed owner from Ryan McIntyre to Chris Burca"
         }
       ],
       "created": "2026-10-19T18:39:02.793Z",
-      "updated": "2026-10-19T18:39:13.522Z"
+      "updated": "2026-10-19T18:39:16.472Z"
     }
   ]
 }
