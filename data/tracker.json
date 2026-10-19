@@ -1621,7 +1621,7 @@
       "id": "G23-43",
       "type": "task",
       "title": "Feb: PCB build + Testing",
-      "description": "Finish PCB layout and order: review, then send to fab by mid-Feb\nAssemble PCBs: solder, power-on, basic tests",
+      "description": "Finish PCB layout and order: review, then send to fab by start of Feb\nAssemble PCBs: solder, power-on, basic tests",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1666,10 +1666,15 @@
           "at": "2026-10-19T00:55:24.148Z",
           "by": "m3",
           "text": "Changed title from Feb: PCB build to Feb: PCB build + Testing"
+        },
+        {
+          "at": "2026-10-19T00:55:32.338Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:44:48.806Z",
-      "updated": "2026-10-19T00:55:24.148Z"
+      "updated": "2026-10-19T00:55:32.338Z"
     },
     {
       "id": "G23-44",
