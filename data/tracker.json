@@ -346,7 +346,7 @@
       "description": "",
       "parent": "G23-4",
       "discipline": null,
-      "status": "inprogress",
+      "status": "todo",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -368,10 +368,15 @@
           "at": "2026-10-19T00:40:18.821Z",
           "by": "m3",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-10-19T00:40:23.012Z",
+          "by": "m3",
+          "text": "Changed status from In progress to To do"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-19T00:40:18.821Z",
+      "updated": "2026-10-19T00:40:23.012Z",
       "id": "G23-16",
       "title": "Select microcontroller and toolchain"
     },
