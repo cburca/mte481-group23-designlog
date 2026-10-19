@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 42,
+  "nextId": 43,
   "members": [
     {
       "id": "m1",
@@ -1537,6 +1537,35 @@
       ],
       "created": "2026-10-19T00:39:56.420Z",
       "updated": "2026-10-19T00:42:22.364Z"
+    },
+    {
+      "id": "G23-42",
+      "type": "task",
+      "title": "Feb: PCB design",
+      "description": "Design and order PCBs ",
+      "parent": null,
+      "discipline": "mechanical",
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m3",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": "2027-02-01",
+      "due": "2027-02-01",
+      "estimate": 20,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-19T00:43:18.221Z",
+          "by": "m3",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-19T00:43:18.221Z",
+      "updated": "2026-10-19T00:43:18.221Z"
     }
   ]
 }
