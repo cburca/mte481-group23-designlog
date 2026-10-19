@@ -1891,7 +1891,7 @@
       "owner": null,
       "approver": null,
       "accepted": null,
-      "start": "2026-12-14",
+      "start": "2026-12-21",
       "due": "2026-12-21",
       "estimate": null,
       "checklist": [],
@@ -1917,10 +1917,15 @@
           "at": "2026-10-19T00:55:07.981Z",
           "by": "m2",
           "text": "Changed start date from Dec 7, 2026 to Dec 14, 2026"
+        },
+        {
+          "at": "2026-10-19T01:01:05.823Z",
+          "by": "m2",
+          "text": "Changed start date from Dec 14, 2026 to Dec 21, 2026"
         }
       ],
       "created": "2026-10-19T00:54:17.723Z",
-      "updated": "2026-10-19T00:55:07.981Z"
+      "updated": "2026-10-19T01:01:05.823Z"
     },
     {
       "id": "G23-48",
