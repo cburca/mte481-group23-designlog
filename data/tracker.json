@@ -1681,7 +1681,7 @@
       "id": "G23-43",
       "type": "task",
       "title": "Nov: PCB design and order",
-      "description": "Finish PCB layout and order: review, then send to fab by start of Feb\nAssemble PCBs: solder, power-on, basic tests\nWire into chassis and connect sensors: harness, fusing, connectors, IP54 enclosure\nTest power, E-stop and IP54: check against requirements\nBuffer for a second PCB design: (fixes only if rev 1 fails)",
+      "description": "E-stop on dev boards\nPCB schematic\nPCB layout and order: send to fab ",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1741,10 +1741,15 @@
           "at": "2026-10-19T01:14:39.488Z",
           "by": "m3",
           "text": "Changed title from Feb: PCB build + Testing to Nov: PCB design and order"
+        },
+        {
+          "at": "2026-10-19T01:15:04.895Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:44:48.806Z",
-      "updated": "2026-10-19T01:14:39.488Z"
+      "updated": "2026-10-19T01:15:04.895Z"
     },
     {
       "id": "G23-44",
