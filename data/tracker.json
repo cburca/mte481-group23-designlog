@@ -1919,7 +1919,7 @@
       "owner": null,
       "approver": null,
       "accepted": null,
-      "start": null,
+      "start": "2026-10-19",
       "due": null,
       "estimate": null,
       "checklist": [],
@@ -1930,10 +1930,15 @@
           "at": "2026-10-19T00:57:21.132Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:57:33.279Z",
+          "by": "m1",
+          "text": "Changed start date from none to Oct 19, 2026"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-10-19T00:57:21.132Z"
+      "updated": "2026-10-19T00:57:33.279Z"
     }
   ]
 }
