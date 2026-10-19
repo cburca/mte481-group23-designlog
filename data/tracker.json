@@ -1503,7 +1503,7 @@
       "id": "G23-41",
       "type": "task",
       "title": "Design and bring-up",
-      "description": "Finalize electrical design and power budget: 12\nOrder parts: 4\nDev boards with motors, comms and E-stop working: 24",
+      "description": "Finalize electrical design and power budget (12)\nOrder parts (4)\nE-stop and power on dev boards (6)",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1523,10 +1523,15 @@
           "at": "2026-10-19T00:39:56.420Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-19T00:42:10.878Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:39:56.420Z",
-      "updated": "2026-10-19T00:39:56.420Z"
+      "updated": "2026-10-19T00:42:10.878Z"
     }
   ]
 }
