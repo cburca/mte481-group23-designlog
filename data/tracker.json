@@ -1572,7 +1572,7 @@
     {
       "id": "G23-41",
       "type": "task",
-      "title": "Jan: Design, parts and PCB schematic",
+      "title": "October: Design, parts and PCB schematic",
       "description": "Finalize electrical design and power budget: <100 W, <30 V, 6S battery\nOrder parts: Jetson, LiDAR, GNSS, load cell, battery\nE-stop and power on dev boards: breadboard E-stop cuts motor power\nPCB schematic: power board and ESP32 board",
       "parent": "G23-3",
       "discipline": null,
@@ -1618,10 +1618,15 @@
           "at": "2026-10-19T00:50:04.470Z",
           "by": "m3",
           "text": "Changed estimate from 40h to 30h"
+        },
+        {
+          "at": "2026-10-19T01:13:29.751Z",
+          "by": "m3",
+          "text": "Changed title from Jan: Design, parts and PCB schematic to October: Design, parts and PCB schematic"
         }
       ],
       "created": "2026-10-19T00:39:56.420Z",
-      "updated": "2026-10-19T00:50:04.470Z"
+      "updated": "2026-10-19T01:13:29.751Z"
     },
     {
       "id": "G23-42",
