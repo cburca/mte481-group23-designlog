@@ -1606,7 +1606,7 @@
       "id": "G23-43",
       "type": "task",
       "title": "Feb: PCB build",
-      "description": "Design and order PCBs",
+      "description": "Finish PCB layout and order: review, then send to fab by mid-Feb\nAssemble PCBs: solder, power-on, basic tests",
       "parent": "G23-3",
       "discipline": null,
       "status": "todo",
@@ -1636,10 +1636,15 @@
           "at": "2026-10-19T00:50:21.995Z",
           "by": "m3",
           "text": "Changed title from Feb: PCB design to Feb: PCB build"
+        },
+        {
+          "at": "2026-10-19T00:50:38.732Z",
+          "by": "m3",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:44:48.806Z",
-      "updated": "2026-10-19T00:50:21.995Z"
+      "updated": "2026-10-19T00:50:38.732Z"
     },
     {
       "id": "G23-44",
