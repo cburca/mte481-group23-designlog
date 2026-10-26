@@ -351,7 +351,7 @@
       "description": "",
       "parent": "G23-4",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m3",
@@ -398,10 +398,15 @@
           "at": "2026-10-26T23:13:10.745Z",
           "by": "m3",
           "text": "Changed estimate from none to 1h"
+        },
+        {
+          "at": "2026-10-26T23:13:14.022Z",
+          "by": "m3",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-26T23:13:10.745Z",
+      "updated": "2026-10-26T23:13:14.022Z",
       "id": "G23-16",
       "title": "Select microcontroller and toolchain"
     },
