@@ -2880,7 +2880,7 @@
       "description": "",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m3",
       "owner": "m3",
@@ -2907,10 +2907,15 @@
           "at": "2026-10-26T22:59:33.497Z",
           "by": "m3",
           "text": "Changed approver from Zain Mahmoud to none"
+        },
+        {
+          "at": "2026-10-26T22:59:40.017Z",
+          "by": "m3",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-26T22:59:15.372Z",
-      "updated": "2026-10-26T22:59:33.497Z"
+      "updated": "2026-10-26T22:59:40.017Z"
     }
   ]
 }
