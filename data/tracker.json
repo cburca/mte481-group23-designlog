@@ -2709,7 +2709,7 @@
       "accepted": null,
       "start": null,
       "due": null,
-      "estimate": null,
+      "estimate": 8,
       "checklist": [],
       "worklog": [
         {
@@ -2786,10 +2786,15 @@
           "at": "2026-10-26T18:51:52.030Z",
           "by": "m2",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-10-26T18:54:06.023Z",
+          "by": "m2",
+          "text": "Changed estimate from none to 8h"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-10-26T18:51:52.030Z"
+      "updated": "2026-10-26T18:54:06.023Z"
     }
   ]
 }
