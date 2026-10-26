@@ -1438,15 +1438,7 @@
       "due": null,
       "estimate": null,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmvpm5u9qxs2f",
-          "date": "2026-10-15",
-          "hours": 2,
-          "note": "",
-          "member": "m2"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -1473,10 +1465,15 @@
           "at": "2026-10-26T18:52:20.990Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:52:24.963Z",
+          "by": "m2",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-10-15T14:13:09.986Z",
-      "updated": "2026-10-26T18:52:20.990Z"
+      "updated": "2026-10-26T18:52:24.963Z"
     },
     {
       "id": "G23-37",
