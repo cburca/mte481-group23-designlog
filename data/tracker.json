@@ -2602,6 +2602,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m2"
+        },
+        {
+          "id": "wmvpm0x365tz7",
+          "date": "2026-10-19",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -2640,10 +2647,15 @@
           "at": "2026-10-26T18:48:15.663Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:48:31.362Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-10-26T18:48:15.663Z"
+      "updated": "2026-10-26T18:48:31.362Z"
     }
   ]
 }
