@@ -2854,6 +2854,13 @@
           "hours": 2,
           "note": "Meeting",
           "member": "m3"
+        },
+        {
+          "id": "wmvpr6djiwtz9",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting minutes",
+          "member": "m1"
         }
       ],
       "comments": [],
@@ -2937,10 +2944,15 @@
           "at": "2026-10-26T23:04:07.578Z",
           "by": "m3",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T21:12:44.046Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-10-26T23:04:07.578Z"
+      "updated": "2026-10-26T21:12:44.046Z"
     }
   ]
 }
