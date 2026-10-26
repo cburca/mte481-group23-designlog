@@ -484,6 +484,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m1"
+        },
+        {
+          "id": "wmvpm23enwe3r",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m1"
         }
       ],
       "comments": [],
@@ -512,10 +519,15 @@
           "at": "2026-10-26T18:49:15.160Z",
           "by": "m1",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:49:26.207Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T18:40:37.517Z",
-      "updated": "2026-10-26T18:49:15.160Z"
+      "updated": "2026-10-26T18:49:26.207Z"
     },
     {
       "id": "G23-19",
