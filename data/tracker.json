@@ -2754,6 +2754,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m2"
+        },
+        {
+          "id": "wmvpmc1ehsxcz",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -2827,10 +2834,15 @@
           "at": "2026-10-26T18:54:06.023Z",
           "by": "m2",
           "text": "Changed estimate from none to 8h"
+        },
+        {
+          "at": "2026-10-26T18:57:10.169Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-10-26T18:54:06.023Z"
+      "updated": "2026-10-26T18:57:10.169Z"
     },
     {
       "id": "G23-60",
