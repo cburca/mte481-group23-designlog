@@ -1505,6 +1505,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m2"
+        },
+        {
+          "id": "wmvpmbdtwbwah",
+          "date": "2026-10-15",
+          "hours": 2,
+          "note": "Meeting",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -1548,10 +1555,15 @@
           "at": "2026-10-26T18:53:47.041Z",
           "by": "m2",
           "text": "Changed estimate from none to 8h"
+        },
+        {
+          "at": "2026-10-26T18:56:39.620Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-15T14:13:09.986Z",
-      "updated": "2026-10-26T18:53:47.041Z"
+      "updated": "2026-10-26T18:56:39.620Z"
     },
     {
       "id": "G23-37",
