@@ -2845,50 +2845,6 @@
       "updated": "2026-10-26T18:57:10.169Z"
     },
     {
-      "id": "G23-61",
-      "type": "task",
-      "title": "10/19/26 - Weekly Meeting",
-      "description": "",
-      "parent": "G23-18",
-      "discipline": null,
-      "status": "done",
-      "priority": "medium",
-      "reporter": "m3",
-      "owner": "m3",
-      "approver": null,
-      "accepted": null,
-      "start": "2026-10-19",
-      "due": "2026-10-19",
-      "estimate": 2,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-10-26T22:59:15.372Z",
-          "by": "m3",
-          "text": "Created ticket"
-        },
-        {
-          "at": "2026-10-26T22:59:30.879Z",
-          "by": "m3",
-          "text": "Changed owner from none to Zain Mahmoud"
-        },
-        {
-          "at": "2026-10-26T22:59:33.497Z",
-          "by": "m3",
-          "text": "Changed approver from Zain Mahmoud to none"
-        },
-        {
-          "at": "2026-10-26T22:59:40.017Z",
-          "by": "m3",
-          "text": "Changed status from To do to Done"
-        }
-      ],
-      "created": "2026-10-26T22:59:15.372Z",
-      "updated": "2026-10-26T22:59:40.017Z"
-    },
-    {
       "id": "G23-62",
       "type": "task",
       "title": "10/13/26 - Weekly Meeting",
