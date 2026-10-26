@@ -477,6 +477,13 @@
           "hours": 2,
           "note": "Weekly Meeting",
           "member": "m1"
+        },
+        {
+          "id": "wmvpm1uvsu6a2",
+          "date": "2026-10-19",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m1"
         }
       ],
       "comments": [],
@@ -500,10 +507,15 @@
           "at": "2026-10-26T18:48:40.642Z",
           "by": "m1",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:49:15.160Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T18:40:37.517Z",
-      "updated": "2026-10-26T18:48:40.642Z"
+      "updated": "2026-10-26T18:49:15.160Z"
     },
     {
       "id": "G23-19",
