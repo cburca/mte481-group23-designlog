@@ -2883,7 +2883,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m3",
-      "owner": null,
+      "owner": "m3",
       "approver": "m3",
       "accepted": null,
       "start": "2026-10-19",
@@ -2897,10 +2897,15 @@
           "at": "2026-10-26T22:59:15.372Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-26T22:59:30.879Z",
+          "by": "m3",
+          "text": "Changed owner from none to Zain Mahmoud"
         }
       ],
       "created": "2026-10-26T22:59:15.372Z",
-      "updated": "2026-10-26T22:59:15.372Z"
+      "updated": "2026-10-26T22:59:30.879Z"
     }
   ]
 }
