@@ -1264,7 +1264,7 @@
       "accepted": null,
       "start": null,
       "due": null,
-      "estimate": null,
+      "estimate": 8,
       "checklist": [],
       "worklog": [
         {
@@ -1311,10 +1311,15 @@
           "at": "2026-10-26T18:53:16.904Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:53:41.231Z",
+          "by": "m2",
+          "text": "Changed estimate from none to 8h"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-26T18:53:16.904Z"
+      "updated": "2026-10-26T18:53:41.231Z"
     },
     {
       "id": "G23-34",
