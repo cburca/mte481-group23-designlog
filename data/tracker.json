@@ -920,7 +920,10 @@
       "reporter": "m1",
       "owner": "m1",
       "approver": "m1",
-      "accepted": null,
+      "accepted": {
+        "by": "m1",
+        "at": "2026-10-26T18:38:50.707Z"
+      },
       "start": null,
       "due": "2026-10-19",
       "estimate": null,
@@ -977,10 +980,15 @@
           "at": "2026-10-26T18:38:49.695Z",
           "by": "m1",
           "text": "Changed status from In progress to Done"
+        },
+        {
+          "at": "2026-10-26T18:38:50.707Z",
+          "by": "m1",
+          "text": "Accepted the ticket"
         }
       ],
       "created": "2026-10-05T19:18:36.512Z",
-      "updated": "2026-10-26T18:38:49.695Z"
+      "updated": "2026-10-26T18:38:50.707Z"
     },
     {
       "id": "G23-30",
