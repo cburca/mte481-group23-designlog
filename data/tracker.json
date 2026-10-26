@@ -2546,7 +2546,7 @@
       "description": "Specification Derivations\n- Realistic salt capacity/usage\n- Get rated weight of robot\n- Torque required by motors\n- Electrical power requirements\n   - Drive motors\n   - Salt dispensing motor(s)\n   - 3x Realsense cameras\n   - 2D LiDAR\n   - IMU/GPS Module\n   - Jetson Orin Nano OR AGX Xavier\n   - MCU (establish if we prefer 3.3v/5v tolerant pins",
       "parent": "G23-18",
       "discipline": null,
-      "status": "inprogress",
+      "status": "todo",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -2573,10 +2573,15 @@
           "at": "2026-10-26T18:45:59.987Z",
           "by": "m1",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-10-26T18:47:00.810Z",
+          "by": "m2",
+          "text": "Changed status from In progress to To do"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-10-26T18:45:59.987Z"
+      "updated": "2026-10-26T18:47:00.810Z"
     }
   ]
 }
