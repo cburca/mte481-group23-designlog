@@ -860,7 +860,15 @@
       "due": "2026-10-19",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvpln8qbwucr",
+          "date": "2026-10-15",
+          "hours": 0.5,
+          "note": "Patent search",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -877,10 +885,15 @@
           "at": "2026-10-13T16:15:22.971Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-26T18:37:53.267Z",
+          "by": "m1",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-05T19:14:23.547Z",
-      "updated": "2026-10-13T16:15:22.971Z"
+      "updated": "2026-10-26T18:37:53.267Z"
     },
     {
       "id": "G23-29",
