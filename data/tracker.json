@@ -2718,6 +2718,13 @@
           "hours": 2,
           "note": "Meeting",
           "member": "m4"
+        },
+        {
+          "id": "wmvpv6iba6va6",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting",
+          "member": "m3"
         }
       ],
       "comments": [],
@@ -2761,10 +2768,15 @@
           "at": "2026-10-26T18:56:55.935Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T23:04:48.695Z",
+          "by": "m3",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T18:39:02.793Z",
-      "updated": "2026-10-26T18:56:55.935Z"
+      "updated": "2026-10-26T23:04:48.695Z"
     },
     {
       "id": "G23-59",
