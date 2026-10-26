@@ -2884,7 +2884,7 @@
       "priority": "medium",
       "reporter": "m3",
       "owner": "m3",
-      "approver": "m3",
+      "approver": null,
       "accepted": null,
       "start": "2026-10-19",
       "due": "2026-10-19",
@@ -2902,10 +2902,15 @@
           "at": "2026-10-26T22:59:30.879Z",
           "by": "m3",
           "text": "Changed owner from none to Zain Mahmoud"
+        },
+        {
+          "at": "2026-10-26T22:59:33.497Z",
+          "by": "m3",
+          "text": "Changed approver from Zain Mahmoud to none"
         }
       ],
       "created": "2026-10-26T22:59:15.372Z",
-      "updated": "2026-10-26T22:59:30.879Z"
+      "updated": "2026-10-26T22:59:33.497Z"
     }
   ]
 }
