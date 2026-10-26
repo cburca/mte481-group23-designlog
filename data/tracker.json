@@ -1292,6 +1292,13 @@
           "hours": 2,
           "note": "Meeting",
           "member": "m4"
+        },
+        {
+          "id": "wmvpv644nqam5",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting",
+          "member": "m3"
         }
       ],
       "comments": [],
@@ -1340,10 +1347,15 @@
           "at": "2026-10-26T18:56:12.946Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T23:04:30.311Z",
+          "by": "m3",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-26T18:56:12.946Z"
+      "updated": "2026-10-26T23:04:30.311Z"
     },
     {
       "id": "G23-34",
