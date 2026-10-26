@@ -1379,7 +1379,7 @@
       "description": "",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m3",
       "owner": "m3",
@@ -1443,10 +1443,15 @@
           "at": "2026-10-18T23:47:06.771Z",
           "by": "m3",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-10-26T23:13:36.514Z",
+          "by": "m3",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-13T16:59:54.247Z",
-      "updated": "2026-10-18T23:47:06.771Z"
+      "updated": "2026-10-26T23:13:36.514Z"
     },
     {
       "id": "G23-35",
