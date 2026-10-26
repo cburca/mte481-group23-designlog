@@ -456,17 +456,30 @@
       "due": "2027-04-30",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvpm0debna5u",
+          "date": "2026-10-05",
+          "hours": 2,
+          "note": "Weekly Meeting",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-10-05T18:40:37.517Z",
           "by": "m1",
           "text": "Created epic"
+        },
+        {
+          "at": "2026-10-26T18:48:05.843Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T18:40:37.517Z",
-      "updated": "2026-10-05T18:40:37.517Z"
+      "updated": "2026-10-26T18:48:05.843Z"
     },
     {
       "id": "G23-19",
