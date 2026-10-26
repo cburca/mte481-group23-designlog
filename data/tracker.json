@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 59,
+  "nextId": 60,
   "members": [
     {
       "id": "m1",
@@ -2538,6 +2538,35 @@
       ],
       "created": "2026-10-19T18:39:02.793Z",
       "updated": "2026-10-19T19:55:46.329Z"
+    },
+    {
+      "id": "G23-59",
+      "type": "task",
+      "title": "10/26/26 - Weekly Meeting Minutes",
+      "description": "Specification Derivations\n- Realistic salt capacity/usage\n- Get rated weight of robot\n- Torque required by motors\n- Electrical power requirements\n   - Drive motors\n   - Salt dispensing motor(s)\n   - 3x Realsense cameras\n   - 2D LiDAR\n   - IMU/GPS Module\n   - Jetson Orin Nano OR AGX Xavier\n   - MCU (establish if we prefer 3.3v/5v tolerant pins\n   - ",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-10-26T18:44:45.675Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-10-26T18:44:45.675Z",
+      "updated": "2026-10-26T18:44:45.675Z"
     }
   ]
 }
