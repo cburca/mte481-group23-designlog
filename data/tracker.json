@@ -2207,7 +2207,15 @@
       "due": "2026-12-31",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvp8g580ttpo",
+          "date": "2026-10-23",
+          "hours": 2.5,
+          "note": "Created several Gazebo worlds for simulation in different weather conditions.",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2224,10 +2232,15 @@
           "at": "2026-10-19T01:14:36.470Z",
           "by": "m1",
           "text": "Changed due date from Dec 18, 2026 to Dec 31, 2026"
+        },
+        {
+          "at": "2026-10-26T12:28:27.120Z",
+          "by": "m1",
+          "text": "Logged 2.5h"
         }
       ],
       "created": "2026-10-19T01:00:59.015Z",
-      "updated": "2026-10-19T01:14:36.470Z"
+      "updated": "2026-10-26T12:28:27.120Z"
     },
     {
       "id": "G23-52",
