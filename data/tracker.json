@@ -2924,7 +2924,7 @@
       "description": "",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m3",
       "owner": "m3",
@@ -2941,10 +2941,15 @@
           "at": "2026-10-26T23:02:24.609Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-26T23:02:31.753Z",
+          "by": "m3",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-26T23:02:24.609Z",
-      "updated": "2026-10-26T23:02:24.609Z"
+      "updated": "2026-10-26T23:02:31.753Z"
     }
   ]
 }
