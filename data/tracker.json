@@ -915,7 +915,7 @@
       "description": "- Drivetrain\n- Robot Chassis/System\n- Salt dispensing\n\nDecision Matrix for Autonomy:\nhttps://docs.google.com/spreadsheets/d/1wjk9sk3oAXXBYb_ubgtczJSfXSo5QqKxXQR95gfwKbk/edit?pli=1&gid=0#gid=0",
       "parent": "G23-20",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -972,10 +972,15 @@
           "at": "2026-10-15T14:00:27.349Z",
           "by": "m1",
           "text": "Logged 2.5h"
+        },
+        {
+          "at": "2026-10-26T18:38:49.695Z",
+          "by": "m1",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-10-05T19:18:36.512Z",
-      "updated": "2026-10-15T14:00:27.349Z"
+      "updated": "2026-10-26T18:38:49.695Z"
     },
     {
       "id": "G23-30",
