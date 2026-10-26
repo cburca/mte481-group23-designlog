@@ -1187,17 +1187,30 @@
       "due": "2026-10-19",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvpvj4ki46t7",
+          "date": "2026-10-26",
+          "hours": 1,
+          "note": "Review patent for de-icer robot",
+          "member": "m3"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-10-05T19:26:31.940Z",
           "by": "m3",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-10-26T23:14:37.410Z",
+          "by": "m3",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-10-05T19:26:31.940Z",
-      "updated": "2026-10-05T19:26:31.940Z"
+      "updated": "2026-10-26T23:14:37.410Z"
     },
     {
       "id": "G23-32",
