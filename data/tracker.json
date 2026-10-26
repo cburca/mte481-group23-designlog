@@ -850,7 +850,7 @@
       "description": "https://docs.google.com/document/d/1wW8hq8U-MPLMA2kVeN1LDXok6n-TH5ElSgN0-XaPev4/edit?tab=t.0#heading=h.tvsmll7m5v0",
       "parent": "G23-20",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -890,10 +890,15 @@
           "at": "2026-10-26T18:37:53.267Z",
           "by": "m1",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-10-26T18:37:56.697Z",
+          "by": "m1",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-10-05T19:14:23.547Z",
-      "updated": "2026-10-26T18:37:53.267Z"
+      "updated": "2026-10-26T18:37:56.697Z"
     },
     {
       "id": "G23-29",
