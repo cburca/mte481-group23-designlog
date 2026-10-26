@@ -2568,7 +2568,15 @@
       "due": null,
       "estimate": 2,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvpm5ige46r3",
+          "date": "2026-10-19",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2595,10 +2603,15 @@
           "at": "2026-10-19T19:55:46.329Z",
           "by": "m1",
           "text": "Changed status from To do to Done"
+        },
+        {
+          "at": "2026-10-26T18:52:05.678Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T18:39:02.793Z",
-      "updated": "2026-10-19T19:55:46.329Z"
+      "updated": "2026-10-26T18:52:05.678Z"
     },
     {
       "id": "G23-59",
