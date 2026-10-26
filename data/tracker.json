@@ -359,7 +359,7 @@
       "accepted": null,
       "start": "2026-10-05",
       "due": "2026-10-16",
-      "estimate": null,
+      "estimate": 1,
       "checklist": [],
       "worklog": [],
       "comments": [],
@@ -393,10 +393,15 @@
           "at": "2026-10-26T23:13:01.301Z",
           "by": "m3",
           "text": "Changed owner from none to Zain Mahmoud"
+        },
+        {
+          "at": "2026-10-26T23:13:10.745Z",
+          "by": "m3",
+          "text": "Changed estimate from none to 1h"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-26T23:13:01.301Z",
+      "updated": "2026-10-26T23:13:10.745Z",
       "id": "G23-16",
       "title": "Select microcontroller and toolchain"
     },
