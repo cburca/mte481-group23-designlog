@@ -560,6 +560,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m2"
+        },
+        {
+          "id": "wmvpv5aufgi9x",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "meeting",
+          "member": "m3"
         }
       ],
       "comments": [],
@@ -603,10 +610,15 @@
           "at": "2026-10-26T18:53:34.661Z",
           "by": "m2",
           "text": "Changed estimate from 2h to 8h"
+        },
+        {
+          "at": "2026-10-26T23:03:52.359Z",
+          "by": "m3",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T18:41:18.387Z",
-      "updated": "2026-10-26T18:53:34.661Z"
+      "updated": "2026-10-26T23:03:52.359Z"
     },
     {
       "id": "G23-20",
