@@ -2845,35 +2845,6 @@
       "updated": "2026-10-26T18:57:10.169Z"
     },
     {
-      "id": "G23-60",
-      "type": "task",
-      "title": "10/26/26 - Weekly Meeting",
-      "description": "",
-      "parent": "G23-18",
-      "discipline": null,
-      "status": "todo",
-      "priority": "medium",
-      "reporter": "m3",
-      "owner": "m3",
-      "approver": null,
-      "accepted": null,
-      "start": "2026-10-26",
-      "due": "2026-10-26",
-      "estimate": 2,
-      "checklist": [],
-      "worklog": [],
-      "comments": [],
-      "history": [
-        {
-          "at": "2026-10-26T22:57:03.268Z",
-          "by": "m3",
-          "text": "Created ticket"
-        }
-      ],
-      "created": "2026-10-26T22:57:03.268Z",
-      "updated": "2026-10-26T22:57:03.268Z"
-    },
-    {
       "id": "G23-61",
       "type": "task",
       "title": "10/19/26 - Weekly Meeting",
