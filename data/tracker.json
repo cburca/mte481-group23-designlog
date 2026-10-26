@@ -1438,7 +1438,15 @@
       "due": null,
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvpm5u9qxs2f",
+          "date": "2026-10-15",
+          "hours": 2,
+          "note": "",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1460,10 +1468,15 @@
           "at": "2026-10-15T18:12:48.881Z",
           "by": "m1",
           "text": "Changed status from In review to Done"
+        },
+        {
+          "at": "2026-10-26T18:52:20.990Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-15T14:13:09.986Z",
-      "updated": "2026-10-15T18:12:48.881Z"
+      "updated": "2026-10-26T18:52:20.990Z"
     },
     {
       "id": "G23-37",
