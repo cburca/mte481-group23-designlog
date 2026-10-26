@@ -1177,7 +1177,7 @@
       "description": "Link to the patent:\nhttps://patents.google.com/patent/US9902069B2/en",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m3",
       "owner": "m3",
@@ -1207,10 +1207,15 @@
           "at": "2026-10-26T23:14:37.410Z",
           "by": "m3",
           "text": "Logged 1h"
+        },
+        {
+          "at": "2026-10-26T23:14:39.917Z",
+          "by": "m3",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T19:26:31.940Z",
-      "updated": "2026-10-26T23:14:37.410Z"
+      "updated": "2026-10-26T23:14:39.917Z"
     },
     {
       "id": "G23-32",
