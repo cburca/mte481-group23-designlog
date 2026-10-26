@@ -553,6 +553,13 @@
           "hours": 2,
           "note": "Meeting",
           "member": "m4"
+        },
+        {
+          "id": "wmvpm78sa108t",
+          "date": "2026-10-05",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -586,10 +593,15 @@
           "at": "2026-10-26T18:52:32.858Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-10-26T18:53:26.458Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-05T18:41:18.387Z",
-      "updated": "2026-10-26T18:52:32.858Z"
+      "updated": "2026-10-26T18:53:26.458Z"
     },
     {
       "id": "G23-20",
