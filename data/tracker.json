@@ -2401,7 +2401,7 @@
       "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
-      "owner": null,
+      "owner": "m1",
       "approver": null,
       "accepted": null,
       "start": "2026-10-19",
@@ -2453,10 +2453,15 @@
           "at": "2026-10-31T15:38:15.111Z",
           "by": "m1",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-10-31T15:38:18.495Z",
+          "by": "m1",
+          "text": "Changed owner from none to Chris Burca"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-10-31T15:38:15.111Z"
+      "updated": "2026-10-31T15:38:18.495Z"
     },
     {
       "id": "G23-50",
