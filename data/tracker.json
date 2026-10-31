@@ -2395,7 +2395,7 @@
       "id": "G23-49",
       "type": "task",
       "title": "Early Isolated Hardware Bringup Testing (Realsense, Batteries)",
-      "description": "",
+      "description": "* Test all realsense cameras\n* Test batteries\n* Jetson Orin Nano Bringup",
       "parent": "G23-5",
       "discipline": null,
       "status": "todo",
@@ -2430,10 +2430,15 @@
           "at": "2026-10-19T01:02:35.189Z",
           "by": "m1",
           "text": "Changed due date from Oct 28, 2026 to Nov 2, 2026"
+        },
+        {
+          "at": "2026-10-31T15:37:07.784Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-10-19T01:02:35.189Z"
+      "updated": "2026-10-31T15:37:07.784Z"
     },
     {
       "id": "G23-50",
