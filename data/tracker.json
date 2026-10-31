@@ -2507,7 +2507,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m1",
-      "owner": null,
+      "owner": "m1",
       "approver": null,
       "accepted": null,
       "start": "2026-10-26",
@@ -2544,10 +2544,15 @@
           "at": "2026-10-26T12:28:27.120Z",
           "by": "m1",
           "text": "Logged 2.5h"
+        },
+        {
+          "at": "2026-10-31T15:38:42.794Z",
+          "by": "m1",
+          "text": "Changed owner from none to Chris Burca"
         }
       ],
       "created": "2026-10-19T01:00:59.015Z",
-      "updated": "2026-10-26T12:28:27.120Z"
+      "updated": "2026-10-31T15:38:42.794Z"
     },
     {
       "id": "G23-52",
