@@ -418,7 +418,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m1",
-      "owner": null,
+      "owner": "m1",
       "approver": null,
       "accepted": null,
       "start": "2026-10-26",
@@ -447,10 +447,15 @@
           "at": "2026-10-26T12:27:41.986Z",
           "by": "m1",
           "text": "Changed start date from Oct 5, 2026 to Oct 26, 2026"
+        },
+        {
+          "at": "2026-10-31T15:38:35.524Z",
+          "by": "m1",
+          "text": "Changed owner from none to Chris Burca"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-26T12:27:41.986Z",
+      "updated": "2026-10-31T15:38:35.524Z",
       "id": "G23-17",
       "title": "Define software architecture"
     },
