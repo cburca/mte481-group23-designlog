@@ -2408,7 +2408,15 @@
       "due": "2026-11-02",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvwkfdlnnjwm",
+          "date": "2026-10-30",
+          "hours": 3.5,
+          "note": "Jetson Orin Nano bringup with Jetpack 7.2.1, Isaac Ros, cuVSLAM. Now onto testing realsense cameras with the stack.",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2435,10 +2443,15 @@
           "at": "2026-10-31T15:37:07.784Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-10-31T15:38:09.947Z",
+          "by": "m1",
+          "text": "Logged 3.5h"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-10-31T15:37:07.784Z"
+      "updated": "2026-10-31T15:38:09.947Z"
     },
     {
       "id": "G23-50",
