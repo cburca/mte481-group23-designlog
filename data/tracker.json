@@ -2504,7 +2504,7 @@
       "description": "Develop 3D digital twin as mechanical description becomes available",
       "parent": "G23-5",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -2549,10 +2549,15 @@
           "at": "2026-10-31T15:38:42.794Z",
           "by": "m1",
           "text": "Changed owner from none to Chris Burca"
+        },
+        {
+          "at": "2026-10-31T15:38:49.774Z",
+          "by": "m1",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-19T01:00:59.015Z",
-      "updated": "2026-10-31T15:38:42.794Z"
+      "updated": "2026-10-31T15:38:49.774Z"
     },
     {
       "id": "G23-52",
