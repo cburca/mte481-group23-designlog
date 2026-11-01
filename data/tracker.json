@@ -686,7 +686,7 @@
       "description": "Grading Criteria:\nWas the quality of text/figures/photos/equations good? Were the presenters enthusiastic and interesting? Did they speak clearly and to the audience?\n\nTo get 100%:\nPolished, professional, and highly engaging. Presenters are persuasive and confident, handling questions with poise. Visual aids (slides, figures) are exceptional and significantly enhance understanding.",
       "parent": "G23-20",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -713,10 +713,15 @@
           "at": "2026-10-05T19:24:17.048Z",
           "by": "m2",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-11-01T22:26:22.984Z",
+          "by": "m4",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T19:01:27.108Z",
-      "updated": "2026-10-05T19:24:17.048Z"
+      "updated": "2026-11-01T22:26:22.984Z"
     },
     {
       "id": "G23-23",
