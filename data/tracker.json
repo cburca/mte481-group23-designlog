@@ -725,7 +725,7 @@
       "description": "The introduction should provide the background and motivation for the project and a needs statement/assessment.\nMake the audience aware of the pain that is being addressed and articulate it into a clear and well-defined need.",
       "parent": "G23-2",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m2",
       "owner": null,
@@ -752,10 +752,15 @@
           "at": "2026-10-19T00:28:23.904Z",
           "by": "m2",
           "text": "Changed epic from G23-20 [EPIC] Preliminary Design Presentation to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-11-01T22:25:43.447Z",
+          "by": "m4",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T19:03:49.143Z",
-      "updated": "2026-10-19T00:28:23.904Z"
+      "updated": "2026-11-01T22:25:43.447Z"
     },
     {
       "id": "G23-24",
