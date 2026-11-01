@@ -1362,6 +1362,13 @@
           "hours": 2,
           "note": "Meeting",
           "member": "m3"
+        },
+        {
+          "id": "wmvyen357r5dw",
+          "date": "2026-10-13",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -1415,10 +1422,15 @@
           "at": "2026-10-26T23:04:30.311Z",
           "by": "m3",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-01T22:31:44.299Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-13T12:20:58.989Z",
-      "updated": "2026-10-26T23:04:30.311Z"
+      "updated": "2026-11-01T22:31:44.299Z"
     },
     {
       "id": "G23-34",
