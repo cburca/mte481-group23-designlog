@@ -657,7 +657,7 @@
       "description": "- Need\n- Problem Definition \n- Objectives, Constraints and Criteria\n- Alternate Design Solutions (at least 4 alternative solutions)\n- Patent Search (at least 3 patents)\n- Relative merits and demerits\n- Is your design Patentable?\n- Design Selection (Decision) Matrix\n- Project Timeline\n",
       "parent": null,
       "discipline": "project",
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -684,10 +684,15 @@
           "at": "2026-10-05T19:04:56.033Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-11-02T19:42:46.832Z",
+          "by": "m1",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-10-05T18:58:16.577Z",
-      "updated": "2026-10-05T19:04:56.033Z"
+      "updated": "2026-11-02T19:42:46.832Z"
     },
     {
       "id": "G23-22",
