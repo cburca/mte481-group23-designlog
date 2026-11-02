@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 63,
+  "nextId": 64,
   "members": [
     {
       "id": "m1",
@@ -3091,6 +3091,35 @@
       ],
       "created": "2026-10-26T18:44:45.675Z",
       "updated": "2026-11-01T22:32:58.234Z"
+    },
+    {
+      "id": "G23-63",
+      "type": "task",
+      "title": "11/02/26 - Weekly Meeting Minutes",
+      "description": "- Discuss updates on salt spreader sourcing/approach\n- Further discussion on spec derivations\n- Proposed drivetrain\n- Preliminary mech costing\n- Prep for this week's advisor meeting",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-02",
+      "due": "2026-11-02",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-02T19:35:38.113Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-02T19:35:38.113Z",
+      "updated": "2026-11-02T19:35:38.113Z"
     }
   ]
 }
