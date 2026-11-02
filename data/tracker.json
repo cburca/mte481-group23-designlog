@@ -3148,7 +3148,7 @@
       "description": "- Conceptual Design Sketches\n    - Assembly\n    - Drive shaft and housing (steps and assembly order) \n- Associated Calculations\n    - Drive shaft diameter\n    - Drive shaft bearings\n    - Required motor sizing",
       "parent": "G23-2",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m2",
@@ -3178,10 +3178,15 @@
           "at": "2026-11-02T20:18:31.953Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-02T20:22:11.927Z",
+          "by": "m2",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-02T20:18:31.953Z"
+      "updated": "2026-11-02T20:22:11.927Z"
     }
   ]
 }
