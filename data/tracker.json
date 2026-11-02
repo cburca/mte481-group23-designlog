@@ -3158,17 +3158,30 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmvzpbmvl9ax6",
+          "date": "2026-11-02",
+          "hours": 2,
+          "note": "Conceptual Sketches and Found Spreader",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-11-02T20:02:47.686Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-02T20:18:31.953Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-02T20:02:47.686Z"
+      "updated": "2026-11-02T20:18:31.953Z"
     }
   ]
 }
