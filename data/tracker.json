@@ -3101,7 +3101,7 @@
       "id": "G23-63",
       "type": "task",
       "title": "11/02/26 - Weekly Meeting Minutes",
-      "description": "- Discuss updates on salt spreader sourcing/approach\n- Further discussion on spec derivations\n- Proposed drivetrain\n- Preliminary mech costing\n- Prep for this week's advisor meeting",
+      "description": "- Discuss updates on salt spreader sourcing/approach\n- Further discussion on spec derivations\n- Proposed drivetrain\n- Preliminary mech costing\n- Prep for this week's advisor meeting:\n   - Flag that we'll need to go above 100W (will be told to contact Paul Groh)\n      - What sort of extra electrical parts are required?\n   - Show budgeted power budget for the whole vehicle\n   - Drive motor characterization\n   - Bearing design (for both salt dispenser AND drivetrain)\n   - ",
       "parent": "G23-18",
       "discipline": null,
       "status": "todo",
@@ -3131,10 +3131,15 @@
           "at": "2026-11-02T19:43:08.645Z",
           "by": "m1",
           "text": "Changed due date from Nov 2, 2026 to none"
+        },
+        {
+          "at": "2026-11-02T19:58:11.884Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-11-02T19:35:38.113Z",
-      "updated": "2026-11-02T19:43:08.645Z"
+      "updated": "2026-11-02T19:58:11.884Z"
     }
   ]
 }
