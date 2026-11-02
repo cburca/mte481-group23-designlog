@@ -3110,7 +3110,7 @@
       "owner": "m1",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-02",
+      "start": null,
       "due": "2026-11-02",
       "estimate": null,
       "checklist": [],
@@ -3121,10 +3121,15 @@
           "at": "2026-11-02T19:35:38.113Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-02T19:43:04.284Z",
+          "by": "m1",
+          "text": "Changed start date from Nov 2, 2026 to none"
         }
       ],
       "created": "2026-11-02T19:35:38.113Z",
-      "updated": "2026-11-02T19:35:38.113Z"
+      "updated": "2026-11-02T19:43:04.284Z"
     }
   ]
 }
