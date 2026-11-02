@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 64,
+  "nextId": 65,
   "members": [
     {
       "id": "m1",
@@ -3140,6 +3140,35 @@
       ],
       "created": "2026-11-02T19:35:38.113Z",
       "updated": "2026-11-02T19:58:11.884Z"
+    },
+    {
+      "id": "G23-64",
+      "type": "task",
+      "title": "Salt Spreader Design and Specifications",
+      "description": "- Conceptual Design Sketches\n    - Assembly\n    - Drive shaft and housing (steps and assembly order) \n- Associated Calculations\n    - Drive shaft diameter\n    - Drive shaft bearings\n    - Required motor sizing",
+      "parent": "G23-2",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m2",
+      "owner": "m2",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-10-26",
+      "due": "2026-11-16",
+      "estimate": 10,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-02T20:02:47.686Z",
+          "by": "m2",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-02T20:02:47.686Z",
+      "updated": "2026-11-02T20:02:47.686Z"
     }
   ]
 }
