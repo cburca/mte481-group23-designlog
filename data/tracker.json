@@ -3376,7 +3376,7 @@
       "type": "task",
       "title": "Powertrain Design and Specification",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -3408,10 +3408,15 @@
           "at": "2026-11-03T23:39:16.892Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-03T23:40:33.631Z",
+          "by": "m4",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-11-03T23:39:04.840Z",
-      "updated": "2026-11-03T23:39:16.892Z"
+      "updated": "2026-11-03T23:40:33.631Z"
     }
   ]
 }
