@@ -422,7 +422,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-10-26",
-      "due": "2026-11-06",
+      "due": "2026-11-13",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -452,10 +452,15 @@
           "at": "2026-10-31T15:38:35.524Z",
           "by": "m1",
           "text": "Changed owner from none to Chris Burca"
+        },
+        {
+          "at": "2026-11-03T03:07:42.591Z",
+          "by": "m1",
+          "text": "Changed due date from Nov 6, 2026 to Nov 13, 2026"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-10-31T15:38:35.524Z",
+      "updated": "2026-11-03T03:07:42.591Z",
       "id": "G23-17",
       "title": "Define software architecture"
     },
