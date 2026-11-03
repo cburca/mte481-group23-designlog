@@ -3378,7 +3378,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -3413,10 +3413,15 @@
           "at": "2026-11-03T23:40:33.631Z",
           "by": "m4",
           "text": "Changed epic from none to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-11-03T23:40:48.420Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-03T23:39:04.840Z",
-      "updated": "2026-11-03T23:40:33.631Z"
+      "updated": "2026-11-03T23:40:48.420Z"
     }
   ]
 }
