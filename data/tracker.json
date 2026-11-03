@@ -1773,7 +1773,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m4",
@@ -1857,10 +1857,15 @@
           "at": "2026-11-03T23:36:41.905Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-03T23:37:11.645Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-03T23:36:41.905Z"
+      "updated": "2026-11-03T23:37:11.645Z"
     },
     {
       "id": "G23-39",
