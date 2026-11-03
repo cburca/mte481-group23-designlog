@@ -1955,7 +1955,15 @@
       "due": "2026-10-31",
       "estimate": 15,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw04425jprvk",
+          "date": "2026-11-02",
+          "hours": 1.5,
+          "note": "Spec'ed 2D Lidar + GNSS module along w/ power requirements.",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2017,10 +2025,15 @@
           "at": "2026-10-19T01:15:39.771Z",
           "by": "m3",
           "text": "Changed estimate from 30h to 15h"
+        },
+        {
+          "at": "2026-11-03T03:12:32.743Z",
+          "by": "m1",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-10-19T00:39:56.420Z",
-      "updated": "2026-10-19T01:15:39.771Z"
+      "updated": "2026-11-03T03:12:32.743Z"
     },
     {
       "id": "G23-43",
