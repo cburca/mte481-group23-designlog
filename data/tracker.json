@@ -1928,7 +1928,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "inprogress",
+      "status": "todo",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m2",
@@ -1970,10 +1970,15 @@
           "at": "2026-11-03T23:38:35.236Z",
           "by": "m2",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-03T23:38:39.420Z",
+          "by": "m2",
+          "text": "Changed status from In progress to To do"
         }
       ],
       "created": "2026-10-19T00:29:18.599Z",
-      "updated": "2026-11-03T23:38:35.236Z"
+      "updated": "2026-11-03T23:38:39.420Z"
     },
     {
       "id": "G23-41",
