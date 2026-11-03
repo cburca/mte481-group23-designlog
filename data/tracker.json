@@ -3361,17 +3361,30 @@
       "due": "2026-11-09",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw1bxnh8zlm2",
+          "date": "2026-11-03",
+          "hours": 2,
+          "note": "Bearing Load Calculations",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-11-03T23:39:04.840Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-03T23:39:16.892Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-03T23:39:04.840Z",
-      "updated": "2026-11-03T23:39:04.840Z"
+      "updated": "2026-11-03T23:39:16.892Z"
     }
   ]
 }
