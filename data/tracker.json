@@ -3326,6 +3326,13 @@
           "hours": 3,
           "note": "Bearing Sketches and Formula Derivation",
           "member": "m2"
+        },
+        {
+          "id": "wmw1bz4jl50nt",
+          "date": "2026-10-26",
+          "hours": 1,
+          "note": "Required Salt Capacity and Hopper Size",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3354,10 +3361,15 @@
           "at": "2026-11-03T23:39:01.222Z",
           "by": "m2",
           "text": "Changed due date from Nov 16, 2026 to Nov 9, 2026"
+        },
+        {
+          "at": "2026-11-03T23:40:25.665Z",
+          "by": "m2",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-03T23:39:01.222Z"
+      "updated": "2026-11-03T23:40:25.665Z"
     },
     {
       "id": "G23-65",
