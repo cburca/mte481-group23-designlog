@@ -2495,6 +2495,13 @@
           "hours": 3.5,
           "note": "Jetson Orin Nano bringup with Jetpack 7.2.1, Isaac Ros, cuVSLAM. Now onto testing realsense cameras with the stack.",
           "member": "m1"
+        },
+        {
+          "id": "wmw03x5xkjvkv",
+          "date": "2026-10-31",
+          "hours": 2,
+          "note": "Setup Realsense driver & validated point cloud generation in RVIZ2. Next, try out RTAB-map to view & run feasibility for use in SLAM.",
+          "member": "m1"
         }
       ],
       "comments": [],
@@ -2538,10 +2545,15 @@
           "at": "2026-10-31T15:38:18.495Z",
           "by": "m1",
           "text": "Changed owner from none to Chris Burca"
+        },
+        {
+          "at": "2026-11-03T03:07:11.048Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-10-31T15:38:18.495Z"
+      "updated": "2026-11-03T03:07:11.048Z"
     },
     {
       "id": "G23-50",
