@@ -1783,15 +1783,7 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmvyedeyz7me2",
-          "date": "2026-10-29",
-          "hours": 1,
-          "note": "researched on wheel hubs",
-          "member": "m4"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -1863,10 +1855,15 @@
           "at": "2026-11-03T23:42:13.048Z",
           "by": "m4",
           "text": "Deleted a 1h time entry"
+        },
+        {
+          "at": "2026-11-03T23:42:15.135Z",
+          "by": "m4",
+          "text": "Deleted a 1h time entry"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-03T23:42:13.048Z"
+      "updated": "2026-11-03T23:42:15.135Z"
     },
     {
       "id": "G23-39",
