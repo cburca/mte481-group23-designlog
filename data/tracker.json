@@ -3395,6 +3395,13 @@
           "hours": 2,
           "note": "Bearing Load Calculations",
           "member": "m4"
+        },
+        {
+          "id": "wmw1c0gi70wp4",
+          "date": "2026-11-01",
+          "hours": 1,
+          "note": "preliminary sketches of wheel hub",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -3418,10 +3425,15 @@
           "at": "2026-11-03T23:40:48.420Z",
           "by": "m4",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-03T23:41:27.823Z",
+          "by": "m4",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-11-03T23:39:04.840Z",
-      "updated": "2026-11-03T23:40:48.420Z"
+      "updated": "2026-11-03T23:41:27.823Z"
     }
   ]
 }
