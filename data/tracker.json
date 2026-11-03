@@ -3139,7 +3139,7 @@
       "description": "- Discuss updates on salt spreader sourcing/approach\n- Further discussion on spec derivations\n- Proposed drivetrain\n- Preliminary mech costing\n- Prep for this week's advisor meeting:\n   - Flag that we'll need to go above 100W (will be told to contact Paul Groh)\n      - What sort of extra electrical parts are required?\n   - Show budgeted power budget for the whole vehicle\n   - Drive motor characterization\n   - Bearing design (for both salt dispenser AND drivetrain)\n   - ",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -3184,10 +3184,15 @@
           "at": "2026-11-02T21:33:53.447Z",
           "by": "m1",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-03T23:33:22.273Z",
+          "by": "m2",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-11-02T19:35:38.113Z",
-      "updated": "2026-11-02T21:33:53.447Z"
+      "updated": "2026-11-03T23:33:22.273Z"
     },
     {
       "id": "G23-64",
