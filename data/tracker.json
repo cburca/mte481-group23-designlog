@@ -2605,17 +2605,30 @@
       "due": "2026-11-02",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw1bsygrsge0",
+          "date": "2026-11-03",
+          "hours": 2,
+          "note": "Bearing Load Calculations",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-10-19T00:59:04.054Z",
           "by": "m2",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-03T23:35:37.851Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:59:04.054Z",
-      "updated": "2026-10-19T00:59:04.054Z"
+      "updated": "2026-11-03T23:35:37.851Z"
     },
     {
       "id": "G23-51",
