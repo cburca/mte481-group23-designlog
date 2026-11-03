@@ -1936,7 +1936,7 @@
       "accepted": null,
       "start": "2026-11-02",
       "due": "2026-11-16",
-      "estimate": 7.5,
+      "estimate": 10,
       "checklist": [],
       "worklog": [],
       "comments": [],
@@ -1975,10 +1975,15 @@
           "at": "2026-11-03T23:38:39.420Z",
           "by": "m2",
           "text": "Changed status from In progress to To do"
+        },
+        {
+          "at": "2026-11-03T23:39:14.756Z",
+          "by": "m2",
+          "text": "Changed estimate from 7.5h to 10h"
         }
       ],
       "created": "2026-10-19T00:29:18.599Z",
-      "updated": "2026-11-03T23:38:39.420Z"
+      "updated": "2026-11-03T23:39:14.756Z"
     },
     {
       "id": "G23-41",
