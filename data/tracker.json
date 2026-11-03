@@ -3156,6 +3156,13 @@
           "hours": 2,
           "note": "Meeting minutes",
           "member": "m1"
+        },
+        {
+          "id": "wmw1bqa4lrn3b",
+          "date": "2026-11-02",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3189,10 +3196,15 @@
           "at": "2026-11-03T23:33:22.273Z",
           "by": "m2",
           "text": "Changed status from To do to Done"
+        },
+        {
+          "at": "2026-11-03T23:33:32.997Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-02T19:35:38.113Z",
-      "updated": "2026-11-03T23:33:22.273Z"
+      "updated": "2026-11-03T23:33:32.997Z"
     },
     {
       "id": "G23-64",
