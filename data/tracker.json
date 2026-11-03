@@ -1790,13 +1790,6 @@
           "hours": 1,
           "note": "researched on wheel hubs",
           "member": "m4"
-        },
-        {
-          "id": "wmvyee3gnycca",
-          "date": "2026-11-01",
-          "hours": 1,
-          "note": "preliminary sketches of wheel hub",
-          "member": "m4"
         }
       ],
       "comments": [],
@@ -1865,10 +1858,15 @@
           "at": "2026-11-03T23:42:09.559Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-11-03T23:42:13.048Z",
+          "by": "m4",
+          "text": "Deleted a 1h time entry"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-03T23:42:09.559Z"
+      "updated": "2026-11-03T23:42:13.048Z"
     },
     {
       "id": "G23-39",
