@@ -1783,7 +1783,15 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw61wr8gntmn",
+          "date": "2026-11-03",
+          "hours": 2,
+          "note": "motor to wheel assembly 50%",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1890,10 +1898,15 @@
           "at": "2026-11-07T06:57:18.876Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-11-07T06:57:29.824Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-07T06:57:18.876Z"
+      "updated": "2026-11-07T06:57:29.824Z"
     },
     {
       "id": "G23-39",
