@@ -1783,7 +1783,15 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw60yzbw1t13",
+          "date": "2026-11-03",
+          "hours": 2,
+          "note": "motor to wheel assembly",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1870,10 +1878,15 @@
           "at": "2026-11-07T06:30:16.902Z",
           "by": "m4",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-07T06:31:14.012Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-07T06:30:16.902Z"
+      "updated": "2026-11-07T06:31:14.012Z"
     },
     {
       "id": "G23-39",
