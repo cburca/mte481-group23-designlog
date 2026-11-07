@@ -1790,13 +1790,6 @@
           "hours": 2,
           "note": "motor to wheel assembly",
           "member": "m4"
-        },
-        {
-          "id": "wmw61vzvrl2by",
-          "date": "2026-11-07",
-          "hours": 2,
-          "note": "finalized motor to wheel assembly",
-          "member": "m4"
         }
       ],
       "comments": [],
@@ -1895,10 +1888,15 @@
           "at": "2026-11-07T06:56:54.375Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-07T06:57:14.490Z",
+          "by": "m4",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-07T06:56:54.375Z"
+      "updated": "2026-11-07T06:57:14.490Z"
     },
     {
       "id": "G23-39",
