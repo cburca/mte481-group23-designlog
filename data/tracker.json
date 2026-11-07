@@ -1769,7 +1769,7 @@
     {
       "id": "G23-38",
       "type": "task",
-      "title": "Drive System CAD",
+      "title": "Powertrain CAD",
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
@@ -1860,10 +1860,15 @@
           "at": "2026-11-03T23:42:15.135Z",
           "by": "m4",
           "text": "Deleted a 1h time entry"
+        },
+        {
+          "at": "2026-11-07T06:30:15.324Z",
+          "by": "m4",
+          "text": "Changed title from Drive System CAD to Powertrain CAD"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-03T23:42:15.135Z"
+      "updated": "2026-11-07T06:30:15.324Z"
     },
     {
       "id": "G23-39",
