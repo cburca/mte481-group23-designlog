@@ -1937,7 +1937,15 @@
       "due": "2026-11-30",
       "estimate": 5,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw714hkk3q51",
+          "date": "2026-11-07",
+          "hours": 2,
+          "note": "framing",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -1974,10 +1982,15 @@
           "at": "2026-11-07T23:23:06.821Z",
           "by": "m4",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-07T23:23:17.108Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-07T23:23:06.821Z"
+      "updated": "2026-11-07T23:23:17.108Z"
     },
     {
       "id": "G23-40",
