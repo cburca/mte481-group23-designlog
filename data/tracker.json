@@ -1773,7 +1773,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m4",
@@ -1865,10 +1865,15 @@
           "at": "2026-11-07T06:30:15.324Z",
           "by": "m4",
           "text": "Changed title from Drive System CAD to Powertrain CAD"
+        },
+        {
+          "at": "2026-11-07T06:30:16.902Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-07T06:30:15.324Z"
+      "updated": "2026-11-07T06:30:16.902Z"
     },
     {
       "id": "G23-39",
