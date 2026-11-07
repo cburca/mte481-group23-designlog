@@ -3087,6 +3087,13 @@
           "hours": 2,
           "note": "Meeting minutes",
           "member": "m1"
+        },
+        {
+          "id": "wmw5zzx6dyjb3",
+          "date": "2026-10-26",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -3195,10 +3202,15 @@
           "at": "2026-11-07T06:03:43.193Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-11-07T06:03:58.261Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-26T18:44:45.675Z",
-      "updated": "2026-11-07T06:03:43.193Z"
+      "updated": "2026-11-07T06:03:58.261Z"
     },
     {
       "id": "G23-63",
