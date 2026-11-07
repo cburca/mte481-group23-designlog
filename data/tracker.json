@@ -1790,6 +1790,13 @@
           "hours": 2,
           "note": "motor to wheel assembly 50%",
           "member": "m4"
+        },
+        {
+          "id": "wmw715gwigw8v",
+          "date": "2026-11-06",
+          "hours": 2,
+          "note": "motor to wheel assembly 100%",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -1913,10 +1920,15 @@
           "at": "2026-11-07T23:23:54.231Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-11-07T23:24:02.898Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-07T23:23:54.231Z"
+      "updated": "2026-11-07T23:24:02.898Z"
     },
     {
       "id": "G23-39",
