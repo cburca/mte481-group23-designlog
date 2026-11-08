@@ -1947,15 +1947,7 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [
-        {
-          "id": "wmw77hnfobf3m",
-          "date": "2026-11-07",
-          "hours": 2,
-          "note": "framing 20%",
-          "member": "m4"
-        }
-      ],
+      "worklog": [],
       "comments": [],
       "history": [
         {
@@ -2047,10 +2039,15 @@
           "at": "2026-11-08T02:29:48.923Z",
           "by": "m4",
           "text": "Changed due date from Nov 30, 2026 to Nov 16, 2026"
+        },
+        {
+          "at": "2026-11-08T03:47:28.419Z",
+          "by": "m4",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T02:29:48.923Z"
+      "updated": "2026-11-08T03:47:28.419Z"
     },
     {
       "id": "G23-40",
