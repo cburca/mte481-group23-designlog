@@ -3658,7 +3658,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-11-16",
-      "due": null,
+      "due": "2026-11-23",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -3678,10 +3678,15 @@
           "at": "2026-11-08T02:30:59.434Z",
           "by": "m4",
           "text": "Changed start date from none to Nov 16, 2026"
+        },
+        {
+          "at": "2026-11-08T02:31:03.333Z",
+          "by": "m4",
+          "text": "Changed due date from none to Nov 23, 2026"
         }
       ],
       "created": "2026-11-08T02:27:40.200Z",
-      "updated": "2026-11-08T02:30:59.434Z"
+      "updated": "2026-11-08T02:31:03.333Z"
     }
   ]
 }
