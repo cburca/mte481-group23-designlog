@@ -1947,7 +1947,15 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw7akc53fuud",
+          "date": "2026-11-07",
+          "hours": 4,
+          "note": "framing 80%",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2044,10 +2052,15 @@
           "at": "2026-11-08T03:47:28.419Z",
           "by": "m4",
           "text": "Deleted a 2h time entry"
+        },
+        {
+          "at": "2026-11-08T03:47:33.111Z",
+          "by": "m4",
+          "text": "Logged 4h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T03:47:28.419Z"
+      "updated": "2026-11-08T03:47:33.111Z"
     },
     {
       "id": "G23-40",
