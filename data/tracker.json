@@ -1945,7 +1945,7 @@
       "accepted": null,
       "start": "2026-11-16",
       "due": "2026-11-30",
-      "estimate": 10,
+      "estimate": 100,
       "checklist": [],
       "worklog": [
         {
@@ -2012,10 +2012,15 @@
           "at": "2026-11-08T02:21:39.042Z",
           "by": "m4",
           "text": "Changed estimate from 5h to 10h"
+        },
+        {
+          "at": "2026-11-08T02:21:42.715Z",
+          "by": "m4",
+          "text": "Changed estimate from 10h to 100h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T02:21:39.042Z"
+      "updated": "2026-11-08T02:21:42.715Z"
     },
     {
       "id": "G23-40",
