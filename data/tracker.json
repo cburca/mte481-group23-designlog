@@ -1943,7 +1943,7 @@
       "owner": "m4",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-16",
+      "start": "2026-11-09",
       "due": "2026-11-30",
       "estimate": 10,
       "checklist": [],
@@ -2037,10 +2037,15 @@
           "at": "2026-11-08T02:25:27.474Z",
           "by": "m4",
           "text": "Changed title from Chassis CAD to Chassis - Framing CAD"
+        },
+        {
+          "at": "2026-11-08T02:29:18.935Z",
+          "by": "m4",
+          "text": "Changed start date from Nov 16, 2026 to Nov 9, 2026"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T02:25:27.474Z"
+      "updated": "2026-11-08T02:29:18.935Z"
     },
     {
       "id": "G23-40",
