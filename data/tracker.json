@@ -3605,7 +3605,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m4",
-      "owner": null,
+      "owner": "m4",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -3624,10 +3624,15 @@
           "at": "2026-11-08T02:26:36.283Z",
           "by": "m4",
           "text": "Changed epic from none to G23-2 Mechanical design"
+        },
+        {
+          "at": "2026-11-08T02:30:11.888Z",
+          "by": "m4",
+          "text": "Changed owner from none to Geffrey Chu"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-08T02:26:36.283Z"
+      "updated": "2026-11-08T02:30:11.888Z"
     },
     {
       "id": "G23-67",
