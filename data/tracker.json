@@ -3608,7 +3608,7 @@
       "owner": "m4",
       "approver": null,
       "accepted": null,
-      "start": null,
+      "start": "2026-11-23",
       "due": null,
       "estimate": null,
       "checklist": [],
@@ -3629,10 +3629,15 @@
           "at": "2026-11-08T02:30:11.888Z",
           "by": "m4",
           "text": "Changed owner from none to Geffrey Chu"
+        },
+        {
+          "at": "2026-11-08T02:30:32.267Z",
+          "by": "m4",
+          "text": "Changed start date from none to Nov 23, 2026"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-08T02:30:11.888Z"
+      "updated": "2026-11-08T02:30:32.267Z"
     },
     {
       "id": "G23-67",
