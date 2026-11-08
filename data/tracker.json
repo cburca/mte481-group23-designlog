@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 67,
+  "nextId": 68,
   "members": [
     {
       "id": "m1",
@@ -3618,6 +3618,35 @@
       ],
       "created": "2026-11-08T02:26:20.281Z",
       "updated": "2026-11-08T02:26:36.283Z"
+    },
+    {
+      "id": "G23-67",
+      "type": "task",
+      "title": "Interior CAD",
+      "description": "",
+      "parent": "G23-2",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m4",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-08T02:27:40.200Z",
+          "by": "m4",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-08T02:27:40.200Z",
+      "updated": "2026-11-08T02:27:40.200Z"
     }
   ]
 }
