@@ -1954,6 +1954,13 @@
           "hours": 2,
           "note": "framing",
           "member": "m4"
+        },
+        {
+          "id": "wmw77hnfobf3m",
+          "date": "2026-11-07",
+          "hours": 2,
+          "note": "framing 20%",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -1997,10 +2004,15 @@
           "at": "2026-11-07T23:23:17.108Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-08T02:21:28.933Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-07T23:23:17.108Z"
+      "updated": "2026-11-08T02:21:28.933Z"
     },
     {
       "id": "G23-40",
