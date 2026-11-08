@@ -1933,7 +1933,7 @@
     {
       "id": "G23-39",
       "type": "task",
-      "title": "Chassis CAD",
+      "title": "Chassis - Framing CAD",
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
@@ -2032,10 +2032,15 @@
           "at": "2026-11-08T02:21:52.704Z",
           "by": "m4",
           "text": "Changed estimate from 5h to 10h"
+        },
+        {
+          "at": "2026-11-08T02:25:27.474Z",
+          "by": "m4",
+          "text": "Changed title from Chassis CAD to Chassis - Framing CAD"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T02:21:52.704Z"
+      "updated": "2026-11-08T02:25:27.474Z"
     },
     {
       "id": "G23-40",
