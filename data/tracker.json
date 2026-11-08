@@ -3644,7 +3644,7 @@
       "status": "todo",
       "priority": "medium",
       "reporter": "m4",
-      "owner": null,
+      "owner": "m4",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -3658,10 +3658,15 @@
           "at": "2026-11-08T02:27:40.200Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-08T02:30:14.660Z",
+          "by": "m4",
+          "text": "Changed owner from none to Geffrey Chu"
         }
       ],
       "created": "2026-11-08T02:27:40.200Z",
-      "updated": "2026-11-08T02:27:40.200Z"
+      "updated": "2026-11-08T02:30:14.660Z"
     }
   ]
 }
