@@ -3590,7 +3590,7 @@
       "type": "task",
       "title": "Chassis - Panelling CAD",
       "description": "",
-      "parent": null,
+      "parent": "G23-2",
       "discipline": "mechanical",
       "status": "todo",
       "priority": "medium",
@@ -3609,10 +3609,15 @@
           "at": "2026-11-08T02:26:20.281Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-08T02:26:36.283Z",
+          "by": "m4",
+          "text": "Changed epic from none to G23-2 Mechanical design"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-08T02:26:20.281Z"
+      "updated": "2026-11-08T02:26:36.283Z"
     }
   ]
 }
