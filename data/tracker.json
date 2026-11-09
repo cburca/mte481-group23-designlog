@@ -2175,6 +2175,13 @@
           "hours": 1.5,
           "note": "Spec'd the drivers meant to drive the load of the motors",
           "member": "m3"
+        },
+        {
+          "id": "wmw9n5jsjqtja",
+          "date": "2026-11-09",
+          "hours": 2,
+          "note": "Created schematic with passives meant to drive system. Awaiting more information from mech",
+          "member": "m3"
         }
       ],
       "comments": [],
@@ -2248,10 +2255,15 @@
           "at": "2026-11-09T19:14:12.224Z",
           "by": "m3",
           "text": "Logged 1.5h"
+        },
+        {
+          "at": "2026-11-09T19:15:30.548Z",
+          "by": "m3",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-10-19T00:39:56.420Z",
-      "updated": "2026-11-09T19:14:12.224Z"
+      "updated": "2026-11-09T19:15:30.548Z"
     },
     {
       "id": "G23-43",
