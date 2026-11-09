@@ -3802,7 +3802,7 @@
       "id": "G23-68",
       "type": "task",
       "title": "11/09/26 - Weekly Meeting Minutes",
-      "description": "- Sync on where we are with Spec Derivations (calculations by each subsystem/domain)\n- Start Assembling BOMs\n- See Preliminary CAD (Geffrey & Ryan)\n- ",
+      "description": "- Sync on where we are with Spec Derivations (calculations by each subsystem/domain)\n- See Preliminary CAD (Geffrey & Ryan)\n- Start Assembling BOMs\n",
       "parent": "G23-18",
       "discipline": null,
       "status": "inprogress",
@@ -3827,10 +3827,15 @@
           "at": "2026-11-09T19:39:32.666Z",
           "by": "m1",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-09T20:21:07.787Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T19:39:32.666Z"
+      "updated": "2026-11-09T20:21:07.787Z"
     }
   ]
 }
