@@ -3815,7 +3815,15 @@
       "due": "2026-11-09",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw9ru34uu4d6",
+          "date": "2026-11-09",
+          "hours": 2,
+          "note": "meeting minutes",
+          "member": "m1"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -3832,10 +3840,15 @@
           "at": "2026-11-09T20:21:07.787Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-11-09T21:26:33.822Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T20:21:07.787Z"
+      "updated": "2026-11-09T21:26:33.822Z"
     }
   ]
 }
