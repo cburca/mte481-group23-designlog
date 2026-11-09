@@ -3805,7 +3805,7 @@
       "description": "- Sync on where we are with Spec Derivations (calculations by each subsystem/domain)\n- See Preliminary CAD (Geffrey & Ryan)\n- Start Assembling BOMs\n",
       "parent": "G23-18",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -3845,10 +3845,15 @@
           "at": "2026-11-09T21:26:33.822Z",
           "by": "m1",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-09T21:26:37.977Z",
+          "by": "m1",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T21:26:33.822Z"
+      "updated": "2026-11-09T21:26:37.977Z"
     }
   ]
 }
