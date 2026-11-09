@@ -332,7 +332,15 @@
       "due": "2026-10-09",
       "estimate": 8,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmw9n27xcv33l",
+          "date": "2026-11-02",
+          "hours": 8,
+          "note": "Created spreadsheet, researched parts, total wattage, wired together system, defined system constraints",
+          "member": "m3"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -349,10 +357,15 @@
           "at": "2026-11-09T19:12:19.695Z",
           "by": "m3",
           "text": "Changed estimate from none to 8h"
+        },
+        {
+          "at": "2026-11-09T19:12:55.200Z",
+          "by": "m3",
+          "text": "Logged 8h"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-11-09T19:12:19.695Z",
+      "updated": "2026-11-09T19:12:55.200Z",
       "id": "G23-15",
       "title": "Define electrical requirements and power budget"
     },
