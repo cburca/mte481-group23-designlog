@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 68,
+  "nextId": 69,
   "members": [
     {
       "id": "m1",
@@ -3797,6 +3797,35 @@
       ],
       "created": "2026-11-08T02:27:40.200Z",
       "updated": "2026-11-08T02:31:03.333Z"
+    },
+    {
+      "id": "G23-68",
+      "type": "task",
+      "title": "11/09/26 - Weekly Meeting Minutes",
+      "description": "- Sync on where we are with Spec Derivations (calculations by each subsystem/domain)\n- Start Assembling BOMs\n- See Preliminary CAD (Geffrey & Ryan)\n- ",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": "m1",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-09",
+      "due": "2026-11-09",
+      "estimate": null,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-09T19:39:21.978Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-09T19:39:21.978Z",
+      "updated": "2026-11-09T19:39:21.978Z"
     }
   ]
 }
