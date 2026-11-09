@@ -3822,6 +3822,13 @@
           "hours": 2,
           "note": "meeting minutes",
           "member": "m1"
+        },
+        {
+          "id": "wmw9rubvkgeox",
+          "date": "2026-11-09",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -3850,10 +3857,15 @@
           "at": "2026-11-09T21:26:37.977Z",
           "by": "m1",
           "text": "Changed status from In progress to Done"
+        },
+        {
+          "at": "2026-11-09T21:26:45.153Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T21:26:37.977Z"
+      "updated": "2026-11-09T21:26:45.153Z"
     }
   ]
 }
