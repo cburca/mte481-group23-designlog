@@ -3805,7 +3805,7 @@
       "description": "- Sync on where we are with Spec Derivations (calculations by each subsystem/domain)\n- Start Assembling BOMs\n- See Preliminary CAD (Geffrey & Ryan)\n- ",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
       "owner": "m1",
@@ -3822,10 +3822,15 @@
           "at": "2026-11-09T19:39:21.978Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-09T19:39:32.666Z",
+          "by": "m1",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T19:39:21.978Z"
+      "updated": "2026-11-09T19:39:32.666Z"
     }
   ]
 }
