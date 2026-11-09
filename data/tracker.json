@@ -3435,6 +3435,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m4"
+        },
+        {
+          "id": "wmw9n6tybo68j",
+          "date": "2026-11-09",
+          "hours": 2,
+          "note": "Meeting",
+          "member": "m3"
         }
       ],
       "comments": [],
@@ -3478,10 +3485,15 @@
           "at": "2026-11-03T23:33:35.586Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-09T19:16:30.371Z",
+          "by": "m3",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-02T19:35:38.113Z",
-      "updated": "2026-11-03T23:33:35.586Z"
+      "updated": "2026-11-09T19:16:30.371Z"
     },
     {
       "id": "G23-64",
