@@ -445,7 +445,7 @@
       "approver": null,
       "accepted": null,
       "start": "2026-10-19",
-      "due": "2026-11-13",
+      "due": "2026-11-27",
       "estimate": null,
       "checklist": [],
       "worklog": [],
@@ -485,10 +485,15 @@
           "at": "2026-11-15T23:07:20.198Z",
           "by": "m1",
           "text": "Changed start date from Oct 26, 2026 to Oct 19, 2026"
+        },
+        {
+          "at": "2026-11-15T23:07:23.084Z",
+          "by": "m1",
+          "text": "Changed due date from Nov 13, 2026 to Nov 27, 2026"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-11-15T23:07:20.198Z",
+      "updated": "2026-11-15T23:07:23.084Z",
       "id": "G23-17",
       "title": "Define software architecture"
     },
