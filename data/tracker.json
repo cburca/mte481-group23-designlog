@@ -2732,7 +2732,7 @@
     {
       "id": "G23-49",
       "type": "task",
-      "title": "Early Isolated Hardware Bringup Testing (Realsense, Batteries)",
+      "title": "Early Isolated Hardware Bringup Testing (Realsense, Batteries, SICK TiM551 2D LiDAR)",
       "description": "* Test all realsense cameras\n* Test batteries\n* Jetson Orin Nano Bringup",
       "parent": "G23-5",
       "discipline": null,
@@ -2813,10 +2813,15 @@
           "at": "2026-11-03T03:07:21.965Z",
           "by": "m1",
           "text": "Changed due date from Nov 2, 2026 to Nov 9, 2026"
+        },
+        {
+          "at": "2026-11-15T23:06:39.184Z",
+          "by": "m1",
+          "text": "Changed title from Early Isolated Hardware Bringup Testing (Realsense, Batteries) to Early Isolated Hardware Bringup Testing (Realsense, Batteries, SICK TiM551 2D LiDAR)"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-11-03T03:07:21.965Z"
+      "updated": "2026-11-15T23:06:39.184Z"
     },
     {
       "id": "G23-50",
