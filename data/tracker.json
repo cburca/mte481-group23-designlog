@@ -1847,6 +1847,13 @@
           "hours": 2,
           "note": "motor to wheel assembly 100%",
           "member": "m4"
+        },
+        {
+          "id": "wmwiyj670ouu5",
+          "date": "2026-11-15",
+          "hours": 0.5,
+          "note": "chains",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -1980,10 +1987,15 @@
           "at": "2026-11-16T07:22:52.616Z",
           "by": "m4",
           "text": "Changed status from In progress to Done"
+        },
+        {
+          "at": "2026-11-16T07:43:57.468Z",
+          "by": "m4",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-16T07:22:52.616Z"
+      "updated": "2026-11-16T07:43:57.468Z"
     },
     {
       "id": "G23-39",
