@@ -2026,6 +2026,13 @@
           "hours": 4,
           "note": "framing 80%",
           "member": "m4"
+        },
+        {
+          "id": "wmwiykep8gvgd",
+          "date": "2026-11-16",
+          "hours": 0.5,
+          "note": "framing 90%",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -2129,10 +2136,15 @@
           "at": "2026-11-08T03:47:33.111Z",
           "by": "m4",
           "text": "Logged 4h"
+        },
+        {
+          "at": "2026-11-16T07:44:55.148Z",
+          "by": "m4",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-08T03:47:33.111Z"
+      "updated": "2026-11-16T07:44:55.148Z"
     },
     {
       "id": "G23-40",
