@@ -2026,6 +2026,13 @@
           "hours": 4,
           "note": "framing 80%",
           "member": "m4"
+        },
+        {
+          "id": "wmwiykxnmpzbe",
+          "date": "2026-11-15",
+          "hours": 0.5,
+          "note": "framing 90%",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -2139,10 +2146,15 @@
           "at": "2026-11-16T07:45:08.672Z",
           "by": "m4",
           "text": "Deleted a 0.5h time entry"
+        },
+        {
+          "at": "2026-11-16T07:45:19.714Z",
+          "by": "m4",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-19T00:27:46.344Z",
-      "updated": "2026-11-16T07:45:08.672Z"
+      "updated": "2026-11-16T07:45:19.714Z"
     },
     {
       "id": "G23-40",
