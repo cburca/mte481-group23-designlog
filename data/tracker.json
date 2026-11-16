@@ -3810,13 +3810,6 @@
       "checklist": [],
       "worklog": [
         {
-          "id": "wmwiyhtx9pa6e",
-          "date": "2026-11-16",
-          "hours": 2,
-          "note": "motor guard + chains",
-          "member": "m4"
-        },
-        {
           "id": "wmwiyi6d50ugh",
           "date": "2026-11-16",
           "hours": 1.5,
@@ -3887,10 +3880,15 @@
           "at": "2026-11-16T07:43:27.055Z",
           "by": "m4",
           "text": "Logged 1.5h"
+        },
+        {
+          "at": "2026-11-16T07:43:29.517Z",
+          "by": "m4",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-16T07:43:27.055Z"
+      "updated": "2026-11-16T07:43:29.517Z"
     },
     {
       "id": "G23-67",
