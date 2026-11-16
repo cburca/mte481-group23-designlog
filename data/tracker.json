@@ -4057,7 +4057,7 @@
       "description": "- Finalize salt motor this week\n- Chris and Zain to make embedded and software architectures\n- Source wheels (former ones are out of stock)",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -4074,10 +4074,15 @@
           "at": "2026-11-16T20:02:51.729Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-16T20:02:57.057Z",
+          "by": "m1",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-16T20:02:51.729Z"
+      "updated": "2026-11-16T20:02:57.057Z"
     }
   ]
 }
