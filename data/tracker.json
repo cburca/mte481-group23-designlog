@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 69,
+  "nextId": 70,
   "members": [
     {
       "id": "m1",
@@ -4049,6 +4049,35 @@
       ],
       "created": "2026-11-09T19:39:21.978Z",
       "updated": "2026-11-09T21:26:45.153Z"
+    },
+    {
+      "id": "G23-69",
+      "type": "task",
+      "title": "11/16/26 - Meeting Minutes",
+      "description": "- Finalize salt motor this week\n- Chris and Zain to make embedded and software architectures\n- Source wheels (former ones are out of stock)",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m1",
+      "owner": null,
+      "approver": null,
+      "accepted": null,
+      "start": null,
+      "due": null,
+      "estimate": 2,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-16T20:02:51.729Z",
+          "by": "m1",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-16T20:02:51.729Z",
+      "updated": "2026-11-16T20:02:51.729Z"
     }
   ]
 }
