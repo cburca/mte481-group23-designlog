@@ -449,7 +449,14 @@
       "estimate": null,
       "checklist": [],
       "worklog": [],
-      "comments": [],
+      "comments": [
+        {
+          "id": "kmwistlivat0b",
+          "at": "2026-11-16T05:04:06.199Z",
+          "body": "To-do:\n- Feasibility test of cuVSLAM\n- Begin Odometry fusion (encoders + IMU)\n- Plan nested autonomy approach, filters & controllers",
+          "author": "m1"
+        }
+      ],
       "history": [
         {
           "at": "2026-09-25T12:00:00.000Z",
@@ -490,10 +497,15 @@
           "at": "2026-11-15T23:07:23.084Z",
           "by": "m1",
           "text": "Changed due date from Nov 13, 2026 to Nov 27, 2026"
+        },
+        {
+          "at": "2026-11-16T05:04:06.199Z",
+          "by": "m1",
+          "text": "Commented"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-11-15T23:07:23.084Z",
+      "updated": "2026-11-16T05:04:06.199Z",
       "id": "G23-17",
       "title": "Define software architecture"
     },
