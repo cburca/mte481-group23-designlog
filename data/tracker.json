@@ -2779,7 +2779,14 @@
           "member": "m1"
         }
       ],
-      "comments": [],
+      "comments": [
+        {
+          "id": "kmwiss0dhts6p",
+          "at": "2026-11-16T05:02:52.133Z",
+          "body": "To-Do:\n- Test out batteries and see if we can use an inventus one",
+          "author": "m1"
+        }
+      ],
       "history": [
         {
           "at": "2026-10-19T00:57:21.132Z",
@@ -2855,10 +2862,15 @@
           "at": "2026-11-16T05:01:38.052Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-11-16T05:02:52.133Z",
+          "by": "m1",
+          "text": "Commented"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-11-16T05:01:38.052Z"
+      "updated": "2026-11-16T05:02:52.133Z"
     },
     {
       "id": "G23-50",
