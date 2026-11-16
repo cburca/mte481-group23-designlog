@@ -3808,7 +3808,15 @@
       "due": "2026-11-30",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmwixsys1oz06",
+          "date": "2026-11-15",
+          "hours": 1.5,
+          "note": "motor guard",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -3840,10 +3848,15 @@
           "at": "2026-11-16T07:23:07.568Z",
           "by": "m4",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-16T07:23:34.801Z",
+          "by": "m4",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-16T07:23:07.568Z"
+      "updated": "2026-11-16T07:23:34.801Z"
     },
     {
       "id": "G23-67",
