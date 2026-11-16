@@ -3798,7 +3798,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -3835,10 +3835,15 @@
           "at": "2026-11-08T02:30:36.115Z",
           "by": "m4",
           "text": "Changed due date from none to Nov 30, 2026"
+        },
+        {
+          "at": "2026-11-16T07:23:07.568Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-08T02:30:36.115Z"
+      "updated": "2026-11-16T07:23:07.568Z"
     },
     {
       "id": "G23-67",
