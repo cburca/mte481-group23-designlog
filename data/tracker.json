@@ -3832,6 +3832,13 @@
           "hours": 1.5,
           "note": "motor guard",
           "member": "m4"
+        },
+        {
+          "id": "wmwiyk2d6i6il",
+          "date": "2026-11-15",
+          "hours": 1,
+          "note": "motor guard",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -3900,10 +3907,15 @@
           "at": "2026-11-16T07:43:31.517Z",
           "by": "m4",
           "text": "Deleted a 1.5h time entry"
+        },
+        {
+          "at": "2026-11-16T07:44:39.162Z",
+          "by": "m4",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-11-08T02:26:20.281Z",
-      "updated": "2026-11-16T07:43:31.517Z"
+      "updated": "2026-11-16T07:44:39.162Z"
     },
     {
       "id": "G23-67",
