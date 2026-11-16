@@ -1831,7 +1831,7 @@
       "accepted": null,
       "start": "2026-11-02",
       "due": "2026-11-16",
-      "estimate": 10,
+      "estimate": 5,
       "checklist": [],
       "worklog": [
         {
@@ -1992,10 +1992,15 @@
           "at": "2026-11-16T07:43:57.468Z",
           "by": "m4",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-11-16T07:44:04.288Z",
+          "by": "m4",
+          "text": "Changed estimate from 10h to 5h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-16T07:43:57.468Z"
+      "updated": "2026-11-16T07:44:04.288Z"
     },
     {
       "id": "G23-39",
