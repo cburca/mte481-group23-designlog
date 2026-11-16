@@ -207,7 +207,7 @@
     },
     {
       "type": "epic",
-      "description": "",
+      "description": "Debug Notes (for HW bringup + software testing) -> https://docs.google.com/document/d/1g1L28T55r6kFBig54bnmPDshWSyVBhyg31lHauFqjuk/edit?tab=t.0#heading=h.61uwrro3bk5e ",
       "parent": null,
       "discipline": "software",
       "status": "todo",
@@ -227,10 +227,15 @@
           "at": "2026-09-25T12:00:00.000Z",
           "by": "m1",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-16T05:05:06.111Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-09-25T12:00:00.000Z",
+      "updated": "2026-11-16T05:05:06.111Z",
       "id": "G23-5",
       "title": "Software"
     },
