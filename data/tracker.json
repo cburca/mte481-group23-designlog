@@ -440,7 +440,7 @@
     },
     {
       "type": "task",
-      "description": "",
+      "description": "- Feasibility test of cuVSLAM\n- Begin Odometry fusion (encoders + IMU)\n- Plan nested autonomy approach, filters & controllers\n- Vehicle Dashboard (Claude-generated one)",
       "parent": "G23-5",
       "discipline": null,
       "status": "todo",
@@ -507,10 +507,15 @@
           "at": "2026-11-16T05:04:06.199Z",
           "by": "m1",
           "text": "Commented"
+        },
+        {
+          "at": "2026-11-16T05:06:08.890Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-09-25T12:00:00.000Z",
-      "updated": "2026-11-16T05:04:06.199Z",
+      "updated": "2026-11-16T05:06:08.890Z",
       "id": "G23-17",
       "title": "Define software architecture"
     },
