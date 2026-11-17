@@ -3994,7 +3994,7 @@
       "owner": "m1",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-09",
+      "start": null,
       "due": "2026-11-09",
       "estimate": null,
       "checklist": [],
@@ -4045,10 +4045,15 @@
           "at": "2026-11-09T21:26:45.153Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-17T13:24:39.117Z",
+          "by": "m1",
+          "text": "Changed start date from Nov 9, 2026 to none"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-09T21:26:45.153Z"
+      "updated": "2026-11-17T13:24:39.117Z"
     },
     {
       "id": "G23-69",
