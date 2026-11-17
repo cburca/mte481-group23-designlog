@@ -4067,7 +4067,7 @@
       "description": "- Finalize salt motor this week\n- Chris and Zain to make embedded and software architectures\n- Source wheels (former ones are out of stock)\n- Chris to validate batteries\nExplored scanning the hopper using phone or a realsense",
       "parent": "G23-18",
       "discipline": null,
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m1",
       "owner": null,
@@ -4112,10 +4112,15 @@
           "at": "2026-11-17T13:25:17.255Z",
           "by": "m1",
           "text": "Edited the description"
+        },
+        {
+          "at": "2026-11-17T13:25:24.605Z",
+          "by": "m1",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-17T13:25:17.255Z"
+      "updated": "2026-11-17T13:25:24.605Z"
     }
   ]
 }
