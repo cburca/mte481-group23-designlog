@@ -3995,7 +3995,7 @@
       "approver": null,
       "accepted": null,
       "start": null,
-      "due": "2026-11-09",
+      "due": null,
       "estimate": null,
       "checklist": [],
       "worklog": [
@@ -4050,10 +4050,15 @@
           "at": "2026-11-17T13:24:39.117Z",
           "by": "m1",
           "text": "Changed start date from Nov 9, 2026 to none"
+        },
+        {
+          "at": "2026-11-17T13:24:42.590Z",
+          "by": "m1",
+          "text": "Changed due date from Nov 9, 2026 to none"
         }
       ],
       "created": "2026-11-09T19:39:21.978Z",
-      "updated": "2026-11-17T13:24:39.117Z"
+      "updated": "2026-11-17T13:24:42.590Z"
     },
     {
       "id": "G23-69",
