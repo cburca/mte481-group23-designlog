@@ -3739,6 +3739,13 @@
           "hours": 1,
           "note": "Got first current readings at 85 rpms",
           "member": "m2"
+        },
+        {
+          "id": "wmwmn4wwswmrp",
+          "date": "2026-11-15",
+          "hours": 0.5,
+          "note": "Designed spool for motor characterization",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3812,10 +3819,15 @@
           "at": "2026-11-18T21:35:02.587Z",
           "by": "m2",
           "text": "Logged 1h"
+        },
+        {
+          "at": "2026-11-18T21:36:01.180Z",
+          "by": "m2",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:35:02.587Z"
+      "updated": "2026-11-18T21:36:01.180Z"
     },
     {
       "id": "G23-65",
