@@ -3753,6 +3753,13 @@
           "hours": 0.25,
           "note": "Gate opening torque requirement",
           "member": "m2"
+        },
+        {
+          "id": "wmwmnb6h4uf89",
+          "date": "2026-11-17",
+          "hours": 1.5,
+          "note": "Torque readings at different speeds & analysis",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3846,10 +3853,15 @@
           "at": "2026-11-18T21:40:28.729Z",
           "by": "m2",
           "text": "Deleted a 1h time entry"
+        },
+        {
+          "at": "2026-11-18T21:40:53.512Z",
+          "by": "m2",
+          "text": "Logged 1.5h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:40:28.729Z"
+      "updated": "2026-11-18T21:40:53.512Z"
     },
     {
       "id": "G23-65",
