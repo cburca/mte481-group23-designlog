@@ -3748,13 +3748,6 @@
           "member": "m2"
         },
         {
-          "id": "wmwmna4nusxdv",
-          "date": "2026-11-17",
-          "hours": 1,
-          "note": "Torque readings at different speeds",
-          "member": "m2"
-        },
-        {
           "id": "wmwmnai42t1x1",
           "date": "2026-11-17",
           "hours": 0.25,
@@ -3848,10 +3841,15 @@
           "at": "2026-11-18T21:40:21.938Z",
           "by": "m2",
           "text": "Logged 0.25h"
+        },
+        {
+          "at": "2026-11-18T21:40:28.729Z",
+          "by": "m2",
+          "text": "Deleted a 1h time entry"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:40:21.938Z"
+      "updated": "2026-11-18T21:40:28.729Z"
     },
     {
       "id": "G23-65",
