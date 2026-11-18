@@ -3746,6 +3746,13 @@
           "hours": 0.5,
           "note": "Designed spool for motor characterization",
           "member": "m2"
+        },
+        {
+          "id": "wmwmna4nusxdv",
+          "date": "2026-11-17",
+          "hours": 1,
+          "note": "Torque readings at different speeds",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3824,10 +3831,15 @@
           "at": "2026-11-18T21:36:01.180Z",
           "by": "m2",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-11-18T21:40:04.506Z",
+          "by": "m2",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:36:01.180Z"
+      "updated": "2026-11-18T21:40:04.506Z"
     },
     {
       "id": "G23-65",
