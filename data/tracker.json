@@ -1854,6 +1854,13 @@
           "hours": 0.5,
           "note": "chains",
           "member": "m4"
+        },
+        {
+          "id": "wmwloteegsg9j",
+          "date": "2026-11-18",
+          "hours": 0.5,
+          "note": "chain guards",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -2002,10 +2009,15 @@
           "at": "2026-11-18T05:34:47.899Z",
           "by": "m4",
           "text": "Changed status from Done to In progress"
+        },
+        {
+          "at": "2026-11-18T05:35:17.032Z",
+          "by": "m4",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-18T05:34:47.899Z"
+      "updated": "2026-11-18T05:35:17.032Z"
     },
     {
       "id": "G23-39",
