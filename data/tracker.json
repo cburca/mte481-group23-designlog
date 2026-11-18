@@ -4118,6 +4118,13 @@
           "hours": 2,
           "note": "Meeting Mins",
           "member": "m1"
+        },
+        {
+          "id": "wmwlp436ycwq6",
+          "date": "2026-11-18",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m4"
         }
       ],
       "comments": [],
@@ -4151,10 +4158,15 @@
           "at": "2026-11-17T13:25:24.605Z",
           "by": "m1",
           "text": "Changed status from In progress to Done"
+        },
+        {
+          "at": "2026-11-18T05:43:35.723Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-17T13:25:24.605Z"
+      "updated": "2026-11-18T05:43:35.723Z"
     }
   ]
 }
