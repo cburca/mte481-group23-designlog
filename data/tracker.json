@@ -3725,6 +3725,13 @@
           "hours": 1,
           "note": "Salt Torque Test Setup and First Attemot",
           "member": "m2"
+        },
+        {
+          "id": "wmwmn2opiofxp",
+          "date": "2026-11-10",
+          "hours": 0.5,
+          "note": "Designed new input shaft to bypass bevel gears",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3788,10 +3795,15 @@
           "at": "2026-11-18T21:33:56.900Z",
           "by": "m2",
           "text": "Logged 1h"
+        },
+        {
+          "at": "2026-11-18T21:34:17.238Z",
+          "by": "m2",
+          "text": "Logged 0.5h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:33:56.900Z"
+      "updated": "2026-11-18T21:34:17.238Z"
     },
     {
       "id": "G23-65",
