@@ -3732,6 +3732,13 @@
           "hours": 0.5,
           "note": "Designed new input shaft to bypass bevel gears",
           "member": "m2"
+        },
+        {
+          "id": "wmwmn3np7od2t",
+          "date": "2026-11-11",
+          "hours": 1,
+          "note": "Got first current readings at 85 rpms",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3800,10 +3807,15 @@
           "at": "2026-11-18T21:34:17.238Z",
           "by": "m2",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-11-18T21:35:02.587Z",
+          "by": "m2",
+          "text": "Logged 1h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:34:17.238Z"
+      "updated": "2026-11-18T21:35:02.587Z"
     },
     {
       "id": "G23-65",
