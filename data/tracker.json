@@ -4118,13 +4118,6 @@
           "hours": 2,
           "note": "Meeting Mins",
           "member": "m1"
-        },
-        {
-          "id": "wmwlp436ycwq6",
-          "date": "2026-11-18",
-          "hours": 2,
-          "note": "Meeting Minutes",
-          "member": "m4"
         }
       ],
       "comments": [],
@@ -4163,10 +4156,15 @@
           "at": "2026-11-18T05:43:35.723Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-18T05:43:40.958Z",
+          "by": "m4",
+          "text": "Deleted a 2h time entry"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-18T05:43:35.723Z"
+      "updated": "2026-11-18T05:43:40.958Z"
     }
   ]
 }
