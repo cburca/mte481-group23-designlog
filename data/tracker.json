@@ -1823,7 +1823,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": "mechanical",
-      "status": "inprogress",
+      "status": "done",
       "priority": "medium",
       "reporter": "m2",
       "owner": "m4",
@@ -2014,10 +2014,15 @@
           "at": "2026-11-18T05:35:17.032Z",
           "by": "m4",
           "text": "Logged 0.5h"
+        },
+        {
+          "at": "2026-11-18T05:35:25.682Z",
+          "by": "m4",
+          "text": "Changed status from In progress to Done"
         }
       ],
       "created": "2026-10-19T00:26:47.255Z",
-      "updated": "2026-11-18T05:35:17.032Z"
+      "updated": "2026-11-18T05:35:25.682Z"
     },
     {
       "id": "G23-39",
