@@ -4229,6 +4229,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m4"
+        },
+        {
+          "id": "wmwmnbtju8q7k",
+          "date": "2026-11-16",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -4282,10 +4289,15 @@
           "at": "2026-11-18T05:43:54.654Z",
           "by": "m4",
           "text": "Changed estimate from 2h to 8h"
+        },
+        {
+          "at": "2026-11-18T21:41:23.418Z",
+          "by": "m2",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-18T05:43:54.654Z"
+      "updated": "2026-11-18T21:41:23.418Z"
     }
   ]
 }
