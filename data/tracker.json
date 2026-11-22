@@ -2212,7 +2212,15 @@
       "due": "2026-11-16",
       "estimate": 10,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmwrwr0a63ftr",
+          "date": "2026-11-20",
+          "hours": 4,
+          "note": "Modelled purchased broadcast spreader",
+          "member": "m2"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -2259,10 +2267,15 @@
           "at": "2026-11-18T21:31:57.619Z",
           "by": "m2",
           "text": "Changed status from To do to In progress"
+        },
+        {
+          "at": "2026-11-22T14:03:59.406Z",
+          "by": "m2",
+          "text": "Logged 4h"
         }
       ],
       "created": "2026-10-19T00:29:18.599Z",
-      "updated": "2026-11-18T21:31:57.619Z"
+      "updated": "2026-11-22T14:03:59.406Z"
     },
     {
       "id": "G23-41",
