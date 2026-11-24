@@ -4353,7 +4353,7 @@
       "id": "G23-70",
       "type": "task",
       "title": "11/23/26 Meeting Minutes",
-      "description": "- reviewed CAD\n- CAD next steps:\nRyan: modular design of salt dispensing system\nGeffrey: Continue on chassis, adding hardware, update BOM\n- Zain: Full hardware list",
+      "description": "- reviewed CAD\n- CAD next steps:\nRyan: modular design of salt dispensing system\nGeffrey: Continue on chassis, adding hardware, update BOM\nZain: Full hardware list",
       "parent": "G23-18",
       "discipline": null,
       "status": "done",
@@ -4396,10 +4396,15 @@
           "at": "2026-11-24T01:39:19.897Z",
           "by": "m4",
           "text": "Changed title from Meeting Minutes to 11/23/26 Meeting Minutes"
+        },
+        {
+          "at": "2026-11-24T01:39:50.196Z",
+          "by": "m4",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-11-24T01:38:44.810Z",
-      "updated": "2026-11-24T01:39:19.897Z"
+      "updated": "2026-11-24T01:39:50.196Z"
     }
   ]
 }
