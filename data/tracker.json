@@ -4132,7 +4132,15 @@
       "due": "2026-11-23",
       "estimate": null,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmwu13i3ttfko",
+          "date": "2026-11-23",
+          "hours": 2,
+          "note": "battery, triton, LIDAR",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
@@ -4164,10 +4172,15 @@
           "at": "2026-11-24T01:40:32.925Z",
           "by": "m4",
           "text": "Changed title from Interior CAD to Chassis - Interior CAD"
+        },
+        {
+          "at": "2026-11-24T01:41:13.193Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-08T02:27:40.200Z",
-      "updated": "2026-11-24T01:40:32.925Z"
+      "updated": "2026-11-24T01:41:13.193Z"
     },
     {
       "id": "G23-68",
