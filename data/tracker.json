@@ -3795,6 +3795,13 @@
           "hours": 1.5,
           "note": "Torque readings at different speeds & analysis",
           "member": "m2"
+        },
+        {
+          "id": "wmwu1etzpqqh6",
+          "date": "2026-11-22",
+          "hours": 2.5,
+          "note": "Sourced spinner motor and gate servo, evaluated transmission options for both",
+          "member": "m2"
         }
       ],
       "comments": [],
@@ -3893,10 +3900,15 @@
           "at": "2026-11-18T21:40:53.512Z",
           "by": "m2",
           "text": "Logged 1.5h"
+        },
+        {
+          "at": "2026-11-24T01:50:01.813Z",
+          "by": "m2",
+          "text": "Logged 2.5h"
         }
       ],
       "created": "2026-11-02T20:02:47.686Z",
-      "updated": "2026-11-18T21:40:53.512Z"
+      "updated": "2026-11-24T01:50:01.813Z"
     },
     {
       "id": "G23-65",
