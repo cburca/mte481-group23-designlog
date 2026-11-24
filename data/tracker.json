@@ -4117,7 +4117,7 @@
       "description": "",
       "parent": "G23-2",
       "discipline": null,
-      "status": "todo",
+      "status": "inprogress",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -4149,10 +4149,15 @@
           "at": "2026-11-08T02:31:03.333Z",
           "by": "m4",
           "text": "Changed due date from none to Nov 23, 2026"
+        },
+        {
+          "at": "2026-11-24T01:31:25.647Z",
+          "by": "m4",
+          "text": "Changed status from To do to In progress"
         }
       ],
       "created": "2026-11-08T02:27:40.200Z",
-      "updated": "2026-11-08T02:31:03.333Z"
+      "updated": "2026-11-24T01:31:25.647Z"
     },
     {
       "id": "G23-68",
