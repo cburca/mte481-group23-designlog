@@ -4,7 +4,7 @@
     "key": "G23",
     "name": "MTE 481 · Group 23"
   },
-  "nextId": 70,
+  "nextId": 71,
   "members": [
     {
       "id": "m1",
@@ -4348,6 +4348,35 @@
       ],
       "created": "2026-11-16T20:02:51.729Z",
       "updated": "2026-11-24T01:36:31.392Z"
+    },
+    {
+      "id": "G23-70",
+      "type": "task",
+      "title": "Meeting Minutes",
+      "description": "- reviewed CAD\n- CAD next steps:\nRyan: modular design of salt dispensing system\nGeffrey: Continue on chassis, adding hardware, update BOM\n- Zain: Full hardware list",
+      "parent": "G23-18",
+      "discipline": null,
+      "status": "todo",
+      "priority": "medium",
+      "reporter": "m4",
+      "owner": "m4",
+      "approver": null,
+      "accepted": null,
+      "start": "2026-11-23",
+      "due": null,
+      "estimate": 8,
+      "checklist": [],
+      "worklog": [],
+      "comments": [],
+      "history": [
+        {
+          "at": "2026-11-24T01:38:44.810Z",
+          "by": "m4",
+          "text": "Created ticket"
+        }
+      ],
+      "created": "2026-11-24T01:38:44.810Z",
+      "updated": "2026-11-24T01:38:44.810Z"
     }
   ]
 }
