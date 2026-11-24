@@ -4356,7 +4356,7 @@
       "description": "- reviewed CAD\n- CAD next steps:\nRyan: modular design of salt dispensing system\nGeffrey: Continue on chassis, adding hardware, update BOM\n- Zain: Full hardware list",
       "parent": "G23-18",
       "discipline": null,
-      "status": "todo",
+      "status": "done",
       "priority": "medium",
       "reporter": "m4",
       "owner": "m4",
@@ -4386,10 +4386,15 @@
           "at": "2026-11-24T01:38:54.104Z",
           "by": "m4",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-24T01:39:05.987Z",
+          "by": "m4",
+          "text": "Changed status from To do to Done"
         }
       ],
       "created": "2026-11-24T01:38:44.810Z",
-      "updated": "2026-11-24T01:38:54.104Z"
+      "updated": "2026-11-24T01:39:05.987Z"
     }
   ]
 }
