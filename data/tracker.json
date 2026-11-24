@@ -4366,17 +4366,30 @@
       "due": null,
       "estimate": 8,
       "checklist": [],
-      "worklog": [],
+      "worklog": [
+        {
+          "id": "wmwu10is88uff",
+          "date": "2026-11-23",
+          "hours": 2,
+          "note": "Meeting Minutes",
+          "member": "m4"
+        }
+      ],
       "comments": [],
       "history": [
         {
           "at": "2026-11-24T01:38:44.810Z",
           "by": "m4",
           "text": "Created ticket"
+        },
+        {
+          "at": "2026-11-24T01:38:54.104Z",
+          "by": "m4",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-24T01:38:44.810Z",
-      "updated": "2026-11-24T01:38:44.810Z"
+      "updated": "2026-11-24T01:38:54.104Z"
     }
   ]
 }
