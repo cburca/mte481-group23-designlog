@@ -2213,7 +2213,7 @@
       "owner": "m2",
       "approver": null,
       "accepted": null,
-      "start": "2026-11-02",
+      "start": "2026-11-20",
       "due": "2026-11-28",
       "estimate": 10,
       "checklist": [],
@@ -2282,10 +2282,15 @@
           "at": "2026-11-24T01:50:31.944Z",
           "by": "m2",
           "text": "Changed due date from Nov 16, 2026 to Nov 28, 2026"
+        },
+        {
+          "at": "2026-11-24T01:50:38.589Z",
+          "by": "m2",
+          "text": "Changed start date from Nov 2, 2026 to Nov 20, 2026"
         }
       ],
       "created": "2026-10-19T00:29:18.599Z",
-      "updated": "2026-11-24T01:50:31.944Z"
+      "updated": "2026-11-24T01:50:38.589Z"
     },
     {
       "id": "G23-41",
