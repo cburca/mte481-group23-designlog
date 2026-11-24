@@ -4253,7 +4253,7 @@
       "status": "done",
       "priority": "medium",
       "reporter": "m1",
-      "owner": null,
+      "owner": "m1",
       "approver": null,
       "accepted": null,
       "start": null,
@@ -4339,10 +4339,15 @@
           "at": "2026-11-18T21:41:23.418Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-24T01:36:31.392Z",
+          "by": "m4",
+          "text": "Changed owner from none to Chris Burca"
         }
       ],
       "created": "2026-11-16T20:02:51.729Z",
-      "updated": "2026-11-18T21:41:23.418Z"
+      "updated": "2026-11-24T01:36:31.392Z"
     }
   ]
 }
