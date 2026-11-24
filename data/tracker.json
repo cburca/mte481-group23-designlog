@@ -4447,6 +4447,13 @@
           "hours": 2,
           "note": "Meeting Minutes",
           "member": "m2"
+        },
+        {
+          "id": "wmwv8sl9lc9qi",
+          "date": "2026-11-23",
+          "hours": 2,
+          "note": "Meeting minutes",
+          "member": "m1"
         }
       ],
       "comments": [],
@@ -4480,10 +4487,15 @@
           "at": "2026-11-24T01:48:12.261Z",
           "by": "m2",
           "text": "Logged 2h"
+        },
+        {
+          "at": "2026-11-24T22:04:27.177Z",
+          "by": "m1",
+          "text": "Logged 2h"
         }
       ],
       "created": "2026-11-24T01:38:44.810Z",
-      "updated": "2026-11-24T01:48:12.261Z"
+      "updated": "2026-11-24T22:04:27.177Z"
     }
   ]
 }
