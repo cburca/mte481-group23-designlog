@@ -2881,7 +2881,7 @@
       "id": "G23-49",
       "type": "task",
       "title": "Isolated Hardware Bringup Testing (Realsense, Batteries, SICK TiM551 2D LiDAR, Drive Motors)",
-      "description": "* Test all realsense cameras - DONE\n* Test batteries - DONE (NECs dead, Inventus batteries faulty)\n* Test 2D Lidar (SICK TIM 551) - DONE\n* Jetson Orin Nano Bringup - DONE",
+      "description": "* Test all realsense cameras - DONE\n* Test batteries - DONE (NECs dead, Inventus batteries faulty)\n* Test 2D Lidar (SICK TIM 551) - DONE\n* Jetson Orin Nano Bringup - DONE\n* Test if drive motor encoders are healthy",
       "parent": "G23-5",
       "discipline": null,
       "status": "inprogress",
@@ -3059,10 +3059,15 @@
           "at": "2026-11-28T02:19:05.149Z",
           "by": "m1",
           "text": "Changed title from Isolated Hardware Bringup Testing (Realsense, Batteries, SICK TiM551 2D LiDAR, Drive Motor Encoder) to Isolated Hardware Bringup Testing (Realsense, Batteries, SICK TiM551 2D LiDAR, Drive Motors)"
+        },
+        {
+          "at": "2026-11-28T02:19:17.502Z",
+          "by": "m1",
+          "text": "Edited the description"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-11-28T02:19:05.149Z"
+      "updated": "2026-11-28T02:19:17.502Z"
     },
     {
       "id": "G23-50",
