@@ -2915,6 +2915,13 @@
           "hours": 4,
           "note": "All three real senses validated w/rtabmap, 2d Lidar tested & validated, drive motors no-load current draw characterized.",
           "member": "m1"
+        },
+        {
+          "id": "wmwzs3jsdndvw",
+          "date": "2026-11-27",
+          "hours": 6,
+          "note": "Battery testing & bringup",
+          "member": "m1"
         }
       ],
       "comments": [
@@ -3016,10 +3023,15 @@
           "at": "2026-11-24T22:06:27.772Z",
           "by": "m1",
           "text": "Commented"
+        },
+        {
+          "at": "2026-11-28T02:15:55.885Z",
+          "by": "m1",
+          "text": "Logged 6h"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-11-24T22:06:27.772Z"
+      "updated": "2026-11-28T02:15:55.885Z"
     },
     {
       "id": "G23-50",
