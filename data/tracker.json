@@ -2936,6 +2936,12 @@
           "at": "2026-11-24T22:06:27.772Z",
           "body": "Having issues with inventus batteries: emailed manufacturer for next steps while also trying to get NEC battery(s) working, though no luck for 2/5 batteries so far.",
           "author": "m1"
+        },
+        {
+          "id": "kmwzs68avy28v",
+          "at": "2026-11-28T02:18:00.967Z",
+          "body": "NEC batteries all undervolted, Invents batteries both unable to switch terminals to full cell voltage. Confirmed w/CAN analyzer tool that both batteries are faultless and healthy. Last resort is to follow up with manufacturer email, or buy new one. Found marketplace listing for same model for $150.",
+          "author": "m1"
         }
       ],
       "history": [
@@ -3028,10 +3034,15 @@
           "at": "2026-11-28T02:15:55.885Z",
           "by": "m1",
           "text": "Logged 6h"
+        },
+        {
+          "at": "2026-11-28T02:18:00.967Z",
+          "by": "m1",
+          "text": "Commented"
         }
       ],
       "created": "2026-10-19T00:57:21.132Z",
-      "updated": "2026-11-28T02:15:55.885Z"
+      "updated": "2026-11-28T02:18:00.967Z"
     },
     {
       "id": "G23-50",
